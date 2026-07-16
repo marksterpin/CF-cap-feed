@@ -1,0 +1,516 @@
+[
+  {
+    "lender": "Arab Bank Australia Limited",
+    "product": "Commercial Loans - Revolving Line of Credit",
+    "type": "unsecured_term",
+    "rate": 11.75,
+    "feeFlat": 250,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 500000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "COMLOC01",
+    "lastUpdated": "2026-05-18T23:19:33.114Z"
+  },
+  {
+    "lender": "Arab Bank Australia Limited",
+    "product": "Commercial Loans - Prime Lending",
+    "type": "unsecured_term",
+    "rate": 16.1,
+    "feeFlat": 250,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 25000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "COMMLOAN01",
+    "lastUpdated": "2026-05-18T23:19:10.395Z"
+  },
+  {
+    "lender": "Arab Bank Australia Limited",
+    "product": "Business Overdraft",
+    "type": "overdraft",
+    "rate": 17.65,
+    "feeFlat": 850,
+    "feePct": 0,
+    "feeMo": 6,
+    "min": 10000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "BUSOD01",
+    "lastUpdated": "2026-05-18T23:19:59.052Z"
+  },
+  {
+    "lender": "BNK Bank (Goldfields Money/BCHL)",
+    "product": "Commercial SMSF Loan",
+    "type": "unsecured_term",
+    "rate": 7.54,
+    "feeFlat": 350,
+    "feePct": 0,
+    "feeMo": 395,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "3004",
+    "lastUpdated": "2026-05-10T20:05:01.021902Z"
+  },
+  {
+    "lender": "BNK Bank (Goldfields Money/BCHL)",
+    "product": "Commercial Lease Doc",
+    "type": "unsecured_term",
+    "rate": 7.99,
+    "feeFlat": 375,
+    "feePct": 0,
+    "feeMo": 395,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "3003",
+    "lastUpdated": "2026-05-10T20:05:00.882219Z"
+  },
+  {
+    "lender": "BNK Bank (Goldfields Money/BCHL)",
+    "product": "Commercial Term Loan",
+    "type": "unsecured_term",
+    "rate": 7.99,
+    "feeFlat": 375,
+    "feePct": 0,
+    "feeMo": 395,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "2003",
+    "lastUpdated": "2026-05-10T20:05:00.614706Z"
+  },
+  {
+    "lender": "BNK Bank (Goldfields Money/BCHL)",
+    "product": "Commercial Alt Doc",
+    "type": "unsecured_term",
+    "rate": 8.09,
+    "feeFlat": 375,
+    "feePct": 0,
+    "feeMo": 395,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "3002",
+    "lastUpdated": "2026-05-10T20:05:00.737835Z"
+  },
+  {
+    "lender": "FF PM Production",
+    "product": "Overdrafts",
+    "type": "overdraft",
+    "rate": 14.5,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "bcbd63aa-5324-49be-a1a7-aae567b33989",
+    "lastUpdated": "2026-02-15T01:06:32.483702Z"
+  },
+  {
+    "lender": "Judo Bank",
+    "product": "Judo Business Loan",
+    "type": "unsecured_term",
+    "rate": 4.97,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 25,
+    "min": 250000,
+    "max": 20000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "2c1264ed-b5de-44d4-b49f-23f8eadc21d4",
+    "lastUpdated": "2026-05-03T23:47:32.074309Z"
+  },
+  {
+    "lender": "Judo Bank",
+    "product": "Judo Line of Credit",
+    "type": "line_of_credit",
+    "rate": 4.97,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 250000,
+    "max": 20000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "b716f687-d420-43cc-827b-e2b64a4313d6",
+    "lastUpdated": "2026-05-03T23:47:32.074315Z"
+  },
+  {
+    "lender": "Regional Australia Bank",
+    "product": "Commercial Overdraft",
+    "type": "unsecured_term",
+    "rate": 0,
+    "feeFlat": 200,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 500,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "09c56907-af9d-4569-a37b-bdae44307a4c",
+    "lastUpdated": "2026-06-29T05:18:39.730898Z"
+  },
+  {
+    "lender": "Regional Australia Bank",
+    "product": "Business Line of Credit",
+    "type": "unsecured_term",
+    "rate": 0,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 500,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "b51c18ab-6882-48d8-927a-d1e2423121c2",
+    "lastUpdated": "2026-06-29T04:15:36.960801Z"
+  },
+  {
+    "lender": "Regional Australia Bank",
+    "product": "Mortgage Secured Commercial Loan",
+    "type": "secured_term",
+    "rate": 0,
+    "feeFlat": 250,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 500,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "be07ff16-1400-4001-9e0b-337485eff020",
+    "lastUpdated": "2026-06-29T04:08:48.782583Z"
+  },
+  {
+    "lender": "Regional Australia Bank",
+    "product": "Non-Mortgage Secured Commercial Loan",
+    "type": "secured_term",
+    "rate": 0,
+    "feeFlat": 250,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 500,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "7d0d4ba2-8e3c-4a7d-8684-8e9a91c1498f",
+    "lastUpdated": "2026-06-29T04:08:22.355373Z"
+  },
+  {
+    "lender": "TCL PM Production",
+    "product": "Home Equity Business Loan",
+    "type": "unsecured_term",
+    "rate": 8.1,
+    "feeFlat": 2900,
+    "feePct": 0,
+    "feeMo": 105,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "8a9f159f-8cc5-43a5-a817-6f8124283c77",
+    "lastUpdated": "2026-05-10T22:00:00.706386Z"
+  },
+  {
+    "lender": "TCL PM Production",
+    "product": "Business Access Overdraft",
+    "type": "overdraft",
+    "rate": 9.1,
+    "feeFlat": 3650,
+    "feePct": 0,
+    "feeMo": 121,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "b441353b-3897-437f-a0da-4ad6f7ae9ea3",
+    "lastUpdated": "2026-05-10T22:00:00.676457Z"
+  },
+  {
+    "lender": "WOOLWORTHS TEAM BANK",
+    "product": "Budget Account Overdraft",
+    "type": "overdraft",
+    "rate": 13.85,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "S3_Budget_Overdraft",
+    "lastUpdated": "2026-06-01T14:43:31.000+10:00"
+  },
+  {
+    "lender": "WOOLWORTHS TEAM BANK",
+    "product": "Access Account Overdraft",
+    "type": "overdraft",
+    "rate": 13.85,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "S1_Overdraft",
+    "lastUpdated": "2025-08-26T11:59:05.000+10:00"
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "generatedAt": "2026-07-16T23:41:55.059Z",
+  "categories": [
+    "BUSINESS_LOANS",
+    "OVERDRAFTS"
+  ],
+  "products": 18,
+  "byCategory": {
+    "BUSINESS_LOANS": 12,
+    "OVERDRAFTS": 6
+  },
+  "holdersChecked": 202,
+  "holdersWithProducts": 14,
+  "skippedNoPublishedRate": 48,
+  "durationSec": 66,
+  "errors": [
+    "RAA Energy: HTTP 404",
+    "Cooperative Power: HTTP 404",
+    "Arcline by RACV: HTTP 404",
+    "Aurora Energy: HTTP 404",
+    "AMP Bank GO: no supported version",
+    "Origin Energy: HTTP 404",
+    "AGL: HTTP 404",
+    "HSBC Bank Australia Limited – Wholesale Banking: no supported version",
+    "EnergyAustralia: HTTP 404",
+    "Greater Bank Limited: no supported version",
+    "Northern Inland Credit Union Limited: no supported version",
+    "ENGIE: HTTP 404",
+    "ME Bank - ME Go: no supported version",
+    "Alinta Energy: HTTP 404",
+    "Great Southern Bank Business+: no supported version",
+    "Sumo Power: HTTP 404",
+    "Kogan Energy: HTTP 404",
+    "Powershop: HTTP 404",
+    "ActewAGL: HTTP 404",
+    "Border Bank: HTTP 422",
+    "Diamond Energy: HTTP 404",
+    "Police Bank: HTTP 422",
+    "NATIONAL AUSTRALIA BANK: no supported version",
+    "ANZ: no supported version",
+    "CommBank: no supported version"
+  ]
+}
