@@ -1,0 +1,47 @@
+name: Harvest CDR business loans
+
+# Runs the harvester on a schedule and whenever you trigger it by hand,
+# then commits the refreshed feed so GitHub Pages serves the latest data.
+
+on:
+  schedule:
+    - cron: "0 15 * * *"   # 15:00 UTC daily = ~01:00 AEST (00:00 AEST during daylight saving)
+  workflow_dispatch:        # lets you run it manually from the Actions tab
+
+permissions:
+  contents: write           # needed to commit the updated JSON back to the repo
+
+concurrency:
+  group: cdr-harvest
+  cancel-in-progress: false
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Run harvester
+        run: node harvest.js
+        env:
+          CONCURRENCY: "6"
+          # HOLDER_FILTER: ""      # e.g. "judo,prospa,commonwealth" to limit to certain brands
+          # MAX_HOLDERS: "0"       # set a small number for a quick test run
+
+      - name: Commit refreshed feed
+        run: |
+          git config user.name  "cap-harvester[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/business_loans.json docs/business_loans.meta.json
+          if git diff --staged --quiet; then
+            echo "No changes to the feed."
+          else
+            git commit -m "chore: refresh CDR business-loan feed ($(date -u +%Y-%m-%d))"
+            git push
+          fi
