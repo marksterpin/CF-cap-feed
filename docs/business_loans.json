@@ -1,13 +1,155 @@
 [
   {
-    "lender": "Arab Bank Australia Limited",
-    "product": "Commercial Loans - Revolving Line of Credit",
+    "lender": "A-Auswide Bank",
+    "product": "BUSINESS TERM LOAN",
     "type": "unsecured_term",
-    "rate": 11.75,
-    "feeFlat": 250,
+    "rate": 8.73,
+    "feeFlat": 0,
     "feePct": 0,
     "feeMo": 0,
-    "min": 20000,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "857c15d2-1d70-465f-ade0-b516853ed905",
+    "lastUpdated": "2026-05-13T09:56:25.000+10:00"
+  },
+  {
+    "lender": "A-Auswide Bank",
+    "product": "BUSINESS LINE OF CREDIT",
+    "type": "line_of_credit",
+    "rate": 9.63,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 50000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "f14457a0-a6fc-45dc-b454-f3e657925295",
+    "lastUpdated": "2026-07-01T11:04:13.000+10:00"
+  },
+  {
+    "lender": "A-Auswide Bank",
+    "product": "BUSINESS OVERDRAFT",
+    "type": "overdraft",
+    "rate": 10.16,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 50000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "9e761c78-f980-459a-a02f-03f39acdc759",
+    "lastUpdated": "2026-07-01T11:10:55.000+10:00"
+  },
+  {
+    "lender": "AMP Bank GO",
+    "product": "AMP Bank GO Everyday Business Account",
+    "type": "unsecured_term",
+    "rate": 15.45,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "908e6787-1a71-4f7f-a982-6f93a557020e",
+    "lastUpdated": "2026-03-13T02:46:31.628Z"
+  },
+  {
+    "lender": "AMP Bank GO",
+    "product": "AMP Bank GO Everyday Business Account",
+    "type": "overdraft",
+    "rate": 15.45,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "908e6787-1a71-4f7f-a982-6f93a557020e",
+    "lastUpdated": "2026-03-13T02:46:31.628Z"
+  },
+  {
+    "lender": "ANZ",
+    "product": "ANZ Business Loan",
+    "type": "unsecured_term",
+    "rate": 12.74,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 10000,
     "max": 500000,
     "maxTerm": 360,
     "sec": [
@@ -20,6 +162,62 @@
     "turn": 0,
     "fund": 7,
     "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "1144a74f-dac2-4db9-ac6a-5ff2e4abd784",
+    "lastUpdated": "2026-05-31T14:00:00.000Z"
+  },
+  {
+    "lender": "ANZ",
+    "product": "ANZ Business Overdraft",
+    "type": "overdraft",
+    "rate": 16.2,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 2000,
+    "max": 300000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "29d276fc-e46f-4302-a04b-cda03fe31e76",
+    "lastUpdated": "2026-05-31T14:00:00.000Z"
+  },
+  {
+    "lender": "Arab Bank Australia Limited",
+    "product": "Commercial Loans - Revolving Line of Credit",
+    "type": "line_of_credit",
+    "rate": 11.75,
+    "feeFlat": 250,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 500000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
     "feat": [
       "CDR-sourced product data"
     ],
@@ -86,13 +284,868 @@
     "lastUpdated": "2026-05-18T23:19:59.052Z"
   },
   {
+    "lender": "Australian Mutual Bank",
+    "product": "Variable Principal & Interest Commercial Lending",
+    "type": "unsecured_term",
+    "rate": 6.74,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 1000,
+    "max": 10000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "c0f9f1fb-a3ca-41ec-9020-14680000f462",
+    "lastUpdated": "2026-07-13T17:09:05.000+10:00"
+  },
+  {
+    "lender": "Australian Mutual Bank",
+    "product": "Commercial Personal - Principal & Interest",
+    "type": "unsecured_term",
+    "rate": 6.95,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 150000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "7b48b15e-4517-11f1-bfeb-325096b39f47",
+    "lastUpdated": "2026-07-13T17:07:51.000+10:00"
+  },
+  {
+    "lender": "Australian Mutual Bank",
+    "product": "Variable Interest Only Commercial Lending",
+    "type": "unsecured_term",
+    "rate": 6.99,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 1000,
+    "max": 10000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "2d8e5270-451c-11f1-acda-325096b39f47",
+    "lastUpdated": "2026-07-13T17:08:28.000+10:00"
+  },
+  {
+    "lender": "Australian Mutual Bank",
+    "product": "Fixed Principal & Interest Commercial Lending",
+    "type": "unsecured_term",
+    "rate": 7.59,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 1000,
+    "max": 10000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "d0470bb6-451b-11f1-8b0f-325096b39f47",
+    "lastUpdated": "2026-07-13T17:12:21.000+10:00"
+  },
+  {
+    "lender": "Australian Mutual Bank",
+    "product": "Fixed Interest Only Commercial Lending",
+    "type": "unsecured_term",
+    "rate": 7.84,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 1000,
+    "max": 10000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "b62806b2-451c-11f1-bc27-325096b39f47",
+    "lastUpdated": "2026-07-13T17:08:48.000+10:00"
+  },
+  {
+    "lender": "Australian Mutual Bank",
+    "product": "Everyday Business Account",
+    "type": "overdraft",
+    "rate": 8.05,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "c7bc9e8e-4520-11f1-b239-325096b39f47",
+    "lastUpdated": "2026-07-13T17:12:48.000+10:00"
+  },
+  {
+    "lender": "Bank of Melbourne",
+    "product": "Variable Rate Small Business Loan",
+    "type": "unsecured_term",
+    "rate": 9.23,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "BOMVariableRateSmallBusinessLoan",
+    "lastUpdated": "2026-05-15T04:04:04Z"
+  },
+  {
+    "lender": "Bank of Melbourne",
+    "product": "Commercial Overdraft",
+    "type": "overdraft",
+    "rate": 9.81,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "BOMCommercialOverdraft",
+    "lastUpdated": "2026-05-15T04:04:04Z"
+  },
+  {
+    "lender": "Bank of Melbourne",
+    "product": "Commercial Unsecured Overdraft",
+    "type": "line_of_credit",
+    "rate": 9.81,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "BOMUnsecuredCommercialOverdraft",
+    "lastUpdated": "2026-05-15T04:04:04Z"
+  },
+  {
+    "lender": "Bank of Queensland",
+    "product": "Business Term Loan",
+    "type": "unsecured_term",
+    "rate": 7.35,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 10000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "83906e88-5c03-ee11-8f6e-00224814d330",
+    "lastUpdated": "2026-07-13T02:07:08Z"
+  },
+  {
+    "lender": "Bank of Queensland",
+    "product": "Business Overdraft",
+    "type": "overdraft",
+    "rate": 12.01,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 10000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "ed176288-5c03-ee11-8f6e-00224814dce7",
+    "lastUpdated": "2026-06-03T03:10:23Z"
+  },
+  {
+    "lender": "Bank of Sydney",
+    "product": "Resisec Business Loan",
+    "type": "unsecured_term",
+    "rate": 6.49,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 100000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "resisec_business_loan",
+    "lastUpdated": "2026-05-22T01:14:23Z"
+  },
+  {
+    "lender": "Bank of Sydney",
+    "product": "Resisec Commercial Loan",
+    "type": "secured_term",
+    "rate": 10.6,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 100000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "resisec_commercial_loan",
+    "lastUpdated": "2026-04-14T07:29:14Z"
+  },
+  {
+    "lender": "Bank of Sydney",
+    "product": "Commercial Loan",
+    "type": "unsecured_term",
+    "rate": 13.43,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "commercial_loan",
+    "lastUpdated": "2026-05-22T01:15:49Z"
+  },
+  {
+    "lender": "Bank of Sydney",
+    "product": "Business Loan",
+    "type": "unsecured_term",
+    "rate": 13.83,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "business_loan",
+    "lastUpdated": "2026-05-22T00:55:57Z"
+  },
+  {
+    "lender": "Bank of Sydney",
+    "product": "Resisec Business Overdraft",
+    "type": "overdraft",
+    "rate": 14.08,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 100000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "resisec_business_overdraft",
+    "lastUpdated": "2026-04-14T07:29:34Z"
+  },
+  {
+    "lender": "Bank of Sydney",
+    "product": "Business Overdraft Account",
+    "type": "overdraft",
+    "rate": 14.58,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "business_overdraft_account",
+    "lastUpdated": "2026-05-22T00:56:55Z"
+  },
+  {
+    "lender": "Bank of us",
+    "product": "Business Loan",
+    "type": "unsecured_term",
+    "rate": 6.99,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "BusinessResiSecured",
+    "lastUpdated": "2026-06-25T10:58:26.000+10:00"
+  },
+  {
+    "lender": "Bank of us",
+    "product": "Small, Small Bus Loan",
+    "type": "unsecured_term",
+    "rate": 6.99,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 100000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "SmallBusiness",
+    "lastUpdated": "2026-04-13T22:20:02.000+10:00"
+  },
+  {
+    "lender": "BankSA",
+    "product": "Variable Rate Small Business Loan",
+    "type": "unsecured_term",
+    "rate": 9.23,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "BSAVariableRateSmallBusinessLoan",
+    "lastUpdated": "2026-05-15T04:04:04Z"
+  },
+  {
+    "lender": "BankSA",
+    "product": "Commercial Unsecured Overdraft",
+    "type": "line_of_credit",
+    "rate": 9.81,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "BSAUnsecuredCommercialOverdraft",
+    "lastUpdated": "2026-05-15T04:04:04Z"
+  },
+  {
+    "lender": "BankSA",
+    "product": "Commercial Overdraft",
+    "type": "overdraft",
+    "rate": 9.81,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "BSACommercialOverdraft",
+    "lastUpdated": "2026-05-15T04:04:04Z"
+  },
+  {
+    "lender": "BankWAW",
+    "product": "Business Loan Residential Secured P&I Variable",
+    "type": "secured_term",
+    "rate": 7.49,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "L46_1",
+    "lastUpdated": "2026-05-18T11:21:34.000+10:00"
+  },
+  {
+    "lender": "BankWAW",
+    "product": "Business Loan Commercial Secured P&I Variable",
+    "type": "secured_term",
+    "rate": 8.29,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "L48_1",
+    "lastUpdated": "2026-05-18T11:23:45.000+10:00"
+  },
+  {
+    "lender": "bcu",
+    "product": "All-In-One",
+    "type": "overdraft",
+    "rate": 7.74,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "166",
+    "lastUpdated": "2026-07-17T00:00:42.7901150Z"
+  },
+  {
+    "lender": "bcu",
+    "product": "Inv All-In-One",
+    "type": "overdraft",
+    "rate": 7.9,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "168",
+    "lastUpdated": "2026-07-17T00:00:42.7901150Z"
+  },
+  {
+    "lender": "Beyond Bank Australia",
+    "product": "Business Investment Loan",
+    "type": "unsecured_term",
+    "rate": 6.69,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 10000,
+    "max": 2000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "45",
+    "lastUpdated": "2026-07-17T00:00:30.9418146Z"
+  },
+  {
+    "lender": "Beyond Bank Australia",
+    "product": "Business Loan",
+    "type": "unsecured_term",
+    "rate": 6.79,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 140000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "56",
+    "lastUpdated": "2026-04-07T14:00:29.0117364Z"
+  },
+  {
+    "lender": "Beyond Bank Australia",
+    "product": "Business Line of Credit (Sec)",
+    "type": "line_of_credit",
+    "rate": 8.84,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 10000,
+    "max": 2000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "54",
+    "lastUpdated": "2026-06-09T16:00:31.7101248Z"
+  },
+  {
+    "lender": "Beyond Bank Australia",
+    "product": "Business Overdraft (Unsec)",
+    "type": "line_of_credit",
+    "rate": 12.99,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 10000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "53",
+    "lastUpdated": "2025-11-27T02:00:31.7251324Z"
+  },
+  {
     "lender": "BNK Bank (Goldfields Money/BCHL)",
     "product": "Commercial SMSF Loan",
     "type": "unsecured_term",
     "rate": 7.54,
-    "feeFlat": 350,
+    "feeFlat": 0,
     "feePct": 0,
-    "feeMo": 395,
+    "feeMo": 0,
     "min": 5000,
     "max": 5000000,
     "maxTerm": 360,
@@ -119,9 +1172,9 @@
     "product": "Commercial Lease Doc",
     "type": "unsecured_term",
     "rate": 7.99,
-    "feeFlat": 375,
+    "feeFlat": 0,
     "feePct": 0,
-    "feeMo": 395,
+    "feeMo": 0,
     "min": 5000,
     "max": 5000000,
     "maxTerm": 360,
@@ -148,9 +1201,9 @@
     "product": "Commercial Term Loan",
     "type": "unsecured_term",
     "rate": 7.99,
-    "feeFlat": 375,
+    "feeFlat": 0,
     "feePct": 0,
-    "feeMo": 395,
+    "feeMo": 0,
     "min": 5000,
     "max": 5000000,
     "maxTerm": 360,
@@ -177,9 +1230,9 @@
     "product": "Commercial Alt Doc",
     "type": "unsecured_term",
     "rate": 8.09,
-    "feeFlat": 375,
+    "feeFlat": 0,
     "feePct": 0,
-    "feeMo": 395,
+    "feeMo": 0,
     "min": 5000,
     "max": 5000000,
     "maxTerm": 360,
@@ -200,6 +1253,1401 @@
     "category": "BUSINESS_LOANS",
     "productId": "3002",
     "lastUpdated": "2026-05-10T20:05:00.737835Z"
+  },
+  {
+    "lender": "BOQ Specialist",
+    "product": "Goodwill (Practice Purchase Loan)",
+    "type": "unsecured_term",
+    "rate": 8.6,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "86906e88-5c03-ee11-8f6e-00224814d330",
+    "lastUpdated": "2026-06-19T01:10:32Z"
+  },
+  {
+    "lender": "BOQ Specialist",
+    "product": "Commercial Property Loan",
+    "type": "unsecured_term",
+    "rate": 8.6,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "1a186288-5c03-ee11-8f6e-00224814dce7",
+    "lastUpdated": "2026-05-07T00:10:46Z"
+  },
+  {
+    "lender": "BOQ Specialist",
+    "product": "Overdrafts",
+    "type": "line_of_credit",
+    "rate": 8.6,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "31186288-5c03-ee11-8f6e-00224814dce7",
+    "lastUpdated": "2026-05-07T01:29:04Z"
+  },
+  {
+    "lender": "BOQ Specialist",
+    "product": "Construction Loan",
+    "type": "unsecured_term",
+    "rate": 10.7,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "8eb23721-102c-ee11-9965-002248e1d56c",
+    "lastUpdated": "2026-06-26T05:28:43Z"
+  },
+  {
+    "lender": "BOQ Specialist",
+    "product": "Fit Out Finance",
+    "type": "unsecured_term",
+    "rate": 10.7,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "15186288-5c03-ee11-8f6e-00224814dce7",
+    "lastUpdated": "2026-05-07T00:10:36Z"
+  },
+  {
+    "lender": "Broken Hill Bank",
+    "product": "S40 Home Equity Advantage",
+    "type": "overdraft",
+    "rate": 8.3,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 2000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "23",
+    "lastUpdated": "2026-07-17T00:00:18.2614880Z"
+  },
+  {
+    "lender": "Broken Hill Bank",
+    "product": "145 Personal Overdraft",
+    "type": "overdraft",
+    "rate": 10.2,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 2000,
+    "max": 25000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "42",
+    "lastUpdated": "2026-06-11T04:00:17.6722147Z"
+  },
+  {
+    "lender": "Broken Hill Bank",
+    "product": "L5 Commercial Loan",
+    "type": "unsecured_term",
+    "rate": 11.5,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 2000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "41",
+    "lastUpdated": "2026-06-11T02:00:18.8259621Z"
+  },
+  {
+    "lender": "Cairns Bank",
+    "product": "Business overdraft (secured)",
+    "type": "overdraft",
+    "rate": 7.25,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "S8_Overdrafts",
+    "lastUpdated": "2026-06-05T09:55:55.000+10:00"
+  },
+  {
+    "lender": "Cairns Bank",
+    "product": "Commercial Loan",
+    "type": "secured_term",
+    "rate": 7.74,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "L4_COMMERCIAL_LOAN",
+    "lastUpdated": "2026-06-05T09:21:37.000+10:00"
+  },
+  {
+    "lender": "Cairns Bank",
+    "product": "Cairns Bank personal overdraft",
+    "type": "overdraft",
+    "rate": 10,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "S30",
+    "lastUpdated": "2021-04-01T15:34:30.000+10:00"
+  },
+  {
+    "lender": "CENTRAL MURRAY CREDIT UNION LIMITED",
+    "product": "SMSF LOAN",
+    "type": "unsecured_term",
+    "rate": 5.1,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "L7_1_F_PI",
+    "lastUpdated": "2025-11-13T12:06:28.000+11:00"
+  },
+  {
+    "lender": "CENTRAL WEST CREDIT UNION LTD",
+    "product": "Business Car Loan - New Vehicle",
+    "type": "unsecured_term",
+    "rate": 7.4,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "Business_Car_Loan_-_New_Vehicle",
+    "lastUpdated": "2026-04-14T16:44:47.000+10:00"
+  },
+  {
+    "lender": "CENTRAL WEST CREDIT UNION LTD",
+    "product": "Business Car Loan - Used Vehicle 1 to 7 years old",
+    "type": "unsecured_term",
+    "rate": 7.7,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "Classic_Car_loan_-_Used_vehicles_no_more_than_7_years_old",
+    "lastUpdated": "2026-05-27T16:01:22.000+10:00"
+  },
+  {
+    "lender": "CENTRAL WEST CREDIT UNION LTD",
+    "product": "S18 Smart Plus (secured by mortgage over residential property)",
+    "type": "overdraft",
+    "rate": 7.7,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "S18_Smart_Plus",
+    "lastUpdated": "2026-06-01T09:38:18.000+10:00"
+  },
+  {
+    "lender": "CENTRAL WEST CREDIT UNION LTD",
+    "product": "Investment Property Loan (non residential)",
+    "type": "unsecured_term",
+    "rate": 7.95,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "Investment_Property_(Non_Residential)",
+    "lastUpdated": "2026-05-28T09:15:53.000+10:00"
+  },
+  {
+    "lender": "CENTRAL WEST CREDIT UNION LTD",
+    "product": "Business Mortgage Loan",
+    "type": "unsecured_term",
+    "rate": 8,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "Mortgage_Loan_Business",
+    "lastUpdated": "2026-07-01T08:32:42.000+10:00"
+  },
+  {
+    "lender": "CENTRAL WEST CREDIT UNION LTD",
+    "product": "Business Loan",
+    "type": "unsecured_term",
+    "rate": 11.7,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "L95_Personal_loan_business",
+    "lastUpdated": "2026-04-14T09:14:16.000+10:00"
+  },
+  {
+    "lender": "CENTRAL WEST CREDIT UNION LTD",
+    "product": "Visa Access Account",
+    "type": "overdraft",
+    "rate": 12.5,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 500,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "Visa_Access",
+    "lastUpdated": "2026-05-31T09:17:53.000+10:00"
+  },
+  {
+    "lender": "Coastline Bank",
+    "product": "Business Interest Fixed",
+    "type": "unsecured_term",
+    "rate": 6.59,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "77",
+    "lastUpdated": "2025-12-23T06:00:15.9757138Z"
+  },
+  {
+    "lender": "Coastline Bank",
+    "product": "Home Equity Access",
+    "type": "overdraft",
+    "rate": 8.31,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 50000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "19",
+    "lastUpdated": "2026-07-15T06:00:15.4982803Z"
+  },
+  {
+    "lender": "Coastline Bank",
+    "product": "Business Res Mortgage",
+    "type": "unsecured_term",
+    "rate": 9.66,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "80",
+    "lastUpdated": "2026-05-24T14:00:14.4881777Z"
+  },
+  {
+    "lender": "Coastline Bank",
+    "product": "Interest Only (Commercial)",
+    "type": "unsecured_term",
+    "rate": 10.36,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "76",
+    "lastUpdated": "2026-04-02T02:00:14.7145721Z"
+  },
+  {
+    "lender": "Coastline Bank",
+    "product": "Business SMSF Property Loan",
+    "type": "unsecured_term",
+    "rate": 10.76,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "78",
+    "lastUpdated": "2026-04-02T02:00:14.7145721Z"
+  },
+  {
+    "lender": "Coastline Bank",
+    "product": "Business SMSF Prop Int Only",
+    "type": "unsecured_term",
+    "rate": 10.76,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "79",
+    "lastUpdated": "2026-04-02T02:00:14.7145721Z"
+  },
+  {
+    "lender": "Coastline Bank",
+    "product": "Business Comm Mortgage",
+    "type": "unsecured_term",
+    "rate": 11.01,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "81",
+    "lastUpdated": "2026-05-24T14:00:14.4881777Z"
+  },
+  {
+    "lender": "Coastline Bank",
+    "product": "Business - General",
+    "type": "unsecured_term",
+    "rate": 13.64,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "82",
+    "lastUpdated": "2026-05-24T14:00:14.4881777Z"
+  },
+  {
+    "lender": "Coastline Bank",
+    "product": "Ready Now Cash",
+    "type": "overdraft",
+    "rate": 14,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 2000,
+    "max": 50000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "67",
+    "lastUpdated": "2026-03-24T04:00:14.5359085Z"
+  },
+  {
+    "lender": "Coastline Bank",
+    "product": "Gold Benefits Savings",
+    "type": "overdraft",
+    "rate": 15,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 500,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "50",
+    "lastUpdated": "2025-12-23T04:00:14.3446902Z"
+  },
+  {
+    "lender": "Coastline Bank",
+    "product": "Business Access",
+    "type": "overdraft",
+    "rate": 19,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 500,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "73",
+    "lastUpdated": "2026-03-24T04:00:14.5359085Z"
+  },
+  {
+    "lender": "Coastline Bank",
+    "product": "Community Support",
+    "type": "overdraft",
+    "rate": 19,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 500,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "75",
+    "lastUpdated": "2026-03-24T04:00:14.5359085Z"
+  },
+  {
+    "lender": "Coastline Bank",
+    "product": "Deeming",
+    "type": "overdraft",
+    "rate": 19,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 500,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "64",
+    "lastUpdated": "2026-03-24T02:00:14.6439979Z"
+  },
+  {
+    "lender": "Coastline Bank",
+    "product": "Coastline Access",
+    "type": "overdraft",
+    "rate": 19,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 500,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "65",
+    "lastUpdated": "2026-03-24T02:00:14.6439979Z"
+  },
+  {
+    "lender": "CommBank",
+    "product": "Business Overdraft",
+    "type": "overdraft",
+    "rate": 0.1,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 2000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "d7c55e295f504692a54360f0d2092c25",
+    "lastUpdated": "2026-07-15T01:15:03.000Z"
+  },
+  {
+    "lender": "CommBank",
+    "product": "Stream Working Capital",
+    "type": "overdraft",
+    "rate": 3.58,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 500000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "38bca0f2a8c54e828ca954325c0aea17",
+    "lastUpdated": "2026-07-17T02:15:36.000Z"
+  },
+  {
+    "lender": "CommBank",
+    "product": "BetterBusiness Loan",
+    "type": "unsecured_term",
+    "rate": 7.29,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 10000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "d7c55e295f504692a54360f0d2092c23",
+    "lastUpdated": "2026-07-17T08:01:09.000Z"
+  },
+  {
+    "lender": "CommBank",
+    "product": "Hire Purchase",
+    "type": "unsecured_term",
+    "rate": 8.29,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "5af96243b945460cb98a373de7688008",
+    "lastUpdated": "2026-07-17T02:15:29.000Z"
+  },
+  {
+    "lender": "CommBank",
+    "product": "Equipment Loan",
+    "type": "unsecured_term",
+    "rate": 8.29,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "a443a21d7a7a4a339e850a3c1ead0c12",
+    "lastUpdated": "2026-07-17T02:15:29.000Z"
+  },
+  {
+    "lender": "CommBank",
+    "product": "CommBank AdvancePay",
+    "type": "overdraft",
+    "rate": 14.9,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 100,
+    "max": 2000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "822509b55fd24adf8ba74929ec5be822",
+    "lastUpdated": "2026-05-13T20:32:36.000Z"
+  },
+  {
+    "lender": "CommBank",
+    "product": "Temporary overdrafts",
+    "type": "overdraft",
+    "rate": 14.9,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "8d328bbee6ab4f54ae981d9f93ef3cd7",
+    "lastUpdated": "2026-05-13T20:32:36.000Z"
+  },
+  {
+    "lender": "CommBank",
+    "product": "Temporary Excess Business",
+    "type": "overdraft",
+    "rate": 16.43,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 2000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "e1cb8e2d2e8e4781a64dc7dbefaafa2d",
+    "lastUpdated": "2026-05-13T20:32:36.000Z"
+  },
+  {
+    "lender": "Community First Credit Union",
+    "product": "BUSINESS LOAN - VARIABLE (Principal and Interest)",
+    "type": "unsecured_term",
+    "rate": 9.19,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "L92-BL",
+    "lastUpdated": "2026-07-01T15:24:54.000+10:00"
+  },
+  {
+    "lender": "Community First Credit Union",
+    "product": "BUSINESS LOAN - VARIABLE (Interest Only)",
+    "type": "unsecured_term",
+    "rate": 10.19,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "L92-BL-IOV",
+    "lastUpdated": "2026-07-01T15:24:54.000+10:00"
+  },
+  {
+    "lender": "Community First Credit Union",
+    "product": "Everyday - Overdraft",
+    "type": "overdraft",
+    "rate": 14.45,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "S22-EA-OD",
+    "lastUpdated": "2026-07-01T09:29:17.000+10:00"
+  },
+  {
+    "lender": "Community First Credit Union",
+    "product": "Everyday Plus",
+    "type": "overdraft",
+    "rate": 14.45,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "S14-EP-OD",
+    "lastUpdated": "2026-06-30T15:41:22.000+10:00"
+  },
+  {
+    "lender": "Community First Credit Union",
+    "product": "Pink Everyday - Overdraft",
+    "type": "overdraft",
+    "rate": 14.45,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "S21-PEA-OD",
+    "lastUpdated": "2026-06-30T15:41:22.000+10:00"
+  },
+  {
+    "lender": "Community First Credit Union",
+    "product": "FirstBiz Access - Overdraft",
+    "type": "overdraft",
+    "rate": 14.45,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "S98-FBAA-OD",
+    "lastUpdated": "2026-06-30T15:41:22.000+10:00"
+  },
+  {
+    "lender": "Community First Credit Union",
+    "product": "Community - Overdraft",
+    "type": "overdraft",
+    "rate": 16.34,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "S1-CA-OD",
+    "lastUpdated": "2026-06-30T15:41:22.000+10:00"
+  },
+  {
+    "lender": "Corporate and Institutional Banking",
+    "product": "Overdraft",
+    "type": "overdraft",
+    "rate": 7.25,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "OD",
+    "lastUpdated": "2026-05-18T00:55:15.261Z"
   },
   {
     "lender": "FF PM Production",
@@ -228,6 +2676,3016 @@
     "category": "OVERDRAFTS",
     "productId": "bcbd63aa-5324-49be-a1a7-aae567b33989",
     "lastUpdated": "2026-02-15T01:06:32.483702Z"
+  },
+  {
+    "lender": "FIRST OPTION BANK",
+    "product": "MORTGAGE BUSINESS LOAN",
+    "type": "unsecured_term",
+    "rate": 8.44,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "L34_MORTGAGE_BUSINESS_LOAN_SEC_VAR_PI",
+    "lastUpdated": "2026-05-19T15:42:07.000+10:00"
+  },
+  {
+    "lender": "FIRST OPTION BANK",
+    "product": "BUSINESS NEW VEHICLE LOAN",
+    "type": "unsecured_term",
+    "rate": 11.99,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "L33_PERSONAL_BUSINESS_LOAN_NEW_VEHICLE_FIXED_PI_7YR",
+    "lastUpdated": "2025-03-25T14:42:32.000+11:00"
+  },
+  {
+    "lender": "FIRST OPTION BANK",
+    "product": "BUSINESS USED VEHICLE LOAN",
+    "type": "unsecured_term",
+    "rate": 11.99,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "L33_PERSONAL_BUSINESS_LOAN_USED_VEHICLE_FIXED_PI_7YR",
+    "lastUpdated": "2025-03-25T14:41:15.000+11:00"
+  },
+  {
+    "lender": "Gateway Bank",
+    "product": "Commercial Loan 3yr Fixed",
+    "type": "unsecured_term",
+    "rate": 8.39,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 250000,
+    "max": 4000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "181",
+    "lastUpdated": "2026-07-01T06:00:32.1494081Z"
+  },
+  {
+    "lender": "Gateway Bank",
+    "product": "Inv Commercial Loan 3yr Fixed",
+    "type": "unsecured_term",
+    "rate": 8.39,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 250000,
+    "max": 4000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "183",
+    "lastUpdated": "2026-07-01T06:00:32.1494081Z"
+  },
+  {
+    "lender": "Gateway Bank",
+    "product": "Green Commercial Property Loan",
+    "type": "unsecured_term",
+    "rate": 8.39,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 250000,
+    "max": 4000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "193",
+    "lastUpdated": "2026-07-01T06:00:32.1494081Z"
+  },
+  {
+    "lender": "Gateway Bank",
+    "product": "Inv Green Com Property Loan",
+    "type": "unsecured_term",
+    "rate": 8.39,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 250000,
+    "max": 4000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "195",
+    "lastUpdated": "2026-07-01T06:00:32.1494081Z"
+  },
+  {
+    "lender": "Gateway Bank",
+    "product": "Reverse Mortgage Lump Sum",
+    "type": "overdraft",
+    "rate": 8.4,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 50000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "216",
+    "lastUpdated": "2026-07-01T02:01:37.9760305Z"
+  },
+  {
+    "lender": "Gateway Bank",
+    "product": "Commercial Loan 3yr Fixed IO",
+    "type": "unsecured_term",
+    "rate": 8.54,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 250000,
+    "max": 4000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "182",
+    "lastUpdated": "2026-07-01T06:00:32.1494081Z"
+  },
+  {
+    "lender": "Gateway Bank",
+    "product": "Inv Commercial 3yr Fixed IO",
+    "type": "unsecured_term",
+    "rate": 8.54,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 250000,
+    "max": 4000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "184",
+    "lastUpdated": "2026-07-01T06:00:32.1494081Z"
+  },
+  {
+    "lender": "Gateway Bank",
+    "product": "Green Com Property Loan IO",
+    "type": "unsecured_term",
+    "rate": 8.54,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 250000,
+    "max": 4000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "194",
+    "lastUpdated": "2026-07-01T06:00:32.1494081Z"
+  },
+  {
+    "lender": "Gateway Bank",
+    "product": "Inv Green Com Property Loan IO",
+    "type": "unsecured_term",
+    "rate": 8.54,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 250000,
+    "max": 4000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "196",
+    "lastUpdated": "2026-07-01T06:00:32.1494081Z"
+  },
+  {
+    "lender": "Gateway Bank",
+    "product": "Commercial Plus 3yr Fixed",
+    "type": "unsecured_term",
+    "rate": 8.64,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 4000000,
+    "max": 10000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "189",
+    "lastUpdated": "2026-07-01T06:00:32.1494081Z"
+  },
+  {
+    "lender": "Gateway Bank",
+    "product": "INV Commercial Plus 3yr Fixed",
+    "type": "unsecured_term",
+    "rate": 8.64,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 4000000,
+    "max": 10000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "191",
+    "lastUpdated": "2026-07-01T06:00:32.1494081Z"
+  },
+  {
+    "lender": "Gateway Bank",
+    "product": "Commercial Property Loan",
+    "type": "unsecured_term",
+    "rate": 8.69,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 250000,
+    "max": 4000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "177",
+    "lastUpdated": "2026-07-01T06:00:32.1494081Z"
+  },
+  {
+    "lender": "Gateway Bank",
+    "product": "Inv Commercial Property Loan",
+    "type": "unsecured_term",
+    "rate": 8.69,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 250000,
+    "max": 4000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "178",
+    "lastUpdated": "2026-07-01T06:00:32.1494081Z"
+  },
+  {
+    "lender": "Gateway Bank",
+    "product": "Reverse Mortgage Access",
+    "type": "overdraft",
+    "rate": 8.75,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 50000,
+    "max": 2000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "171",
+    "lastUpdated": "2026-07-01T06:00:32.1494081Z"
+  },
+  {
+    "lender": "Gateway Bank",
+    "product": "Commercial Plus 3yr Fixed IO",
+    "type": "unsecured_term",
+    "rate": 8.79,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 4000000,
+    "max": 10000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "190",
+    "lastUpdated": "2026-07-01T06:00:32.1494081Z"
+  },
+  {
+    "lender": "Gateway Bank",
+    "product": "INV Com Plus 3yr Fixed IO",
+    "type": "unsecured_term",
+    "rate": 8.79,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 4000000,
+    "max": 10000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "192",
+    "lastUpdated": "2026-07-01T06:00:32.1494081Z"
+  },
+  {
+    "lender": "Gateway Bank",
+    "product": "Commercial Property Loan IO",
+    "type": "unsecured_term",
+    "rate": 8.84,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 250000,
+    "max": 4000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "179",
+    "lastUpdated": "2026-07-01T06:00:32.1494081Z"
+  },
+  {
+    "lender": "Gateway Bank",
+    "product": "Inv Commercial Loan IO",
+    "type": "unsecured_term",
+    "rate": 8.84,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 250000,
+    "max": 4000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "180",
+    "lastUpdated": "2026-07-01T06:00:32.1494081Z"
+  },
+  {
+    "lender": "Gateway Bank",
+    "product": "Commercial Plus Loan",
+    "type": "unsecured_term",
+    "rate": 8.94,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 4000000,
+    "max": 10000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "185",
+    "lastUpdated": "2026-07-01T06:00:32.1494081Z"
+  },
+  {
+    "lender": "Gateway Bank",
+    "product": "INV Commercial Plus Loan",
+    "type": "unsecured_term",
+    "rate": 8.94,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 4000000,
+    "max": 10000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "188",
+    "lastUpdated": "2026-07-01T06:00:32.1494081Z"
+  },
+  {
+    "lender": "Gateway Bank",
+    "product": "Commercial Plus Loan IO",
+    "type": "unsecured_term",
+    "rate": 9.09,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 4000000,
+    "max": 10000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "186",
+    "lastUpdated": "2026-07-01T06:00:32.1494081Z"
+  },
+  {
+    "lender": "Gateway Bank",
+    "product": "Inv Com Plus Loan I/O",
+    "type": "unsecured_term",
+    "rate": 9.09,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 4000000,
+    "max": 10000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "187",
+    "lastUpdated": "2026-07-01T06:00:32.1494081Z"
+  },
+  {
+    "lender": "Gateway Bank",
+    "product": "EquitiSmart Home Loan",
+    "type": "overdraft",
+    "rate": 9.5,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 1000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "168",
+    "lastUpdated": "2026-07-01T06:00:32.1494081Z"
+  },
+  {
+    "lender": "Gateway Bank",
+    "product": "Inv EquitiSmart Home Loan",
+    "type": "overdraft",
+    "rate": 10.12,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 1000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "169",
+    "lastUpdated": "2026-07-01T06:00:32.1494081Z"
+  },
+  {
+    "lender": "Gateway Bank",
+    "product": "Edge Overdraft",
+    "type": "overdraft",
+    "rate": 11.74,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 1000,
+    "max": 20000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "170",
+    "lastUpdated": "2026-01-23T06:00:45.6020427Z"
+  },
+  {
+    "lender": "Goulburn Murray Credit Union Co-Operative Ltd",
+    "product": "Business/Farm/Commercial Loan - Unsecured",
+    "type": "unsecured_term",
+    "rate": 18.75,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "Business_Farm_Commercial-_Unsecured",
+    "lastUpdated": "2026-04-09T09:58:05.000+10:00"
+  },
+  {
+    "lender": "Great Southern Bank",
+    "product": "Commercial 1 year fixed - Residentially Secured P&I",
+    "type": "secured_term",
+    "rate": 7.09,
+    "feeFlat": 1485,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "5100-3109",
+    "lastUpdated": "2026-04-23T14:01:00.00000Z"
+  },
+  {
+    "lender": "Great Southern Bank",
+    "product": "Commercial 1 Year Fixed - Residentially Secured IO",
+    "type": "secured_term",
+    "rate": 7.09,
+    "feeFlat": 1485,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "5400-3109",
+    "lastUpdated": "2026-04-23T14:01:00.00000Z"
+  },
+  {
+    "lender": "Great Southern Bank",
+    "product": "Commercial 2 year fixed - Residentially Secured P&I",
+    "type": "secured_term",
+    "rate": 7.14,
+    "feeFlat": 1485,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "5100-3209",
+    "lastUpdated": "2026-04-23T14:01:00.00000Z"
+  },
+  {
+    "lender": "Great Southern Bank",
+    "product": "Commercial 2 Year Fixed - Residentially Secured IO",
+    "type": "secured_term",
+    "rate": 7.14,
+    "feeFlat": 1485,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "5400-3209",
+    "lastUpdated": "2026-04-23T14:01:00.00000Z"
+  },
+  {
+    "lender": "Great Southern Bank",
+    "product": "Commercial 3 year fixed - Residentially Secured P&I",
+    "type": "secured_term",
+    "rate": 7.19,
+    "feeFlat": 1485,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "5100-3309",
+    "lastUpdated": "2026-04-23T14:01:00.00000Z"
+  },
+  {
+    "lender": "Great Southern Bank",
+    "product": "Commercial 3 Year Fixed - Residentially Secured IO",
+    "type": "secured_term",
+    "rate": 7.19,
+    "feeFlat": 1485,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "5400-3309",
+    "lastUpdated": "2026-04-23T14:01:00.00000Z"
+  },
+  {
+    "lender": "Great Southern Bank",
+    "product": "Commercial Variable - Residentially Secured P&I",
+    "type": "secured_term",
+    "rate": 7.25,
+    "feeFlat": 1485,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "5100-3009",
+    "lastUpdated": "2026-05-26T14:01:00.00000Z"
+  },
+  {
+    "lender": "Great Southern Bank",
+    "product": "Commercial Variable - Residentially Secured IO",
+    "type": "secured_term",
+    "rate": 7.25,
+    "feeFlat": 1485,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "5400-3009",
+    "lastUpdated": "2026-05-26T14:01:00.00000Z"
+  },
+  {
+    "lender": "Great Southern Bank",
+    "product": "Commercial 5 year fixed - Residentially Secured P&I",
+    "type": "secured_term",
+    "rate": 7.39,
+    "feeFlat": 1485,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "5100-3509",
+    "lastUpdated": "2026-04-23T14:01:00.00000Z"
+  },
+  {
+    "lender": "Great Southern Bank",
+    "product": "Commercial 5 Year Fixed - Residentially Secured IO",
+    "type": "secured_term",
+    "rate": 7.39,
+    "feeFlat": 1485,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "5400-3509",
+    "lastUpdated": "2026-04-23T14:01:00.00000Z"
+  },
+  {
+    "lender": "Great Southern Bank",
+    "product": "Commercial 1 Year Fixed - Commercially Secured IO",
+    "type": "secured_term",
+    "rate": 7.59,
+    "feeFlat": 1485,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "5200-3109",
+    "lastUpdated": "2026-04-23T14:01:00.00000Z"
+  },
+  {
+    "lender": "Great Southern Bank",
+    "product": "Commercial 1 Year fixed - Commercially secured P&I",
+    "type": "secured_term",
+    "rate": 7.59,
+    "feeFlat": 1485,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "5300-3109",
+    "lastUpdated": "2026-04-23T14:01:00.00000Z"
+  },
+  {
+    "lender": "Great Southern Bank",
+    "product": "Commercial 2 Year Fixed - Commercially Secured IO",
+    "type": "secured_term",
+    "rate": 7.64,
+    "feeFlat": 1485,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "5200-3209",
+    "lastUpdated": "2026-04-23T14:01:00.00000Z"
+  },
+  {
+    "lender": "Great Southern Bank",
+    "product": "Commercial 2 Year fixed - Commercially secured P&I",
+    "type": "secured_term",
+    "rate": 7.64,
+    "feeFlat": 1485,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "5300-3209",
+    "lastUpdated": "2026-04-23T14:01:00.00000Z"
+  },
+  {
+    "lender": "Great Southern Bank",
+    "product": "Commercial 3 Year Fixed - Commercially Secured IO",
+    "type": "secured_term",
+    "rate": 7.69,
+    "feeFlat": 1485,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "5200-3309",
+    "lastUpdated": "2026-04-23T14:01:00.00000Z"
+  },
+  {
+    "lender": "Great Southern Bank",
+    "product": "Commercial 3 Year fixed - Commercially secured P&I",
+    "type": "secured_term",
+    "rate": 7.69,
+    "feeFlat": 1485,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "5300-3309",
+    "lastUpdated": "2026-04-23T14:01:00.00000Z"
+  },
+  {
+    "lender": "Great Southern Bank",
+    "product": "Commercial Variable - Commercially Secured IO",
+    "type": "secured_term",
+    "rate": 7.75,
+    "feeFlat": 1485,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "5200-3009",
+    "lastUpdated": "2026-05-26T14:01:00.00000Z"
+  },
+  {
+    "lender": "Great Southern Bank",
+    "product": "Commercial Variable - Commercially secured P&I",
+    "type": "secured_term",
+    "rate": 7.75,
+    "feeFlat": 1485,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "5300-3009",
+    "lastUpdated": "2026-05-26T14:01:00.00000Z"
+  },
+  {
+    "lender": "Great Southern Bank",
+    "product": "Commercial 5 Year Fixed - Commercially Secured IO",
+    "type": "secured_term",
+    "rate": 7.89,
+    "feeFlat": 1485,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "5200-3509",
+    "lastUpdated": "2026-04-23T14:01:00.00000Z"
+  },
+  {
+    "lender": "Great Southern Bank",
+    "product": "Commercial 5 Year fixed - Commercially secured P&I",
+    "type": "secured_term",
+    "rate": 7.89,
+    "feeFlat": 1485,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "5300-3509",
+    "lastUpdated": "2026-04-23T14:01:00.00000Z"
+  },
+  {
+    "lender": "Great Southern Bank",
+    "product": "Business Overdraft (residential secured)",
+    "type": "overdraft",
+    "rate": 9.45,
+    "feeFlat": 1485,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 250000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "2551-4000",
+    "lastUpdated": "2026-05-26T14:01:00.00000Z"
+  },
+  {
+    "lender": "Great Southern Bank",
+    "product": "Business Overdraft (commercial secured)",
+    "type": "overdraft",
+    "rate": 10.35,
+    "feeFlat": 1485,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 250000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "2555-4000",
+    "lastUpdated": "2026-05-26T14:01:00.00000Z"
+  },
+  {
+    "lender": "Great Southern Bank Business+",
+    "product": "Business+ Vehicle Loan",
+    "type": "unsecured_term",
+    "rate": 6.79,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 1,
+    "max": 250000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "47cab4b5-9653-4f01-b908-90c036bbc12e",
+    "lastUpdated": "2026-04-28T04:40:01.154488Z"
+  },
+  {
+    "lender": "Great Southern Bank Business+",
+    "product": "Business+ Loan",
+    "type": "unsecured_term",
+    "rate": 10.95,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 1,
+    "max": 50000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "84e8f8b3-12df-4dde-abb2-1625418aef10",
+    "lastUpdated": "2026-04-28T04:13:38.861544Z"
+  },
+  {
+    "lender": "Greater Bank",
+    "product": "Business Term Loan - Fixed 1 Year secured by Residential Property",
+    "type": "secured_term",
+    "rate": 7.09,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 1000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "3100",
+    "lastUpdated": "2026-06-24T14:00:00Z"
+  },
+  {
+    "lender": "Greater Bank",
+    "product": "Business Term Loan - Fixed 2 Year secured by Residential Property",
+    "type": "secured_term",
+    "rate": 7.09,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 1000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "3110",
+    "lastUpdated": "2026-06-24T14:00:00Z"
+  },
+  {
+    "lender": "Greater Bank",
+    "product": "Business Term Loan - Fixed 1 Year Interest Only secured by Residential Property",
+    "type": "secured_term",
+    "rate": 7.19,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 1000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "3105",
+    "lastUpdated": "2026-06-24T14:00:00Z"
+  },
+  {
+    "lender": "Greater Bank",
+    "product": "Business Term Loan - Fixed 2 Year Interest Only secured by Residential Property",
+    "type": "secured_term",
+    "rate": 7.19,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 1000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "3115",
+    "lastUpdated": "2026-06-24T14:00:00Z"
+  },
+  {
+    "lender": "Greater Bank",
+    "product": "Business Term Loan - Fixed 3 Year secured by Residential Property",
+    "type": "secured_term",
+    "rate": 7.19,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 1000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "3120",
+    "lastUpdated": "2026-06-24T14:00:00Z"
+  },
+  {
+    "lender": "Greater Bank",
+    "product": "Business Term Loan - Fixed 3 Year Interest Only secured by Residential Property",
+    "type": "secured_term",
+    "rate": 7.29,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 1000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "3125",
+    "lastUpdated": "2026-06-24T14:00:00Z"
+  },
+  {
+    "lender": "Greater Bank",
+    "product": "Business Term Loan - Fixed 4 Year secured by Residential Property",
+    "type": "secured_term",
+    "rate": 7.34,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 1000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "3130",
+    "lastUpdated": "2026-06-24T14:00:00Z"
+  },
+  {
+    "lender": "Greater Bank",
+    "product": "Business Term Loan - Fixed 5 Year secured by Residential Property",
+    "type": "secured_term",
+    "rate": 7.34,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 1000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "3140",
+    "lastUpdated": "2026-06-24T14:00:00Z"
+  },
+  {
+    "lender": "Greater Bank",
+    "product": "Business Term Loan - Fixed 1 Year secured by Commercial Property",
+    "type": "secured_term",
+    "rate": 7.39,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 1000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "3160",
+    "lastUpdated": "2026-06-24T14:00:00Z"
+  },
+  {
+    "lender": "Greater Bank",
+    "product": "Business Term Loan - Fixed 2 Year secured by Commercial Property",
+    "type": "secured_term",
+    "rate": 7.39,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 1000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "3170",
+    "lastUpdated": "2026-06-24T14:00:00Z"
+  },
+  {
+    "lender": "Greater Bank",
+    "product": "Business Term Loan - Fixed 4 Year Interest Only secured by Residential Property",
+    "type": "secured_term",
+    "rate": 7.44,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 1000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "3135",
+    "lastUpdated": "2026-06-24T14:00:00Z"
+  },
+  {
+    "lender": "Greater Bank",
+    "product": "Business Term Loan - Fixed 5 Year Interest Only secured by Residential Property",
+    "type": "secured_term",
+    "rate": 7.44,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 1000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "3145",
+    "lastUpdated": "2026-06-24T14:00:00Z"
+  },
+  {
+    "lender": "Greater Bank",
+    "product": "Business Term Loan - Fixed 1 Year Interest Only secured by Commercial Property",
+    "type": "secured_term",
+    "rate": 7.49,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 1000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "3165",
+    "lastUpdated": "2026-06-24T14:00:00Z"
+  },
+  {
+    "lender": "Greater Bank",
+    "product": "Business Term Loan - Fixed 2 Year Interest Only secured by Commercial Property",
+    "type": "secured_term",
+    "rate": 7.49,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 1000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "3175",
+    "lastUpdated": "2026-06-24T14:00:00Z"
+  },
+  {
+    "lender": "Greater Bank",
+    "product": "Business Term Loan - Fixed 3 Year secured by Commercial Property",
+    "type": "secured_term",
+    "rate": 7.49,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 1000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "3180",
+    "lastUpdated": "2026-06-24T14:00:00Z"
+  },
+  {
+    "lender": "Greater Bank",
+    "product": "Business Term Loan - Fixed 3 Year Interest Only secured by Commercial Property",
+    "type": "secured_term",
+    "rate": 7.59,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 1000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "3185",
+    "lastUpdated": "2026-06-24T14:00:00Z"
+  },
+  {
+    "lender": "Greater Bank",
+    "product": "Business Term Loan - Fixed 4 Year secured by Commercial Property",
+    "type": "secured_term",
+    "rate": 7.64,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 1000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "3190",
+    "lastUpdated": "2026-06-24T14:00:00Z"
+  },
+  {
+    "lender": "Greater Bank",
+    "product": "Business Term Loan - Fixed 5 Year secured by Commercial Property",
+    "type": "secured_term",
+    "rate": 7.64,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 1000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "3200",
+    "lastUpdated": "2026-06-24T14:00:00Z"
+  },
+  {
+    "lender": "Greater Bank",
+    "product": "Business Term Loan - Fixed 4 Year Interest Only secured by Commercial Property",
+    "type": "secured_term",
+    "rate": 7.74,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 1000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "3195",
+    "lastUpdated": "2026-06-24T14:00:00Z"
+  },
+  {
+    "lender": "Greater Bank",
+    "product": "Business Term Loan - Fixed 5 Year Interest Only secured by Commercial Property",
+    "type": "secured_term",
+    "rate": 7.74,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 1000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "3205",
+    "lastUpdated": "2026-06-24T14:00:00Z"
+  },
+  {
+    "lender": "Greater Bank",
+    "product": "Business Term Loan - Variable Rate secured by Residential Property",
+    "type": "secured_term",
+    "rate": 8.95,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 1000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "3090",
+    "lastUpdated": "2026-06-24T14:00:00Z"
+  },
+  {
+    "lender": "Greater Bank",
+    "product": "Business Term Loan - Variable Rate Interest Only secured by Residential Property",
+    "type": "secured_term",
+    "rate": 9.05,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 1000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "3095",
+    "lastUpdated": "2026-06-24T14:00:00Z"
+  },
+  {
+    "lender": "Greater Bank",
+    "product": "Business Term Loan - Variable Rate secured by Commercial Property",
+    "type": "secured_term",
+    "rate": 9.5,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 1000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "3150",
+    "lastUpdated": "2026-06-24T14:00:00Z"
+  },
+  {
+    "lender": "Greater Bank",
+    "product": "Business Term Loan - Variable Rate Interest Only secured by Commercial Property",
+    "type": "secured_term",
+    "rate": 9.6,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 1000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "3155",
+    "lastUpdated": "2026-06-24T14:00:00Z"
+  },
+  {
+    "lender": "Greater Bank",
+    "product": "Business Line of Credit - Secured by Residential Property",
+    "type": "line_of_credit",
+    "rate": 9.7,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 30000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "3235",
+    "lastUpdated": "2026-06-24T14:00:00Z"
+  },
+  {
+    "lender": "Greater Bank",
+    "product": "Business Line of Credit - Unsecured",
+    "type": "line_of_credit",
+    "rate": 9.7,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 30000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "3240",
+    "lastUpdated": "2026-06-24T14:00:00Z"
+  },
+  {
+    "lender": "Greater Bank",
+    "product": "Business Line of Credit - Secured by a Term Deposit",
+    "type": "line_of_credit",
+    "rate": 9.7,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 30000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "3245",
+    "lastUpdated": "2026-06-24T14:00:00Z"
+  },
+  {
+    "lender": "Greater Bank",
+    "product": "Business Line of Credit - Secured by Commercial Property",
+    "type": "line_of_credit",
+    "rate": 10.25,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 30000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "3250",
+    "lastUpdated": "2026-06-24T14:00:00Z"
+  },
+  {
+    "lender": "Heritage",
+    "product": "Equipment Loan Fixed",
+    "type": "unsecured_term",
+    "rate": 6.49,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "a0cd1f4d-d16d-4a5b-9909-ce8e05f9fbff",
+    "lastUpdated": "2025-09-15T14:00:57.76Z"
+  },
+  {
+    "lender": "Heritage",
+    "product": "Fully Drawn Business Loan - Variable Residential Security Principal and Interest",
+    "type": "unsecured_term",
+    "rate": 7.1,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "3359d40e-801a-4200-8b25-3ae9b011e9ee",
+    "lastUpdated": "2026-05-18T14:00:26.283Z"
+  },
+  {
+    "lender": "Heritage",
+    "product": "Fully Drawn Business Loan - Variable Residential Security Interest Only",
+    "type": "unsecured_term",
+    "rate": 7.1,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "0b87f0bf-8b85-429f-989c-d60c4e64de8b",
+    "lastUpdated": "2026-05-18T14:00:23.784Z"
+  },
+  {
+    "lender": "Heritage",
+    "product": "Equipment Loan Variable ",
+    "type": "unsecured_term",
+    "rate": 7.74,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "f3e4a58d-5e93-4ddc-9f54-5701bdd9cbaa",
+    "lastUpdated": "2026-05-18T14:00:30.682Z"
+  },
+  {
+    "lender": "Heritage",
+    "product": "Fully Drawn Business Loan - Variable Non-Residential Security Interest Only",
+    "type": "unsecured_term",
+    "rate": 7.84,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "4e8d1c04-b001-4e31-8cf9-c99128984407",
+    "lastUpdated": "2026-05-18T14:00:28.103Z"
+  },
+  {
+    "lender": "Heritage",
+    "product": "Fully Drawn Business Loan - Variable Non-Residential Security Principal and Interest",
+    "type": "unsecured_term",
+    "rate": 7.84,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "0597d38e-0672-41a6-a735-a7e07b81d69b",
+    "lastUpdated": "2026-05-18T14:00:22.801Z"
+  },
+  {
+    "lender": "Heritage",
+    "product": "Business Line of Credit - Residential Security",
+    "type": "line_of_credit",
+    "rate": 7.94,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 50000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "8f87e3f0-eb75-4322-8512-33b1bb2f49e5",
+    "lastUpdated": "2026-05-18T14:00:28.503Z"
+  },
+  {
+    "lender": "Heritage",
+    "product": "Business Overdraft - Residential Security",
+    "type": "overdraft",
+    "rate": 8,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "1534c146-0a8d-4d5d-b08c-4bc99dafd99f",
+    "lastUpdated": "2026-06-04T00:02:46.043Z"
+  },
+  {
+    "lender": "Heritage",
+    "product": "Self-Managed Super Fund Fully Drawn Loan Fixed Residential Interest Only",
+    "type": "unsecured_term",
+    "rate": 8.44,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 250000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "c214f253-5fc6-4eff-bf8c-eb60ac73dcff",
+    "lastUpdated": "2026-07-02T14:00:31.148Z"
+  },
+  {
+    "lender": "Heritage",
+    "product": "Self-Managed Super Fund Fully Drawn Loan Fixed Residential Principal and Interest",
+    "type": "unsecured_term",
+    "rate": 8.44,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 250000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "294ddd59-d61f-4aab-ac33-44312b239ef0",
+    "lastUpdated": "2026-07-02T14:00:26.868Z"
+  },
+  {
+    "lender": "Heritage",
+    "product": "Business Line of Credit - Non-Residential Security",
+    "type": "line_of_credit",
+    "rate": 8.65,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 50000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "2e6a74a1-f41d-432d-a28f-a9507ad74258",
+    "lastUpdated": "2026-05-18T14:00:25.443Z"
+  },
+  {
+    "lender": "Heritage",
+    "product": "Business Overdraft - Non-Residential Security",
+    "type": "overdraft",
+    "rate": 8.65,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "a36a2dce-9a5f-4fe8-ac86-b8c4d6f6e6c0",
+    "lastUpdated": "2026-06-04T00:02:49.554Z"
+  },
+  {
+    "lender": "Heritage",
+    "product": "Self-Managed Super Fund Fully Drawn Loan Variable Residential Principal and Interest",
+    "type": "unsecured_term",
+    "rate": 8.74,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 250000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "b52a9ec4-e544-44f2-9570-1e75883ac193",
+    "lastUpdated": "2026-05-18T14:00:29.423Z"
+  },
+  {
+    "lender": "Heritage",
+    "product": "Self-Managed Super Fund Fully Drawn Loan Variable Residential Interest Only",
+    "type": "unsecured_term",
+    "rate": 8.74,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 250000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "49c213e4-ac37-4fce-88da-09022b006918",
+    "lastUpdated": "2026-05-18T14:00:27.723Z"
+  },
+  {
+    "lender": "Heritage",
+    "product": "Self-Managed Super Fund Fully Drawn Loan Variable Non-Residential Principal and Interest",
+    "type": "unsecured_term",
+    "rate": 8.99,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 250000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "c784a523-4fef-4eed-ba83-277e88723329",
+    "lastUpdated": "2026-05-18T14:00:29.803Z"
+  },
+  {
+    "lender": "Heritage",
+    "product": "Self-Managed Super Fund Fully Drawn Loan Variable Non-Residential Interest Only",
+    "type": "unsecured_term",
+    "rate": 8.99,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 250000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "3fd36b2f-c130-4562-a529-8b67994a0338",
+    "lastUpdated": "2026-05-18T14:00:27.263Z"
+  },
+  {
+    "lender": "Heritage",
+    "product": "Self-Managed Super Fund Fully Drawn Loan Fixed Non-Residential Interest Only",
+    "type": "unsecured_term",
+    "rate": 9.44,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 250000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "7271aeac-5472-4a4d-ae17-3855fe7b8cfc",
+    "lastUpdated": "2026-07-02T14:00:28.129Z"
+  },
+  {
+    "lender": "Heritage",
+    "product": "Self-Managed Super Fund Fully Drawn Loan Fixed Non-Residential Principal and Interest",
+    "type": "unsecured_term",
+    "rate": 9.44,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 250000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "21fd9ab4-2ae8-41f5-9e82-31a3bb0d25d9",
+    "lastUpdated": "2026-07-02T14:00:25.409Z"
+  },
+  {
+    "lender": "HORIZON BANK",
+    "product": "Business Interest Only Variable",
+    "type": "unsecured_term",
+    "rate": 7.89,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "L19_L190001",
+    "lastUpdated": "2025-10-30T09:24:46.000+11:00"
+  },
+  {
+    "lender": "HORIZON BANK",
+    "product": "BUDGET OVERDRAFT",
+    "type": "overdraft",
+    "rate": 11,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "S9_S90001",
+    "lastUpdated": "2026-07-01T09:11:50.000+10:00"
+  },
+  {
+    "lender": "IMB Bank",
+    "product": "Fully Drawn Commercial Loan",
+    "type": "unsecured_term",
+    "rate": 6.69,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "BL-3-1",
+    "lastUpdated": "2026-05-29T00:00:00+10:00"
+  },
+  {
+    "lender": "IMB Bank",
+    "product": "Secured Business Overdraft",
+    "type": "overdraft",
+    "rate": 7.84,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 2000,
+    "max": 500000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "OD-25-1",
+    "lastUpdated": "2026-05-29T00:00:00+10:00"
+  },
+  {
+    "lender": "IMB Bank",
+    "product": "Commercial Credit line",
+    "type": "line_of_credit",
+    "rate": 7.99,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 100000,
+    "max": 2000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "OD-50-1",
+    "lastUpdated": "2026-05-29T00:00:00+10:00"
+  },
+  {
+    "lender": "IMB Bank",
+    "product": "Unsecured Business Overdraft",
+    "type": "overdraft",
+    "rate": 10.84,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 2000,
+    "max": 20000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "OD-25-2",
+    "lastUpdated": "2026-05-29T00:00:00+10:00"
+  },
+  {
+    "lender": "IMB Bank",
+    "product": "Personal Line of Credit",
+    "type": "line_of_credit",
+    "rate": 13.85,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 500,
+    "max": 20000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "OD-2-1",
+    "lastUpdated": "2026-03-04T10:00:00+11:00"
   },
   {
     "lender": "Judo Bank",
@@ -287,43 +5745,42 @@
     "lastUpdated": "2026-05-03T23:47:32.074315Z"
   },
   {
-    "lender": "Regional Australia Bank",
-    "product": "Commercial Overdraft",
-    "type": "unsecured_term",
-    "rate": 0,
-    "feeFlat": 200,
-    "feePct": 0,
-    "feeMo": 0,
-    "min": 500,
-    "max": 5000000,
-    "maxTerm": 360,
-    "sec": [
-      "none",
-      "residential",
-      "commercial",
-      "business_assets"
-    ],
-    "trade": 0,
-    "turn": 0,
-    "fund": 7,
-    "io": false,
-    "feat": [
-      "CDR-sourced product data"
-    ],
-    "source": "CDR",
-    "category": "BUSINESS_LOANS",
-    "productId": "09c56907-af9d-4569-a37b-bdae44307a4c",
-    "lastUpdated": "2026-06-29T05:18:39.730898Z"
-  },
-  {
-    "lender": "Regional Australia Bank",
-    "product": "Business Line of Credit",
-    "type": "unsecured_term",
-    "rate": 0,
+    "lender": "Lending and bank accounts, both associated with BSB number 939 200",
+    "product": "AMP First Home Loan",
+    "type": "line_of_credit",
+    "rate": 6.13,
     "feeFlat": 0,
     "feePct": 0,
     "feeMo": 0,
-    "min": 500,
+    "min": 40000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "AMP_FIRST_HL",
+    "lastUpdated": "2026-06-30T00:00:00.000Z"
+  },
+  {
+    "lender": "Lending and bank accounts, both associated with BSB number 939 200",
+    "product": "AMP Essential Home Loan",
+    "type": "unsecured_term",
+    "rate": 6.18,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 250000,
     "max": 5000000,
     "maxTerm": 360,
     "sec": [
@@ -341,18 +5798,131 @@
     ],
     "source": "CDR",
     "category": "BUSINESS_LOANS",
-    "productId": "b51c18ab-6882-48d8-927a-d1e2423121c2",
-    "lastUpdated": "2026-06-29T04:15:36.960801Z"
+    "productId": "AMP_ESSENTIAL_HL",
+    "lastUpdated": "2026-06-30T00:00:00.000Z"
   },
   {
-    "lender": "Regional Australia Bank",
-    "product": "Mortgage Secured Commercial Loan",
-    "type": "secured_term",
-    "rate": 0,
-    "feeFlat": 250,
+    "lender": "Lending and bank accounts, both associated with BSB number 939 200",
+    "product": "AMP Essential Home Loan",
+    "type": "overdraft",
+    "rate": 6.18,
+    "feeFlat": 0,
     "feePct": 0,
     "feeMo": 0,
-    "min": 500,
+    "min": 250000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "AMP_ESSENTIAL_HL",
+    "lastUpdated": "2026-06-30T00:00:00.000Z"
+  },
+  {
+    "lender": "Lending and bank accounts, both associated with BSB number 939 200",
+    "product": "Professional Package",
+    "type": "line_of_credit",
+    "rate": 6.28,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 100000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "AMP_PROFESSIONAL_PACKAGE_HL",
+    "lastUpdated": "2026-06-30T00:00:00.000Z"
+  },
+  {
+    "lender": "Lending and bank accounts, both associated with BSB number 939 200",
+    "product": "AMP Superedge Loan",
+    "type": "unsecured_term",
+    "rate": 6.89,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 200000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "AMP_SMSF_HL",
+    "lastUpdated": "2026-06-30T00:00:00.000Z"
+  },
+  {
+    "lender": "Lending and bank accounts, both associated with BSB number 939 200",
+    "product": "AMP Superedge Loan",
+    "type": "overdraft",
+    "rate": 6.89,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 200000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "AMP_SMSF_HL",
+    "lastUpdated": "2026-06-30T00:00:00.000Z"
+  },
+  {
+    "lender": "Lending and bank accounts, both associated with BSB number 939 200",
+    "product": "Land Loan",
+    "type": "secured_term",
+    "rate": 6.94,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 40000,
     "max": 5000000,
     "maxTerm": 360,
     "sec": [
@@ -369,18 +5939,1050 @@
     ],
     "source": "CDR",
     "category": "BUSINESS_LOANS",
-    "productId": "be07ff16-1400-4001-9e0b-337485eff020",
-    "lastUpdated": "2026-06-29T04:08:48.782583Z"
+    "productId": "AMP_LAND_HL",
+    "lastUpdated": "2026-06-30T00:00:00.000Z"
   },
   {
-    "lender": "Regional Australia Bank",
-    "product": "Non-Mortgage Secured Commercial Loan",
-    "type": "secured_term",
-    "rate": 0,
-    "feeFlat": 250,
+    "lender": "Lending and bank accounts, both associated with BSB number 939 200",
+    "product": "Land Loan",
+    "type": "overdraft",
+    "rate": 6.94,
+    "feeFlat": 0,
     "feePct": 0,
     "feeMo": 0,
-    "min": 500,
+    "min": 40000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "AMP_LAND_HL",
+    "lastUpdated": "2026-06-30T00:00:00.000Z"
+  },
+  {
+    "lender": "Liberty Financial",
+    "product": "Residential SMSF loan",
+    "type": "unsecured_term",
+    "rate": 7.1,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 100000,
+    "max": 10000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "00dbdc4e-0b48-4982-a02e-545b334b1d5c",
+    "lastUpdated": "2026-05-15T00:00:00Z"
+  },
+  {
+    "lender": "Liberty Financial",
+    "product": "Commercial SMSF loan",
+    "type": "unsecured_term",
+    "rate": 7.65,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 100000,
+    "max": 4000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "521fc98e-c5a3-4f6d-adc8-bbc1b663e42d",
+    "lastUpdated": "2026-05-15T00:00:00Z"
+  },
+  {
+    "lender": "Liberty Financial",
+    "product": "Low rate commercial loan",
+    "type": "unsecured_term",
+    "rate": 7.95,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 100000,
+    "max": 4000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "b0a3d1a9-0db9-4e37-abc4-8b3b8f0e4ca3",
+    "lastUpdated": "2026-05-15T00:00:00Z"
+  },
+  {
+    "lender": "Liberty Financial",
+    "product": "Lease income loan",
+    "type": "unsecured_term",
+    "rate": 8,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 100000,
+    "max": 4000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "7805a6c8-2f6d-4a93-8479-5fdaab52af78",
+    "lastUpdated": "2026-05-15T00:00:00Z"
+  },
+  {
+    "lender": "Liberty Financial",
+    "product": "Business car loan",
+    "type": "unsecured_term",
+    "rate": 8.29,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 100000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "25a81184-730a-4d35-a2e1-f19a00f7ad2c",
+    "lastUpdated": "2026-06-09T00:00:00Z"
+  },
+  {
+    "lender": "Liberty Financial",
+    "product": "Low doc commercial loan",
+    "type": "unsecured_term",
+    "rate": 8.6,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 100000,
+    "max": 4000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "5259b11b-d90d-41a9-a964-471cc8b02b1b",
+    "lastUpdated": "2026-05-15T00:00:00Z"
+  },
+  {
+    "lender": "Liberty Financial",
+    "product": "Secured business loan",
+    "type": "secured_term",
+    "rate": 8.7,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 50000,
+    "max": 200000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "581a8d2c-9190-415e-afb2-0dec1c24caf8",
+    "lastUpdated": "2026-05-15T00:00:00Z"
+  },
+  {
+    "lender": "Liberty Financial",
+    "product": "Low doc business loan",
+    "type": "unsecured_term",
+    "rate": 9.2,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 50000,
+    "max": 2000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "5838dfc3-b759-4a6b-9da3-95efcb3b426f",
+    "lastUpdated": "2026-05-15T00:00:00Z"
+  },
+  {
+    "lender": "Liberty Financial",
+    "product": "Short term commercial loan",
+    "type": "unsecured_term",
+    "rate": 9.8,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 100000,
+    "max": 4000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "5a550c19-aa68-486f-843e-acb9ed6ebad9",
+    "lastUpdated": "2026-05-15T00:00:00Z"
+  },
+  {
+    "lender": "Liberty Financial",
+    "product": "Business line of credit",
+    "type": "line_of_credit",
+    "rate": 10.2,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 50000,
+    "max": 2000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "ff73e566-161a-4c85-a179-7fddd3f1d1b5",
+    "lastUpdated": "2026-05-15T00:00:00Z"
+  },
+  {
+    "lender": "Liberty Financial",
+    "product": "Flexible business loan",
+    "type": "unsecured_term",
+    "rate": 14.7,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 50000,
+    "max": 500000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "d9bc6f89-5367-4524-9e4c-6c6eefdd317d",
+    "lastUpdated": "2026-05-15T00:00:00Z"
+  },
+  {
+    "lender": "Moula",
+    "product": "Line of Credit",
+    "type": "line_of_credit",
+    "rate": 15.99,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 500000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "b1a7c0de-1111-4a2b-8c3d-000000000002",
+    "lastUpdated": "2026-07-07T00:00:00Z"
+  },
+  {
+    "lender": "Moula",
+    "product": "Business Loan",
+    "type": "unsecured_term",
+    "rate": 15.99,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 10000,
+    "max": 500000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "b1a7c0de-1111-4a2b-8c3d-000000000001",
+    "lastUpdated": "2026-07-07T00:00:00Z"
+  },
+  {
+    "lender": "NATIONAL AUSTRALIA BANK",
+    "product": "NAB Business Options Loan",
+    "type": "unsecured_term",
+    "rate": 7.85,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "ef0c8b23-e9ae-49af-9c0f-e31b4a27f542",
+    "lastUpdated": "2026-05-15T13:59:59Z"
+  },
+  {
+    "lender": "NATIONAL AUSTRALIA BANK",
+    "product": "NAB Equity Builder",
+    "type": "unsecured_term",
+    "rate": 9.25,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 10000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "084a4d49-6285-4f9d-911d-02a728cc3337",
+    "lastUpdated": "2026-01-06T13:59:59Z"
+  },
+  {
+    "lender": "NATIONAL AUSTRALIA BANK",
+    "product": "NAB Business Overdraft",
+    "type": "overdraft",
+    "rate": 10.72,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "88e4d085-8981-4f5e-93d0-05609fd30efd",
+    "lastUpdated": "2026-05-15T13:59:59Z"
+  },
+  {
+    "lender": "NATIONAL AUSTRALIA BANK",
+    "product": "NAB QuickBiz Loan",
+    "type": "unsecured_term",
+    "rate": 12.95,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 250000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "965a7f64-167c-4b26-b8ab-06e90cdb3ff4",
+    "lastUpdated": "2026-01-05T13:59:59Z"
+  },
+  {
+    "lender": "NATIONAL AUSTRALIA BANK",
+    "product": "NAB QuickBiz Overdraft",
+    "type": "line_of_credit",
+    "rate": 16.25,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 50000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "74a3b3bc-af32-441c-b4cd-c38c8717fd56",
+    "lastUpdated": "2026-05-15T13:59:59Z"
+  },
+  {
+    "lender": "Newcastle Permanent Building Society",
+    "product": "Business Loan Fixed Rate Interest Only",
+    "type": "unsecured_term",
+    "rate": 6.5,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "BL_busfixedIO",
+    "lastUpdated": "2026-06-24T14:00:00.000+10:00"
+  },
+  {
+    "lender": "Newcastle Permanent Building Society",
+    "product": "Business Loan Fixed Rate Principal and Interest",
+    "type": "unsecured_term",
+    "rate": 6.5,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "BL_busfixedPI",
+    "lastUpdated": "2026-06-24T14:00:00.000+10:00"
+  },
+  {
+    "lender": "Newcastle Permanent Building Society",
+    "product": "Business Loan Variable Rate Principal and Interest",
+    "type": "unsecured_term",
+    "rate": 7.81,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "BL_busFDA",
+    "lastUpdated": "2026-06-24T14:00:00.000+10:00"
+  },
+  {
+    "lender": "Newcastle Permanent Building Society",
+    "product": "Business Loan Variable Rate Interest Only",
+    "type": "unsecured_term",
+    "rate": 8.26,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "BL_busFDAIO",
+    "lastUpdated": "2026-06-24T14:00:00.000+10:00"
+  },
+  {
+    "lender": "Newcastle Permanent Building Society",
+    "product": "Business Overdraft Facility",
+    "type": "line_of_credit",
+    "rate": 8.26,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "BL_busoverdraft",
+    "lastUpdated": "2026-06-24T14:00:00.000+10:00"
+  },
+  {
+    "lender": "NORTHERN INLAND CREDIT UNION LTD.",
+    "product": "Easy Access",
+    "type": "overdraft",
+    "rate": 8.1,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 2000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "NICUS50",
+    "lastUpdated": "2025-12-30T10:25:33.000+11:00"
+  },
+  {
+    "lender": "NORTHERN INLAND CREDIT UNION LTD.",
+    "product": "Commercial Overdraft",
+    "type": "overdraft",
+    "rate": 10.24,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 2000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "NICUS30",
+    "lastUpdated": "2025-10-01T16:17:17.000+10:00"
+  },
+  {
+    "lender": "NORTHERN INLAND CREDIT UNION LTD.",
+    "product": "Personal Overdraft",
+    "type": "overdraft",
+    "rate": 15.75,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 2000,
+    "max": 25000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "NICUS51",
+    "lastUpdated": "2025-10-01T16:17:17.000+10:00"
+  },
+  {
+    "lender": "P&N Bank",
+    "product": "Equity Access Account",
+    "type": "line_of_credit",
+    "rate": 9.12,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "158",
+    "lastUpdated": "2026-07-17T00:00:25.0950999Z"
+  },
+  {
+    "lender": "People First Bank",
+    "product": "Business Fixed Rate Loan - Interest Only",
+    "type": "unsecured_term",
+    "rate": 6.44,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "c43ab4f9-856c-4928-ae7a-a95768fd333a",
+    "lastUpdated": "2026-07-02T22:50:28.365Z"
+  },
+  {
+    "lender": "People First Bank",
+    "product": "Business Fixed Rate Loan",
+    "type": "unsecured_term",
+    "rate": 6.44,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "6f9c4a8f-055a-491e-9cdb-53785eefd938",
+    "lastUpdated": "2026-07-02T22:50:26.685Z"
+  },
+  {
+    "lender": "People First Bank",
+    "product": "Business Vehicle Loan",
+    "type": "unsecured_term",
+    "rate": 6.49,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "0f93bb2e-64b9-4f63-a789-4c9656bb8999",
+    "lastUpdated": "2026-05-04T14:35:28.326Z"
+  },
+  {
+    "lender": "People First Bank",
+    "product": "Business Variable Construction",
+    "type": "unsecured_term",
+    "rate": 7.76,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "eab1d4b0-0ced-4b99-8e0e-a603463cdac6",
+    "lastUpdated": "2026-05-18T14:35:50.224Z"
+  },
+  {
+    "lender": "People First Bank",
+    "product": "Business Variable Rate Loan - IO",
+    "type": "unsecured_term",
+    "rate": 7.76,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "d1b0e280-08e8-47cb-a972-087129869df1",
+    "lastUpdated": "2026-05-18T14:35:44.784Z"
+  },
+  {
+    "lender": "People First Bank",
+    "product": "Business Variable Rate Loan",
+    "type": "unsecured_term",
+    "rate": 7.76,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "748ce96a-d2ce-4dfb-b5e4-130541a90801",
+    "lastUpdated": "2026-05-18T14:35:35.503Z"
+  },
+  {
+    "lender": "People First Bank",
+    "product": "Business Line of Credit",
+    "type": "line_of_credit",
+    "rate": 8.85,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 10000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "d96a6e79-04b7-46e6-8edf-1e14801fecf2",
+    "lastUpdated": "2026-05-18T14:35:47.204Z"
+  },
+  {
+    "lender": "POLICE CREDIT UNION LIMITED",
+    "product": "Commercial Vehicle Fixed Loan",
+    "type": "unsecured_term",
+    "rate": 6.49,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "Commercial_Vehicle_Fixed",
+    "lastUpdated": "2026-04-09T15:47:06.000+09:30"
+  },
+  {
+    "lender": "POLICE CREDIT UNION LIMITED",
+    "product": "1yr fixed Secured Commercial Term Loan",
+    "type": "secured_term",
+    "rate": 6.8,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
     "max": 5000000,
     "maxTerm": 360,
     "sec": [
@@ -397,17 +6999,1436 @@
     ],
     "source": "CDR",
     "category": "BUSINESS_LOANS",
-    "productId": "7d0d4ba2-8e3c-4a7d-8684-8e9a91c1498f",
-    "lastUpdated": "2026-06-29T04:08:22.355373Z"
+    "productId": "SEC_COM_TERM_LOAN_1YR_FXD",
+    "lastUpdated": "2026-04-08T16:06:24.000+09:30"
+  },
+  {
+    "lender": "POLICE CREDIT UNION LIMITED",
+    "product": "2yr fixed Secured Commercial Term Loan",
+    "type": "secured_term",
+    "rate": 6.95,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "SEC_COM_TERM_LOAN_2YR_FXD",
+    "lastUpdated": "2026-04-08T16:06:24.000+09:30"
+  },
+  {
+    "lender": "POLICE CREDIT UNION LIMITED",
+    "product": "Go Sixty Plus LOC",
+    "type": "overdraft",
+    "rate": 6.99,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "Go_Sixty_Plus_LOC",
+    "lastUpdated": "2026-04-27T11:18:34.000+09:30"
+  },
+  {
+    "lender": "POLICE CREDIT UNION LIMITED",
+    "product": "3yr fixed Secured Commercial Term Loan",
+    "type": "secured_term",
+    "rate": 7.1,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "SEC_COM_TERM_LOAN_3YR_FXD",
+    "lastUpdated": "2026-04-08T16:06:24.000+09:30"
+  },
+  {
+    "lender": "POLICE CREDIT UNION LIMITED",
+    "product": "4yr fixed Secured Commercial Term Loan",
+    "type": "secured_term",
+    "rate": 7.25,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "SEC_COM_TERM_LOAN_4YR_FXD",
+    "lastUpdated": "2026-04-08T16:06:24.000+09:30"
+  },
+  {
+    "lender": "POLICE CREDIT UNION LIMITED",
+    "product": "5yr fixed Secured Commercial Term Loan",
+    "type": "secured_term",
+    "rate": 7.25,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "SEC_COM_TERM_LOAN_5YR_FXD",
+    "lastUpdated": "2026-04-08T16:06:24.000+09:30"
+  },
+  {
+    "lender": "POLICE CREDIT UNION LIMITED",
+    "product": "Commercial Vehicle Variable Loan",
+    "type": "unsecured_term",
+    "rate": 7.38,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "Commercial_Vehicle_Variable_loan",
+    "lastUpdated": "2026-05-28T13:15:34.000+09:30"
+  },
+  {
+    "lender": "POLICE CREDIT UNION LIMITED",
+    "product": "Secured Residential Term Loan",
+    "type": "secured_term",
+    "rate": 7.4,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "SEC_RES_TERM_LOAN",
+    "lastUpdated": "2026-05-26T14:02:09.000+09:30"
+  },
+  {
+    "lender": "POLICE CREDIT UNION LIMITED",
+    "product": "Secured Commercial Term Loan",
+    "type": "secured_term",
+    "rate": 7.45,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "SEC_COM_TERM_LOAN",
+    "lastUpdated": "2026-05-26T14:02:09.000+09:30"
+  },
+  {
+    "lender": "POLICE CREDIT UNION LIMITED",
+    "product": "Equity Plus Home Loan Line of Credit",
+    "type": "line_of_credit",
+    "rate": 7.49,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "Equity_Plus_Home_Loan",
+    "lastUpdated": "2026-04-27T11:46:45.000+09:30"
+  },
+  {
+    "lender": "POLICE CREDIT UNION LIMITED",
+    "product": "Allegro Line of Credit",
+    "type": "line_of_credit",
+    "rate": 7.49,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "Allegro_Line_of_Credit",
+    "lastUpdated": "2026-04-27T11:44:18.000+09:30"
+  },
+  {
+    "lender": "POLICE CREDIT UNION LIMITED",
+    "product": "Equity Plus Personal Line of Credit",
+    "type": "line_of_credit",
+    "rate": 7.49,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "Equity_Plus_Personal",
+    "lastUpdated": "2026-04-27T11:41:15.000+09:30"
+  },
+  {
+    "lender": "POLICE CREDIT UNION LIMITED",
+    "product": "Secured Non-Property Term Loan Variable",
+    "type": "secured_term",
+    "rate": 7.65,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "SEC_NON-PROP_TERM_LOAN",
+    "lastUpdated": "2026-05-26T14:02:09.000+09:30"
+  },
+  {
+    "lender": "POLICE CREDIT UNION LIMITED",
+    "product": "Residential Development Loan",
+    "type": "unsecured_term",
+    "rate": 7.65,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "RES_DEV_LOAN_VARIABLE",
+    "lastUpdated": "2026-05-26T14:01:17.000+09:30"
+  },
+  {
+    "lender": "POLICE CREDIT UNION LIMITED",
+    "product": "Secured Non-Property Term Loan Fixed",
+    "type": "secured_term",
+    "rate": 7.85,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "SEC_NON-PROP_TERM_LOAN_1-5YR_FXD",
+    "lastUpdated": "2026-04-10T14:45:28.000+09:30"
+  },
+  {
+    "lender": "POLICE CREDIT UNION LIMITED",
+    "product": "Commercial Development Loan",
+    "type": "unsecured_term",
+    "rate": 7.9,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "COM_DEV_LOAN",
+    "lastUpdated": "2026-05-26T14:01:17.000+09:30"
+  },
+  {
+    "lender": "POLICE CREDIT UNION LIMITED",
+    "product": "Redi Access Overdraft Account",
+    "type": "overdraft",
+    "rate": 13.99,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "Redi_Access_Overdraft_Account",
+    "lastUpdated": "2025-11-21T15:10:52.000+10:30"
+  },
+  {
+    "lender": "QBANK",
+    "product": "Classic Plus Overdraft  $250,000.00 and Above",
+    "type": "overdraft",
+    "rate": 8.29,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 250000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "S28_CLASSIC_PLUS_OD_GT$250",
+    "lastUpdated": "2026-06-01T08:02:08.000+10:00"
+  },
+  {
+    "lender": "QBANK",
+    "product": "Classic Plus Overdraft Less Than $250,000.00",
+    "type": "overdraft",
+    "rate": 8.44,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 100000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "S29_CLASSIC_PLUS_OD_LT$250",
+    "lastUpdated": "2026-06-01T08:01:44.000+10:00"
+  },
+  {
+    "lender": "QBANK",
+    "product": "Mortgage Secured Overdraft",
+    "type": "overdraft",
+    "rate": 8.89,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 30000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "S40_STND_MTGE_SEC_ODRAFT",
+    "lastUpdated": "2026-06-01T08:02:37.000+10:00"
+  },
+  {
+    "lender": "Queensland Country Bank",
+    "product": "Specialised Variable",
+    "type": "unsecured_term",
+    "rate": 6.24,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 10000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "77",
+    "lastUpdated": "2026-07-17T00:00:24.7049734Z"
+  },
+  {
+    "lender": "Queensland Country Bank",
+    "product": "Specialised Variable I.O.",
+    "type": "unsecured_term",
+    "rate": 6.24,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 10000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "78",
+    "lastUpdated": "2026-07-17T00:00:24.7049734Z"
+  },
+  {
+    "lender": "Queensland Country Bank",
+    "product": "Specialised Fixed",
+    "type": "unsecured_term",
+    "rate": 6.29,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 10000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "79",
+    "lastUpdated": "2026-07-17T00:00:24.7049734Z"
+  },
+  {
+    "lender": "Queensland Country Bank",
+    "product": "Specialised Fixed I.O.",
+    "type": "unsecured_term",
+    "rate": 6.49,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 10000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "80",
+    "lastUpdated": "2026-07-17T00:00:24.7049734Z"
+  },
+  {
+    "lender": "Queensland Country Bank",
+    "product": "Business Green Car Loan",
+    "type": "unsecured_term",
+    "rate": 6.74,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "47",
+    "lastUpdated": "2026-07-17T00:00:24.7049734Z"
+  },
+  {
+    "lender": "Queensland Country Bank",
+    "product": "Commercial Loan - Secured",
+    "type": "secured_term",
+    "rate": 6.99,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 10000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "44",
+    "lastUpdated": "2026-07-17T00:00:24.7049734Z"
+  },
+  {
+    "lender": "Queensland Country Bank",
+    "product": "Line of Credit",
+    "type": "line_of_credit",
+    "rate": 8.69,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "48",
+    "lastUpdated": "2026-07-17T00:00:24.7049734Z"
+  },
+  {
+    "lender": "Queensland Country Bank",
+    "product": "Commercial Loan - Res Secured",
+    "type": "secured_term",
+    "rate": 10.34,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 10000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "45",
+    "lastUpdated": "2026-07-17T00:00:24.7049734Z"
+  },
+  {
+    "lender": "Queensland Country Bank",
+    "product": "Overdraft - Secured",
+    "type": "overdraft",
+    "rate": 11.09,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "36",
+    "lastUpdated": "2026-07-17T00:00:24.7049734Z"
+  },
+  {
+    "lender": "Queensland Country Bank",
+    "product": "Overdraft - Unsecured",
+    "type": "overdraft",
+    "rate": 15.04,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "35",
+    "lastUpdated": "2026-07-17T00:00:24.7049734Z"
+  },
+  {
+    "lender": "RACQ Bank",
+    "product": "Home Loan Overdraft",
+    "type": "overdraft",
+    "rate": 9,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "202",
+    "lastUpdated": "2026-05-18T22:23:22Z"
+  },
+  {
+    "lender": "RACQ Bank",
+    "product": "Commercial Loan Principal and Interest",
+    "type": "unsecured_term",
+    "rate": 9.88,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "104",
+    "lastUpdated": "2026-05-18T22:23:28Z"
+  },
+  {
+    "lender": "RACQ Bank",
+    "product": "Business Secured Current Account",
+    "type": "overdraft",
+    "rate": 9.96,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "222",
+    "lastUpdated": "2026-05-18T22:24:08Z"
+  },
+  {
+    "lender": "RACQ Bank",
+    "product": "Commercial Loan Interest Only",
+    "type": "unsecured_term",
+    "rate": 10.02,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "304",
+    "lastUpdated": "2026-05-18T22:23:39Z"
+  },
+  {
+    "lender": "Sandhurst Trustees Limited",
+    "product": "Commercial Loan",
+    "type": "unsecured_term",
+    "rate": 6.85,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 100000,
+    "max": 20000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "53140f6d-3747-450e-884b-7bede060f558",
+    "lastUpdated": "2026-03-16T04:56:20.384Z"
+  },
+  {
+    "lender": "SCCU",
+    "product": "BUSINESS LOAN",
+    "type": "secured_term",
+    "rate": 6.75,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "BUSINESS_LOAN",
+    "lastUpdated": "2026-06-09T11:06:22.000+10:00"
+  },
+  {
+    "lender": "SCCU",
+    "product": "MOTOR SCOUT BUSINESS VEHICLE LOAN",
+    "type": "unsecured_term",
+    "rate": 7.6,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 150000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "MOTORSCOUT_BUSINESS_VEHICLE_LOAN",
+    "lastUpdated": "2026-06-30T21:40:50.000+10:00"
+  },
+  {
+    "lender": "SCCU",
+    "product": "BUSINESS VEHICLE LOAN",
+    "type": "unsecured_term",
+    "rate": 7.6,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "BUSINESS_VEHICLE_LOAN",
+    "lastUpdated": "2026-06-09T11:07:31.000+10:00"
+  },
+  {
+    "lender": "SCCU",
+    "product": "BUSINESS OVERDRAFT",
+    "type": "overdraft",
+    "rate": 8.5,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "BUSINESS_PLUS_OVERDRAFT",
+    "lastUpdated": "2026-06-09T11:08:30.000+10:00"
+  },
+  {
+    "lender": "South West Slopes Credit Union Ltd trading as SWSbank",
+    "product": "Fixed Rate Commercial Car",
+    "type": "unsecured_term",
+    "rate": 5.99,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 1000,
+    "max": 200000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "L30_FR_COMM_VL",
+    "lastUpdated": "2025-12-16T14:22:04.000+11:00"
+  },
+  {
+    "lender": "South West Slopes Credit Union Ltd trading as SWSbank",
+    "product": "Commercial Unsecured Loans",
+    "type": "unsecured_term",
+    "rate": 12.95,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 30000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "L31_CUS",
+    "lastUpdated": "2025-12-16T14:22:28.000+11:00"
+  },
+  {
+    "lender": "St.George Bank",
+    "product": "Variable Rate Small Business Loan",
+    "type": "unsecured_term",
+    "rate": 9.23,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "STGVariableRateSmallBusinessLoan",
+    "lastUpdated": "2026-05-15T00:00:00Z"
+  },
+  {
+    "lender": "St.George Bank",
+    "product": "Commercial Unsecured Overdraft",
+    "type": "line_of_credit",
+    "rate": 9.81,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "STGUnsecuredCommercialOverdraft",
+    "lastUpdated": "2026-05-18T00:00:00Z"
+  },
+  {
+    "lender": "St.George Bank",
+    "product": "Commercial Overdraft",
+    "type": "overdraft",
+    "rate": 9.81,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "STGCommercialOverdraft",
+    "lastUpdated": "2026-05-15T00:00:00Z"
+  },
+  {
+    "lender": "Summerland Bank",
+    "product": "Business Loan",
+    "type": "unsecured_term",
+    "rate": 8.59,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 30000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "64",
+    "lastUpdated": "2026-06-30T08:00:41.6073899Z"
+  },
+  {
+    "lender": "Summerland Bank",
+    "product": "Business Plus Overdraft",
+    "type": "line_of_credit",
+    "rate": 10.29,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 1000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "63",
+    "lastUpdated": "2026-06-27T16:00:40.3243706Z"
+  },
+  {
+    "lender": "Summerland Bank",
+    "product": "Equity Extra Investment Overdr",
+    "type": "overdraft",
+    "rate": 10.29,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 10000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "84",
+    "lastUpdated": "2026-06-27T16:00:40.3243706Z"
+  },
+  {
+    "lender": "Suncorp Bank",
+    "product": "Business Essentials Term Loan Special Offer",
+    "type": "unsecured_term",
+    "rate": 6.74,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "BELSPEC",
+    "lastUpdated": "2026-05-14T14:00:00.000Z"
+  },
+  {
+    "lender": "Suncorp Bank",
+    "product": "Business Essentials Loan",
+    "type": "unsecured_term",
+    "rate": 8.94,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "BEL",
+    "lastUpdated": "2026-05-31T14:00:00.000Z"
+  },
+  {
+    "lender": "Suncorp Bank",
+    "product": "Business Line of Credit (Commercial Business, Agribusiness and Small Business)",
+    "type": "line_of_credit",
+    "rate": 9.24,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "BLOC",
+    "lastUpdated": "2026-05-14T14:00:00.000Z"
+  },
+  {
+    "lender": "Suncorp Bank",
+    "product": "Business Overdraft (Commercial Business, Agribusiness and Small Business)",
+    "type": "overdraft",
+    "rate": 10.24,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "BOD",
+    "lastUpdated": "2026-05-14T14:00:00.000Z"
   },
   {
     "lender": "TCL PM Production",
     "product": "Home Equity Business Loan",
     "type": "unsecured_term",
     "rate": 8.1,
-    "feeFlat": 2900,
+    "feeFlat": 0,
     "feePct": 0,
-    "feeMo": 105,
+    "feeMo": 0,
     "min": 5000,
     "max": 5000000,
     "maxTerm": 360,
@@ -434,9 +8455,9 @@
     "product": "Business Access Overdraft",
     "type": "overdraft",
     "rate": 9.1,
-    "feeFlat": 3650,
+    "feeFlat": 0,
     "feePct": 0,
-    "feeMo": 121,
+    "feeMo": 0,
     "min": 5000,
     "max": 5000000,
     "maxTerm": 120,
@@ -456,6 +8477,261 @@
     "category": "OVERDRAFTS",
     "productId": "b441353b-3897-437f-a0da-4ad6f7ae9ea3",
     "lastUpdated": "2026-05-10T22:00:00.676457Z"
+  },
+  {
+    "lender": "The Mutual Bank",
+    "product": "Business Mortgage Loan",
+    "type": "secured_term",
+    "rate": 6.99,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 100000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "Business_Mortgage_Loan",
+    "lastUpdated": "2026-06-30T11:52:14.000+10:00"
+  },
+  {
+    "lender": "The Mutual Bank",
+    "product": "Commercial Loan",
+    "type": "secured_term",
+    "rate": 11.79,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "Commercial_Loan",
+    "lastUpdated": "2026-06-30T11:26:33.000+10:00"
+  },
+  {
+    "lender": "WARWICK CREDIT UNION",
+    "product": "BILL RATE",
+    "type": "unsecured_term",
+    "rate": 7.86,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "L81-_BILL_RATE_LOAN_VARIABLE_PRINCIPAL_AND_INTEREST",
+    "lastUpdated": "2026-06-01T16:25:55.000+10:00"
+  },
+  {
+    "lender": "WARWICK CREDIT UNION",
+    "product": "COMMERCIAL LOANS",
+    "type": "unsecured_term",
+    "rate": 7.95,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "L80-_COMMERCIAL_LOAN_GRADE_A_FIXED_INTEREST_ONLY_12_MONTHS",
+    "lastUpdated": "2026-05-15T14:41:33.000+10:00"
+  },
+  {
+    "lender": "WARWICK CREDIT UNION",
+    "product": "CHOICE ACCOUNT",
+    "type": "overdraft",
+    "rate": 10.8,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 150000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "S6_Lifestyle_Equity_Line_of_Credit_Maximum_$150,000",
+    "lastUpdated": "2026-04-17T14:57:22.000+10:00"
+  },
+  {
+    "lender": "Westpac",
+    "product": "Secured Business Loan",
+    "type": "secured_term",
+    "rate": 7.91,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 10000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "SecuredBusinessLoan",
+    "lastUpdated": "2026-07-08T06:46:57Z"
+  },
+  {
+    "lender": "Westpac",
+    "product": "Business Overdraft",
+    "type": "overdraft",
+    "rate": 8.11,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "BusinessOverdraft",
+    "lastUpdated": "2026-05-15T01:02:03Z"
+  },
+  {
+    "lender": "Westpac",
+    "product": "Unsecured Business Loan",
+    "type": "unsecured_term",
+    "rate": 13.7,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 250000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "UnsecuredBusinessLoan",
+    "lastUpdated": "2026-07-08T06:46:57Z"
+  },
+  {
+    "lender": "Westpac",
+    "product": "Unsecured Business Overdraft",
+    "type": "overdraft",
+    "rate": 13.71,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 250000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "UnsecuredBusinessOverdraft",
+    "lastUpdated": "2026-06-29T08:01:56Z"
   },
   {
     "lender": "WOOLWORTHS TEAM BANK",

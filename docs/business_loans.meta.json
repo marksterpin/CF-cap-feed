@@ -1,43 +1,43 @@
 {
-  "generatedAt": "2026-07-16T23:41:55.059Z",
+  "generatedAt": "2026-07-17T00:07:51.151Z",
   "categories": [
     "BUSINESS_LOANS",
     "OVERDRAFTS"
   ],
-  "products": 18,
+  "products": 309,
   "byCategory": {
-    "BUSINESS_LOANS": 12,
-    "OVERDRAFTS": 6
+    "BUSINESS_LOANS": 253,
+    "OVERDRAFTS": 91
   },
   "holdersChecked": 202,
-  "holdersWithProducts": 14,
-  "skippedNoPublishedRate": 48,
-  "durationSec": 66,
+  "holdersWithProducts": 67,
+  "skippedNoPublishedRate": 125,
+  "durationSec": 118,
   "errors": [
-    "RAA Energy: HTTP 404",
     "Cooperative Power: HTTP 404",
     "Arcline by RACV: HTTP 404",
+    "RAA Energy: HTTP 404",
     "Aurora Energy: HTTP 404",
-    "AMP Bank GO: no supported version",
     "Origin Energy: HTTP 404",
     "AGL: HTTP 404",
-    "HSBC Bank Australia Limited – Wholesale Banking: no supported version",
     "EnergyAustralia: HTTP 404",
-    "Greater Bank Limited: no supported version",
-    "Northern Inland Credit Union Limited: no supported version",
     "ENGIE: HTTP 404",
-    "ME Bank - ME Go: no supported version",
     "Alinta Energy: HTTP 404",
-    "Great Southern Bank Business+: no supported version",
     "Sumo Power: HTTP 404",
     "Kogan Energy: HTTP 404",
     "Powershop: HTTP 404",
     "ActewAGL: HTTP 404",
-    "Border Bank: HTTP 422",
     "Diamond Energy: HTTP 404",
+    "Border Bank: HTTP 422",
     "Police Bank: HTTP 422",
-    "NATIONAL AUSTRALIA BANK: no supported version",
-    "ANZ: no supported version",
-    "CommBank: no supported version"
+    "Qudos Bank: HTTP 422",
+    "RAMS Financial Group Pty Ltd: HTTP 404",
+    "Aussie Home Loans: HTTP 404",
+    "DDH Graham: HTTP 500",
+    "COVAU PTY LIMITED: HTTP 404",
+    "Next Business Energy: HTTP 404",
+    "1st Energy: HTTP 404",
+    "OVO Energy: HTTP 404",
+    "Blue NRG: HTTP 404"
   ]
 }
