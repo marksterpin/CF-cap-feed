@@ -994,7 +994,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "166",
-    "lastUpdated": "2026-07-30T16:00:41.1475393Z"
+    "lastUpdated": "2026-07-31T16:00:41.4949138Z"
   },
   {
     "lender": "bcu",
@@ -1022,7 +1022,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "168",
-    "lastUpdated": "2026-07-30T16:00:41.1475393Z"
+    "lastUpdated": "2026-07-31T16:00:41.4949138Z"
   },
   {
     "lender": "Beyond Bank Australia",
@@ -1051,7 +1051,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "45",
-    "lastUpdated": "2026-07-30T16:00:31.7242242Z"
+    "lastUpdated": "2026-07-31T16:00:31.0380342Z"
   },
   {
     "lender": "Beyond Bank Australia",
@@ -1424,7 +1424,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "23",
-    "lastUpdated": "2026-07-30T16:00:19.7303699Z"
+    "lastUpdated": "2026-07-31T16:00:19.1783409Z"
   },
   {
     "lender": "Broken Hill Bank",
@@ -2250,7 +2250,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "38bca0f2a8c54e828ca954325c0aea17",
-    "lastUpdated": "2026-07-31T01:15:37.000Z"
+    "lastUpdated": "2026-08-01T01:16:19.000Z"
   },
   {
     "lender": "CommBank",
@@ -2279,7 +2279,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "d7c55e295f504692a54360f0d2092c23",
-    "lastUpdated": "2026-07-31T01:15:04.000Z"
+    "lastUpdated": "2026-08-01T01:15:08.000Z"
   },
   {
     "lender": "CommBank",
@@ -2308,7 +2308,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "5af96243b945460cb98a373de7688008",
-    "lastUpdated": "2026-07-30T02:15:29.000Z"
+    "lastUpdated": "2026-07-31T02:15:31.000Z"
   },
   {
     "lender": "CommBank",
@@ -2337,7 +2337,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "a443a21d7a7a4a339e850a3c1ead0c12",
-    "lastUpdated": "2026-07-30T02:15:29.000Z"
+    "lastUpdated": "2026-07-31T02:15:31.000Z"
   },
   {
     "lender": "CommBank",
@@ -4138,7 +4138,7 @@
     "feePct": 0,
     "feeMo": 0,
     "min": 1,
-    "max": 250000,
+    "max": 7,
     "maxTerm": 360,
     "sec": [
       "none",
@@ -4167,7 +4167,7 @@
     "feePct": 0,
     "feeMo": 0,
     "min": 1,
-    "max": 50000,
+    "max": 3,
     "maxTerm": 360,
     "sec": [
       "none",
@@ -5348,35 +5348,6 @@
   },
   {
     "lender": "Heritage",
-    "product": "Self-Managed Super Fund Fully Drawn Loan Fixed Residential Principal and Interest",
-    "type": "unsecured_term",
-    "rate": 8.44,
-    "feeFlat": 0,
-    "feePct": 0,
-    "feeMo": 0,
-    "min": 250000,
-    "max": 5000000,
-    "maxTerm": 360,
-    "sec": [
-      "none",
-      "residential",
-      "commercial",
-      "business_assets"
-    ],
-    "trade": 0,
-    "turn": 0,
-    "fund": 7,
-    "io": false,
-    "feat": [
-      "CDR-sourced product data"
-    ],
-    "source": "CDR",
-    "category": "BUSINESS_LOANS",
-    "productId": "294ddd59-d61f-4aab-ac33-44312b239ef0",
-    "lastUpdated": "2026-07-02T14:00:26.868Z"
-  },
-  {
-    "lender": "Heritage",
     "product": "Business Line of Credit - Non-Residential Security",
     "type": "line_of_credit",
     "rate": 8.65,
@@ -5575,35 +5546,6 @@
     "category": "BUSINESS_LOANS",
     "productId": "7271aeac-5472-4a4d-ae17-3855fe7b8cfc",
     "lastUpdated": "2026-07-02T14:00:28.129Z"
-  },
-  {
-    "lender": "Heritage",
-    "product": "Self-Managed Super Fund Fully Drawn Loan Fixed Non-Residential Principal and Interest",
-    "type": "unsecured_term",
-    "rate": 9.44,
-    "feeFlat": 0,
-    "feePct": 0,
-    "feeMo": 0,
-    "min": 250000,
-    "max": 5000000,
-    "maxTerm": 360,
-    "sec": [
-      "none",
-      "residential",
-      "commercial",
-      "business_assets"
-    ],
-    "trade": 0,
-    "turn": 0,
-    "fund": 7,
-    "io": false,
-    "feat": [
-      "CDR-sourced product data"
-    ],
-    "source": "CDR",
-    "category": "BUSINESS_LOANS",
-    "productId": "21fd9ab4-2ae8-41f5-9e82-31a3bb0d25d9",
-    "lastUpdated": "2026-07-02T14:00:25.409Z"
   },
   {
     "lender": "HORIZON BANK",
@@ -5972,6 +5914,35 @@
     "category": "BUSINESS_LOANS",
     "productId": "AMP_PROFESSIONAL_PACKAGE_HL",
     "lastUpdated": "2026-06-30T00:00:00.000Z"
+  },
+  {
+    "lender": "Lending and bank accounts, both associated with BSB number 939 200",
+    "product": "Equity Flex",
+    "type": "unsecured_term",
+    "rate": 6.39,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 100000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "AMP_EQUITY_FLEX_HL",
+    "lastUpdated": "2026-07-30T00:00:00.000Z"
   },
   {
     "lender": "Lending and bank accounts, both associated with BSB number 939 200",
@@ -6462,35 +6433,6 @@
   },
   {
     "lender": "NATIONAL AUSTRALIA BANK",
-    "product": "NAB Equity Builder",
-    "type": "unsecured_term",
-    "rate": 9.25,
-    "feeFlat": 0,
-    "feePct": 0,
-    "feeMo": 0,
-    "min": 10000,
-    "max": 5000000,
-    "maxTerm": 360,
-    "sec": [
-      "none",
-      "residential",
-      "commercial",
-      "business_assets"
-    ],
-    "trade": 0,
-    "turn": 0,
-    "fund": 7,
-    "io": false,
-    "feat": [
-      "CDR-sourced product data"
-    ],
-    "source": "CDR",
-    "category": "BUSINESS_LOANS",
-    "productId": "084a4d49-6285-4f9d-911d-02a728cc3337",
-    "lastUpdated": "2026-01-06T13:59:59Z"
-  },
-  {
-    "lender": "NATIONAL AUSTRALIA BANK",
     "product": "NAB Business Overdraft",
     "type": "overdraft",
     "rate": 10.72,
@@ -6828,7 +6770,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "158",
-    "lastUpdated": "2026-07-30T16:00:22.7973342Z"
+    "lastUpdated": "2026-07-31T16:00:24.1826226Z"
   },
   {
     "lender": "People First Bank",
@@ -6919,64 +6861,6 @@
   },
   {
     "lender": "People First Bank",
-    "product": "Business Variable Construction",
-    "type": "unsecured_term",
-    "rate": 7.76,
-    "feeFlat": 0,
-    "feePct": 0,
-    "feeMo": 0,
-    "min": 20000,
-    "max": 5000000,
-    "maxTerm": 360,
-    "sec": [
-      "none",
-      "residential",
-      "commercial",
-      "business_assets"
-    ],
-    "trade": 0,
-    "turn": 0,
-    "fund": 7,
-    "io": false,
-    "feat": [
-      "CDR-sourced product data"
-    ],
-    "source": "CDR",
-    "category": "BUSINESS_LOANS",
-    "productId": "eab1d4b0-0ced-4b99-8e0e-a603463cdac6",
-    "lastUpdated": "2026-05-18T14:35:50.224Z"
-  },
-  {
-    "lender": "People First Bank",
-    "product": "Business Variable Rate Loan - IO",
-    "type": "unsecured_term",
-    "rate": 7.76,
-    "feeFlat": 0,
-    "feePct": 0,
-    "feeMo": 0,
-    "min": 20000,
-    "max": 5000000,
-    "maxTerm": 360,
-    "sec": [
-      "none",
-      "residential",
-      "commercial",
-      "business_assets"
-    ],
-    "trade": 0,
-    "turn": 0,
-    "fund": 7,
-    "io": false,
-    "feat": [
-      "CDR-sourced product data"
-    ],
-    "source": "CDR",
-    "category": "BUSINESS_LOANS",
-    "productId": "d1b0e280-08e8-47cb-a972-087129869df1",
-    "lastUpdated": "2026-05-18T14:35:44.784Z"
-  },
-  {
-    "lender": "People First Bank",
     "product": "Business Variable Rate Loan",
     "type": "unsecured_term",
     "rate": 7.76,
@@ -7003,34 +6887,6 @@
     "category": "BUSINESS_LOANS",
     "productId": "748ce96a-d2ce-4dfb-b5e4-130541a90801",
     "lastUpdated": "2026-05-18T14:35:35.503Z"
-  },
-  {
-    "lender": "People First Bank",
-    "product": "Business Line of Credit",
-    "type": "line_of_credit",
-    "rate": 8.85,
-    "feeFlat": 0,
-    "feePct": 0,
-    "feeMo": 0,
-    "min": 10000,
-    "max": 5000000,
-    "maxTerm": 120,
-    "sec": [
-      "residential",
-      "commercial",
-      "business_assets"
-    ],
-    "trade": 0,
-    "turn": 0,
-    "fund": 7,
-    "io": true,
-    "feat": [
-      "CDR-sourced product data"
-    ],
-    "source": "CDR",
-    "category": "BUSINESS_LOANS",
-    "productId": "d96a6e79-04b7-46e6-8edf-1e14801fecf2",
-    "lastUpdated": "2026-05-18T14:35:47.204Z"
   },
   {
     "lender": "POLICE CREDIT UNION LIMITED",
@@ -7651,7 +7507,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "77",
-    "lastUpdated": "2026-07-30T16:00:23.8540948Z"
+    "lastUpdated": "2026-07-31T16:00:23.8519511Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -7680,7 +7536,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "78",
-    "lastUpdated": "2026-07-30T16:00:23.8540948Z"
+    "lastUpdated": "2026-07-31T16:00:23.8519511Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -7709,7 +7565,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "79",
-    "lastUpdated": "2026-07-30T16:00:23.8540948Z"
+    "lastUpdated": "2026-07-31T16:00:23.8519511Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -7738,7 +7594,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "80",
-    "lastUpdated": "2026-07-30T16:00:23.8540948Z"
+    "lastUpdated": "2026-07-31T16:00:23.8519511Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -7767,7 +7623,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "47",
-    "lastUpdated": "2026-07-30T16:00:23.8540948Z"
+    "lastUpdated": "2026-07-31T16:00:23.8519511Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -7795,7 +7651,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "44",
-    "lastUpdated": "2026-07-30T16:00:23.8540948Z"
+    "lastUpdated": "2026-07-31T16:00:23.8519511Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -7823,7 +7679,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "48",
-    "lastUpdated": "2026-07-30T16:00:23.8540948Z"
+    "lastUpdated": "2026-07-31T16:00:23.8519511Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -7851,7 +7707,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "45",
-    "lastUpdated": "2026-07-30T16:00:23.8540948Z"
+    "lastUpdated": "2026-07-31T16:00:23.8519511Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -7879,7 +7735,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "36",
-    "lastUpdated": "2026-07-30T16:00:23.8540948Z"
+    "lastUpdated": "2026-07-31T16:00:23.8519511Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -7907,7 +7763,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "35",
-    "lastUpdated": "2026-07-30T16:00:23.8540948Z"
+    "lastUpdated": "2026-07-31T16:00:23.8519511Z"
   },
   {
     "lender": "RACQ Bank",
@@ -8223,6 +8079,35 @@
     "category": "BUSINESS_LOANS",
     "productId": "L31_CUS",
     "lastUpdated": "2025-12-16T14:22:28.000+11:00"
+  },
+  {
+    "lender": "St.George Bank",
+    "product": "Variable Rate Small Business Loan",
+    "type": "unsecured_term",
+    "rate": 9.23,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "STGVariableRateSmallBusinessLoan",
+    "lastUpdated": "2026-05-15T00:00:00Z"
   },
   {
     "lender": "St.George Bank",
@@ -8680,6 +8565,34 @@
   },
   {
     "lender": "Westpac",
+    "product": "Secured Business Loan",
+    "type": "secured_term",
+    "rate": 7.91,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 10000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "SecuredBusinessLoan",
+    "lastUpdated": "2026-07-31T02:11:13Z"
+  },
+  {
+    "lender": "Westpac",
     "product": "Business Overdraft",
     "type": "overdraft",
     "rate": 8.11,
@@ -8705,6 +8618,35 @@
     "category": "OVERDRAFTS",
     "productId": "BusinessOverdraft",
     "lastUpdated": "2026-05-15T01:02:03Z"
+  },
+  {
+    "lender": "Westpac",
+    "product": "Unsecured Business Loan",
+    "type": "unsecured_term",
+    "rate": 13.7,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 250000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "UnsecuredBusinessLoan",
+    "lastUpdated": "2026-07-08T06:46:57Z"
   },
   {
     "lender": "Westpac",
