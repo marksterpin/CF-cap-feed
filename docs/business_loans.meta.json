@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-08-05T16:47:56.760Z",
+  "generatedAt": "2026-08-07T16:02:34.468Z",
   "categories": [
     "BUSINESS_LOANS",
     "OVERDRAFTS"
   ],
-  "products": 304,
+  "products": 311,
   "byCategory": {
-    "BUSINESS_LOANS": 252,
-    "OVERDRAFTS": 87
+    "BUSINESS_LOANS": 255,
+    "OVERDRAFTS": 91
   },
   "holdersChecked": 199,
   "holdersWithProducts": 66,
-  "skippedNoPublishedRate": 116,
-  "durationSec": 125,
+  "skippedNoPublishedRate": 119,
+  "durationSec": 123,
   "errors": [
-    "Cooperative Power: HTTP 404",
-    "RAA Energy: HTTP 404",
     "Arcline by RACV: HTTP 404",
+    "RAA Energy: HTTP 404",
+    "Cooperative Power: HTTP 404",
     "Aurora Energy: HTTP 404",
     "Origin Energy: HTTP 404",
     "EnergyAustralia: HTTP 404",
