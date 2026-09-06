@@ -994,7 +994,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "166",
-    "lastUpdated": "2026-09-05T16:00:44.0100218Z"
+    "lastUpdated": "2026-09-06T16:00:49.8146660Z"
   },
   {
     "lender": "bcu",
@@ -1022,7 +1022,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "168",
-    "lastUpdated": "2026-09-05T16:00:44.0100218Z"
+    "lastUpdated": "2026-09-06T16:00:49.8146660Z"
   },
   {
     "lender": "Beyond Bank Australia",
@@ -1051,7 +1051,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "45",
-    "lastUpdated": "2026-09-05T16:00:31.8642047Z"
+    "lastUpdated": "2026-09-06T16:00:31.9370562Z"
   },
   {
     "lender": "Beyond Bank Australia",
@@ -1424,7 +1424,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "23",
-    "lastUpdated": "2026-09-05T14:00:18.4731051Z"
+    "lastUpdated": "2026-09-06T16:00:19.6365871Z"
   },
   {
     "lender": "Broken Hill Bank",
@@ -2222,7 +2222,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "d7c55e295f504692a54360f0d2092c25",
-    "lastUpdated": "2026-09-03T11:05:55.000Z"
+    "lastUpdated": "2026-09-07T01:15:03.000Z"
   },
   {
     "lender": "CommBank",
@@ -2250,7 +2250,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "38bca0f2a8c54e828ca954325c0aea17",
-    "lastUpdated": "2026-09-06T03:00:34.000Z"
+    "lastUpdated": "2026-09-07T02:15:34.000Z"
   },
   {
     "lender": "CommBank",
@@ -2279,7 +2279,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "d7c55e295f504692a54360f0d2092c23",
-    "lastUpdated": "2026-09-06T02:15:32.000Z"
+    "lastUpdated": "2026-09-07T02:15:28.000Z"
   },
   {
     "lender": "CommBank",
@@ -2308,7 +2308,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "5af96243b945460cb98a373de7688008",
-    "lastUpdated": "2026-09-06T02:15:31.000Z"
+    "lastUpdated": "2026-09-07T02:15:27.000Z"
   },
   {
     "lender": "CommBank",
@@ -2337,7 +2337,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "a443a21d7a7a4a339e850a3c1ead0c12",
-    "lastUpdated": "2026-09-06T02:15:31.000Z"
+    "lastUpdated": "2026-09-07T02:15:27.000Z"
   },
   {
     "lender": "CommBank",
@@ -4081,7 +4081,7 @@
     "feeFlat": 0,
     "feePct": 0,
     "feeMo": 0,
-    "min": 10000,
+    "min": 1,
     "max": 7,
     "maxTerm": 360,
     "sec": [
@@ -4110,7 +4110,7 @@
     "feeFlat": 0,
     "feePct": 0,
     "feeMo": 0,
-    "min": 20000,
+    "min": 1,
     "max": 3,
     "maxTerm": 360,
     "sec": [
@@ -5886,35 +5886,6 @@
   },
   {
     "lender": "Newcastle Permanent",
-    "product": "Business Loan Fixed Rate Principal and Interest",
-    "type": "unsecured_term",
-    "rate": 6.5,
-    "feeFlat": 0,
-    "feePct": 0,
-    "feeMo": 0,
-    "min": 5000,
-    "max": 5000000,
-    "maxTerm": 360,
-    "sec": [
-      "none",
-      "residential",
-      "commercial",
-      "business_assets"
-    ],
-    "trade": 0,
-    "turn": 0,
-    "fund": 7,
-    "io": false,
-    "feat": [
-      "CDR-sourced product data"
-    ],
-    "source": "CDR",
-    "category": "BUSINESS_LOANS",
-    "productId": "BL_busfixedPI",
-    "lastUpdated": "2026-08-25T00:00:00+10:00"
-  },
-  {
-    "lender": "Newcastle Permanent",
     "product": "Business Loan Fixed Rate Interest Only",
     "type": "unsecured_term",
     "rate": 6.5,
@@ -5940,6 +5911,35 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "BL_busfixedIO",
+    "lastUpdated": "2026-08-25T00:00:00+10:00"
+  },
+  {
+    "lender": "Newcastle Permanent",
+    "product": "Business Loan Fixed Rate Principal and Interest",
+    "type": "unsecured_term",
+    "rate": 6.5,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "BL_busfixedPI",
     "lastUpdated": "2026-08-25T00:00:00+10:00"
   },
   {
@@ -6138,7 +6138,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "158",
-    "lastUpdated": "2026-09-05T16:00:26.8996720Z"
+    "lastUpdated": "2026-09-06T16:00:28.8103117Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -6167,7 +6167,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "77",
-    "lastUpdated": "2026-09-05T16:00:25.6419177Z"
+    "lastUpdated": "2026-09-06T16:00:24.4932291Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -6196,7 +6196,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "78",
-    "lastUpdated": "2026-09-05T16:00:25.6419177Z"
+    "lastUpdated": "2026-09-06T16:00:24.4932291Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -6225,7 +6225,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "79",
-    "lastUpdated": "2026-09-05T16:00:25.6419177Z"
+    "lastUpdated": "2026-09-06T16:00:24.4932291Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -6254,7 +6254,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "80",
-    "lastUpdated": "2026-09-05T16:00:25.6419177Z"
+    "lastUpdated": "2026-09-06T16:00:24.4932291Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -6283,7 +6283,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "47",
-    "lastUpdated": "2026-09-05T16:00:25.6419177Z"
+    "lastUpdated": "2026-09-06T16:00:24.4932291Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -6311,7 +6311,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "44",
-    "lastUpdated": "2026-09-05T16:00:25.6419177Z"
+    "lastUpdated": "2026-09-06T16:00:24.4932291Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -6339,7 +6339,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "48",
-    "lastUpdated": "2026-09-05T16:00:25.6419177Z"
+    "lastUpdated": "2026-09-06T16:00:24.4932291Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -6367,7 +6367,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "45",
-    "lastUpdated": "2026-09-05T16:00:25.6419177Z"
+    "lastUpdated": "2026-09-06T16:00:24.4932291Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -6395,7 +6395,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "36",
-    "lastUpdated": "2026-09-05T16:00:25.6419177Z"
+    "lastUpdated": "2026-09-06T16:00:24.4932291Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -6423,7 +6423,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "35",
-    "lastUpdated": "2026-09-05T16:00:25.6419177Z"
+    "lastUpdated": "2026-09-06T16:00:24.4932291Z"
   },
   {
     "lender": "RACQ Bank",
