@@ -1,43 +1,43 @@
 {
-  "generatedAt": "2026-09-21T19:57:11.236Z",
+  "generatedAt": "2026-09-22T18:42:59.481Z",
   "categories": [
     "BUSINESS_LOANS",
     "OVERDRAFTS"
   ],
-  "products": 277,
+  "products": 269,
   "byCategory": {
-    "BUSINESS_LOANS": 226,
-    "OVERDRAFTS": 86
+    "BUSINESS_LOANS": 219,
+    "OVERDRAFTS": 85
   },
   "holdersChecked": 200,
-  "holdersWithProducts": 62,
-  "skippedNoPublishedRate": 108,
-  "durationSec": 115,
+  "holdersWithProducts": 57,
+  "skippedNoPublishedRate": 102,
+  "durationSec": 109,
   "errors": [
+    "Arcline by RACV: HTTP 404",
     "RAA Energy: HTTP 404",
     "Cooperative Power: HTTP 404",
-    "Arcline by RACV: HTTP 404",
+    "MyState Bank: HTTP 500",
     "Aurora Energy: HTTP 404",
+    "Thriday: HTTP 500",
     "Origin Energy: HTTP 404",
     "EnergyAustralia: HTTP 404",
     "AGL: HTTP 404",
+    "Arab Bank Australia Limited: HTTP 500",
     "ENGIE: HTTP 404",
     "Alinta Energy: HTTP 404",
-    "Kogan Energy: HTTP 404",
     "Sumo Power (legacy): HTTP 404",
     "Police Bank: HTTP 422",
-    "Powershop: HTTP 404",
+    "Kogan Energy: HTTP 404",
     "Border Bank: HTTP 422",
+    "Powershop: HTTP 404",
     "ActewAGL: HTTP 404",
     "Diamond Energy: fetch failed",
+    "Regional Australia Bank: HTTP 530",
     "Geelong Bank: HTTP 400",
-    "Qudos Bank: HTTP 422",
-    "BankSA: HTTP 503",
-    "Aussie Home Loans: HTTP 404",
-    "Family First: HTTP 503",
-    "People First and Heritage Bank: HTTP 500",
-    "Hume Bank: HTTP 400",
-    "DDH Graham: HTTP 500",
-    "COVAU PTY LIMITED: HTTP 404"
+    "Australian Military Bank: HTTP 500",
+    "RSL Money: HTTP 500",
+    "Bank First: HTTP 500",
+    "Qudos Bank: HTTP 422"
   ]
 }
