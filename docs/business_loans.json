@@ -511,7 +511,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "BOMCommercialOverdraft",
-    "lastUpdated": "2026-05-15T04:04:04Z"
+    "lastUpdated": "2026-09-29T03:57:41Z"
   },
   {
     "lender": "Bank of Melbourne",
@@ -539,7 +539,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "BOMUnsecuredCommercialOverdraft",
-    "lastUpdated": "2026-05-15T04:04:04Z"
+    "lastUpdated": "2026-09-29T03:57:41Z"
   },
   {
     "lender": "Bank of Queensland",
@@ -829,6 +829,35 @@
   },
   {
     "lender": "BankSA",
+    "product": "Variable Rate Small Business Loan",
+    "type": "unsecured_term",
+    "rate": 9.23,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "BSAVariableRateSmallBusinessLoan",
+    "lastUpdated": "2026-05-15T04:04:04Z"
+  },
+  {
+    "lender": "BankSA",
     "product": "Commercial Unsecured Overdraft",
     "type": "line_of_credit",
     "rate": 9.81,
@@ -853,7 +882,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "BSAUnsecuredCommercialOverdraft",
-    "lastUpdated": "2026-05-15T04:04:04Z"
+    "lastUpdated": "2026-09-29T03:57:41Z"
   },
   {
     "lender": "BankSA",
@@ -881,7 +910,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "BSACommercialOverdraft",
-    "lastUpdated": "2026-05-15T04:04:04Z"
+    "lastUpdated": "2026-09-29T03:57:41Z"
   },
   {
     "lender": "BankWAW",
@@ -965,7 +994,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "166",
-    "lastUpdated": "2026-09-28T20:00:59.9364836Z"
+    "lastUpdated": "2026-09-29T18:00:40.5000479Z"
   },
   {
     "lender": "bcu",
@@ -993,7 +1022,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "168",
-    "lastUpdated": "2026-09-28T20:00:59.9364836Z"
+    "lastUpdated": "2026-09-29T18:00:40.5000479Z"
   },
   {
     "lender": "Beyond Bank Australia",
@@ -1022,7 +1051,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "45",
-    "lastUpdated": "2026-09-28T20:00:31.3347380Z"
+    "lastUpdated": "2026-09-29T18:00:30.6865924Z"
   },
   {
     "lender": "Beyond Bank Australia",
@@ -1395,7 +1424,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "23",
-    "lastUpdated": "2026-09-28T20:00:19.9407959Z"
+    "lastUpdated": "2026-09-29T18:00:18.1301279Z"
   },
   {
     "lender": "Broken Hill Bank",
@@ -2221,7 +2250,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "38bca0f2a8c54e828ca954325c0aea17",
-    "lastUpdated": "2026-09-29T02:15:37.000Z"
+    "lastUpdated": "2026-09-30T04:00:24.000Z"
   },
   {
     "lender": "CommBank",
@@ -2250,7 +2279,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "d7c55e295f504692a54360f0d2092c23",
-    "lastUpdated": "2026-09-29T02:15:31.000Z"
+    "lastUpdated": "2026-09-30T02:15:35.000Z"
   },
   {
     "lender": "CommBank",
@@ -2279,7 +2308,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "5af96243b945460cb98a373de7688008",
-    "lastUpdated": "2026-09-29T02:15:30.000Z"
+    "lastUpdated": "2026-09-30T02:15:34.000Z"
   },
   {
     "lender": "CommBank",
@@ -2308,7 +2337,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "a443a21d7a7a4a339e850a3c1ead0c12",
-    "lastUpdated": "2026-09-29T02:15:30.000Z"
+    "lastUpdated": "2026-09-30T02:15:34.000Z"
   },
   {
     "lender": "CommBank",
@@ -2336,34 +2365,6 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "822509b55fd24adf8ba74929ec5be822",
-    "lastUpdated": "2026-09-22T22:34:03.000Z"
-  },
-  {
-    "lender": "CommBank",
-    "product": "Temporary overdrafts",
-    "type": "overdraft",
-    "rate": 14.9,
-    "feeFlat": 0,
-    "feePct": 0,
-    "feeMo": 0,
-    "min": 5000,
-    "max": 5000000,
-    "maxTerm": 120,
-    "sec": [
-      "residential",
-      "commercial",
-      "business_assets"
-    ],
-    "trade": 0,
-    "turn": 0,
-    "fund": 7,
-    "io": true,
-    "feat": [
-      "CDR-sourced product data"
-    ],
-    "source": "CDR",
-    "category": "OVERDRAFTS",
-    "productId": "8d328bbee6ab4f54ae981d9f93ef3cd7",
     "lastUpdated": "2026-09-22T22:34:03.000Z"
   },
   {
@@ -2454,34 +2455,6 @@
   },
   {
     "lender": "Community First Credit Union",
-    "product": "Pink Everyday - Overdraft",
-    "type": "overdraft",
-    "rate": 14.45,
-    "feeFlat": 0,
-    "feePct": 0,
-    "feeMo": 0,
-    "min": 5000,
-    "max": 5000000,
-    "maxTerm": 120,
-    "sec": [
-      "residential",
-      "commercial",
-      "business_assets"
-    ],
-    "trade": 0,
-    "turn": 0,
-    "fund": 7,
-    "io": true,
-    "feat": [
-      "CDR-sourced product data"
-    ],
-    "source": "CDR",
-    "category": "OVERDRAFTS",
-    "productId": "S21-PEA-OD",
-    "lastUpdated": "2026-09-22T16:08:42.000+10:00"
-  },
-  {
-    "lender": "Community First Credit Union",
     "product": "Everyday Plus",
     "type": "overdraft",
     "rate": 14.45,
@@ -2506,7 +2479,35 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "S14-EP-OD",
-    "lastUpdated": "2026-09-01T17:13:16.000+10:00"
+    "lastUpdated": "2026-09-29T15:58:07.000+10:00"
+  },
+  {
+    "lender": "Community First Credit Union",
+    "product": "Pink Everyday - Overdraft",
+    "type": "overdraft",
+    "rate": 14.45,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "S21-PEA-OD",
+    "lastUpdated": "2026-09-29T15:58:07.000+10:00"
   },
   {
     "lender": "Community First Credit Union",
@@ -2534,7 +2535,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "S22-EA-OD",
-    "lastUpdated": "2026-09-01T17:11:24.000+10:00"
+    "lastUpdated": "2026-09-29T15:58:07.000+10:00"
   },
   {
     "lender": "Community First Credit Union",
@@ -2562,7 +2563,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "S98-FBAA-OD",
-    "lastUpdated": "2026-09-01T17:08:32.000+10:00"
+    "lastUpdated": "2026-09-29T15:52:36.000+10:00"
   },
   {
     "lender": "Corporate and Institutional Banking",
@@ -5086,6 +5087,34 @@
   },
   {
     "lender": "Judo Bank",
+    "product": "Judo Line of Credit",
+    "type": "line_of_credit",
+    "rate": 5.01,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 250000,
+    "max": 20000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "b716f687-d420-43cc-827b-e2b64a4313d6",
+    "lastUpdated": "2026-09-29T01:19:01.159425Z"
+  },
+  {
+    "lender": "Judo Bank",
     "product": "Judo Business Loan",
     "type": "unsecured_term",
     "rate": 5.01,
@@ -5112,34 +5141,6 @@
     "category": "BUSINESS_LOANS",
     "productId": "2c1264ed-b5de-44d4-b49f-23f8eadc21d4",
     "lastUpdated": "2026-09-01T01:12:12.246341Z"
-  },
-  {
-    "lender": "Judo Bank",
-    "product": "Judo Line of Credit",
-    "type": "line_of_credit",
-    "rate": 5.01,
-    "feeFlat": 0,
-    "feePct": 0,
-    "feeMo": 0,
-    "min": 250000,
-    "max": 20000000,
-    "maxTerm": 120,
-    "sec": [
-      "residential",
-      "commercial",
-      "business_assets"
-    ],
-    "trade": 0,
-    "turn": 0,
-    "fund": 7,
-    "io": true,
-    "feat": [
-      "CDR-sourced product data"
-    ],
-    "source": "CDR",
-    "category": "OVERDRAFTS",
-    "productId": "b716f687-d420-43cc-827b-e2b64a4313d6",
-    "lastUpdated": "2026-09-01T01:12:12.246335Z"
   },
   {
     "lender": "Lending and bank accounts, both associated with BSB number 939 200",
@@ -6109,7 +6110,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "158",
-    "lastUpdated": "2026-09-28T20:00:27.1734097Z"
+    "lastUpdated": "2026-09-29T18:00:24.1604657Z"
   },
   {
     "lender": "POLICE CREDIT UNION LIMITED",
@@ -6730,7 +6731,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "77",
-    "lastUpdated": "2026-09-28T20:00:25.5275006Z"
+    "lastUpdated": "2026-09-29T18:00:23.7401658Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -6759,7 +6760,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "78",
-    "lastUpdated": "2026-09-28T20:00:25.5275006Z"
+    "lastUpdated": "2026-09-29T18:00:23.7401658Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -6788,7 +6789,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "79",
-    "lastUpdated": "2026-09-28T20:00:25.5275006Z"
+    "lastUpdated": "2026-09-29T18:00:23.7401658Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -6816,7 +6817,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "44",
-    "lastUpdated": "2026-09-28T20:00:25.5275006Z"
+    "lastUpdated": "2026-09-29T18:00:23.7401658Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -6845,7 +6846,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "47",
-    "lastUpdated": "2026-09-28T20:00:25.5275006Z"
+    "lastUpdated": "2026-09-29T18:00:23.7401658Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -6874,7 +6875,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "80",
-    "lastUpdated": "2026-09-28T20:00:25.5275006Z"
+    "lastUpdated": "2026-09-29T18:00:23.7401658Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -6902,7 +6903,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "48",
-    "lastUpdated": "2026-09-28T20:00:25.5275006Z"
+    "lastUpdated": "2026-09-29T18:00:23.7401658Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -6930,7 +6931,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "45",
-    "lastUpdated": "2026-09-28T20:00:25.5275006Z"
+    "lastUpdated": "2026-09-29T18:00:23.7401658Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -6958,7 +6959,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "36",
-    "lastUpdated": "2026-09-28T20:00:25.5275006Z"
+    "lastUpdated": "2026-09-29T18:00:23.7401658Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -6986,7 +6987,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "35",
-    "lastUpdated": "2026-09-28T20:00:25.5275006Z"
+    "lastUpdated": "2026-09-29T18:00:23.7401658Z"
   },
   {
     "lender": "RACQ Bank",
@@ -7358,7 +7359,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "STGUnsecuredCommercialOverdraft",
-    "lastUpdated": "2026-05-18T00:00:00Z"
+    "lastUpdated": "2026-09-29T03:57:41Z"
   },
   {
     "lender": "St.George Bank",
@@ -7386,7 +7387,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "STGCommercialOverdraft",
-    "lastUpdated": "2026-05-15T00:00:00Z"
+    "lastUpdated": "2026-09-29T03:57:41Z"
   },
   {
     "lender": "Summerland Bank",
@@ -7812,7 +7813,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "SecuredBusinessLoan",
-    "lastUpdated": "2026-08-06T00:11:13Z"
+    "lastUpdated": "2026-09-29T03:38:41Z"
   },
   {
     "lender": "Westpac",
@@ -7840,7 +7841,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "BusinessOverdraft",
-    "lastUpdated": "2026-09-08T03:21:36Z"
+    "lastUpdated": "2026-09-29T03:38:41Z"
   },
   {
     "lender": "Westpac",
@@ -7897,7 +7898,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "UnsecuredBusinessOverdraft",
-    "lastUpdated": "2026-08-19T08:58:34Z"
+    "lastUpdated": "2026-09-29T03:38:41Z"
   },
   {
     "lender": "WOOLWORTHS TEAM BANK",
