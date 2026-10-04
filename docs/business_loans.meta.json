@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-10-03T18:38:32.415Z",
+  "generatedAt": "2026-10-04T18:36:38.910Z",
   "categories": [
     "BUSINESS_LOANS",
     "OVERDRAFTS"
   ],
-  "products": 279,
+  "products": 278,
   "byCategory": {
     "BUSINESS_LOANS": 229,
-    "OVERDRAFTS": 85
+    "OVERDRAFTS": 84
   },
   "holdersChecked": 199,
   "holdersWithProducts": 64,
-  "skippedNoPublishedRate": 120,
-  "durationSec": 108,
+  "skippedNoPublishedRate": 119,
+  "durationSec": 91,
   "errors": [
     "Cooperative Power: HTTP 404",
-    "Arcline by RACV: HTTP 404",
     "RAA Energy: HTTP 404",
+    "Arcline by RACV: HTTP 404",
     "Aurora Energy: HTTP 404",
     "Origin Energy: HTTP 404",
     "EnergyAustralia: HTTP 404",
@@ -24,13 +24,12 @@
     "ENGIE: HTTP 404",
     "Alinta Energy: HTTP 404",
     "Sumo Power (legacy): HTTP 404",
-    "Powershop: HTTP 404",
     "Kogan Energy: HTTP 404",
-    "Police Bank: HTTP 422",
-    "Border Bank: HTTP 422",
+    "Powershop: HTTP 404",
     "ActewAGL: HTTP 404",
     "Diamond Energy: HTTP 404",
-    "Geelong Bank: HTTP 520",
+    "Police Bank: HTTP 422",
+    "Border Bank: HTTP 422",
     "Qudos Bank: HTTP 422",
     "Aussie Home Loans: HTTP 404",
     "People First and Heritage Bank: HTTP 500",
@@ -38,6 +37,7 @@
     "COVAU PTY LIMITED: HTTP 404",
     "Next Business Energy: HTTP 404",
     "1st Energy: HTTP 404",
+    "Indigo Power: HTTP 404",
     "OVO Energy: HTTP 404"
   ]
 }
