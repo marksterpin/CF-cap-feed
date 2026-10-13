@@ -202,7 +202,7 @@
     "lender": "Arab Bank Australia Ltd Prod",
     "product": "Commercial Loans - Revolving Line of Credit",
     "type": "line_of_credit",
-    "rate": 11.75,
+    "rate": 12,
     "feeFlat": 0,
     "feePct": 0,
     "feeMo": 0,
@@ -224,13 +224,13 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "COMLOC01",
-    "lastUpdated": "2026-08-20T01:39:55.237712Z"
+    "lastUpdated": "2026-10-12T22:36:22.142305Z"
   },
   {
     "lender": "Arab Bank Australia Ltd Prod",
     "product": "Commercial Loans - Prime Lending",
     "type": "unsecured_term",
-    "rate": 16.1,
+    "rate": 16.35,
     "feeFlat": 0,
     "feePct": 0,
     "feeMo": 0,
@@ -253,13 +253,13 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "COMMLOAN01",
-    "lastUpdated": "2026-08-20T02:34:28.00063Z"
+    "lastUpdated": "2026-10-12T22:36:22.134432Z"
   },
   {
     "lender": "Arab Bank Australia Ltd Prod",
     "product": "Business Overdraft",
     "type": "overdraft",
-    "rate": 17.65,
+    "rate": 17.9,
     "feeFlat": 0,
     "feePct": 0,
     "feeMo": 0,
@@ -281,7 +281,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "BUSOD01",
-    "lastUpdated": "2026-08-20T01:31:57.533517Z"
+    "lastUpdated": "2026-10-12T22:37:35.446672Z"
   },
   {
     "lender": "Australian Mutual Bank",
@@ -972,7 +972,7 @@
     "lender": "bcu",
     "product": "All-In-One",
     "type": "overdraft",
-    "rate": 7.74,
+    "rate": 7.99,
     "feeFlat": 0,
     "feePct": 0,
     "feeMo": 0,
@@ -994,13 +994,13 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "166",
-    "lastUpdated": "2026-10-12T22:00:48.3244440Z"
+    "lastUpdated": "2026-10-13T20:00:48.4624329Z"
   },
   {
     "lender": "bcu",
     "product": "Inv All-In-One",
     "type": "overdraft",
-    "rate": 7.9,
+    "rate": 8.15,
     "feeFlat": 0,
     "feePct": 0,
     "feeMo": 0,
@@ -1022,7 +1022,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "168",
-    "lastUpdated": "2026-10-12T22:00:48.3244440Z"
+    "lastUpdated": "2026-10-13T20:00:48.4624329Z"
   },
   {
     "lender": "Beyond Bank Australia",
@@ -1051,7 +1051,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "45",
-    "lastUpdated": "2026-10-12T22:00:31.2824935Z"
+    "lastUpdated": "2026-10-13T20:00:32.6467028Z"
   },
   {
     "lender": "Beyond Bank Australia",
@@ -1424,7 +1424,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "23",
-    "lastUpdated": "2026-10-12T22:00:17.6262251Z"
+    "lastUpdated": "2026-10-13T20:00:17.5962460Z"
   },
   {
     "lender": "Broken Hill Bank",
@@ -2222,7 +2222,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "d7c55e295f504692a54360f0d2092c25",
-    "lastUpdated": "2026-10-10T01:15:05.000Z"
+    "lastUpdated": "2026-10-14T01:15:04.000Z"
   },
   {
     "lender": "CommBank",
@@ -2251,7 +2251,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "d7c55e295f504692a54360f0d2092c23",
-    "lastUpdated": "2026-10-13T08:01:14.000Z"
+    "lastUpdated": "2026-10-14T07:01:02.000Z"
   },
   {
     "lender": "CommBank",
@@ -2280,7 +2280,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "5af96243b945460cb98a373de7688008",
-    "lastUpdated": "2026-10-13T02:15:31.000Z"
+    "lastUpdated": "2026-10-14T02:15:32.000Z"
   },
   {
     "lender": "CommBank",
@@ -2309,7 +2309,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "a443a21d7a7a4a339e850a3c1ead0c12",
-    "lastUpdated": "2026-10-13T02:15:31.000Z"
+    "lastUpdated": "2026-10-14T02:15:32.000Z"
   },
   {
     "lender": "CommBank",
@@ -2393,13 +2393,13 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "38bca0f2a8c54e828ca954325c0aea17",
-    "lastUpdated": "2026-10-13T02:15:39.000Z"
+    "lastUpdated": "2026-10-14T02:15:41.000Z"
   },
   {
     "lender": "Community First Credit Union",
     "product": "BUSINESS LOAN - VARIABLE (Principal and Interest)",
     "type": "unsecured_term",
-    "rate": 9.19,
+    "rate": 8.44,
     "feeFlat": 0,
     "feePct": 0,
     "feeMo": 0,
@@ -2422,13 +2422,13 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "L92-BL",
-    "lastUpdated": "2026-10-02T15:01:01.000+10:00"
+    "lastUpdated": "2026-10-13T13:54:44.000+11:00"
   },
   {
     "lender": "Community First Credit Union",
     "product": "BUSINESS LOAN - VARIABLE (Interest Only)",
     "type": "unsecured_term",
-    "rate": 10.19,
+    "rate": 9.44,
     "feeFlat": 0,
     "feePct": 0,
     "feeMo": 0,
@@ -2451,35 +2451,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "L92-BL-IOV",
-    "lastUpdated": "2026-10-02T15:01:01.000+10:00"
-  },
-  {
-    "lender": "Community First Credit Union",
-    "product": "Everyday Plus",
-    "type": "overdraft",
-    "rate": 14.45,
-    "feeFlat": 0,
-    "feePct": 0,
-    "feeMo": 0,
-    "min": 5000,
-    "max": 5000000,
-    "maxTerm": 120,
-    "sec": [
-      "residential",
-      "commercial",
-      "business_assets"
-    ],
-    "trade": 0,
-    "turn": 0,
-    "fund": 7,
-    "io": true,
-    "feat": [
-      "CDR-sourced product data"
-    ],
-    "source": "CDR",
-    "category": "OVERDRAFTS",
-    "productId": "S14-EP-OD",
-    "lastUpdated": "2026-10-06T16:00:54.000+11:00"
+    "lastUpdated": "2026-10-13T13:55:01.000+11:00"
   },
   {
     "lender": "Community First Credit Union",
@@ -2507,7 +2479,35 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "S21-PEA-OD",
-    "lastUpdated": "2026-10-06T15:53:27.000+11:00"
+    "lastUpdated": "2026-10-13T14:21:12.000+11:00"
+  },
+  {
+    "lender": "Community First Credit Union",
+    "product": "Everyday Plus",
+    "type": "overdraft",
+    "rate": 14.45,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "S14-EP-OD",
+    "lastUpdated": "2026-10-13T14:17:43.000+11:00"
   },
   {
     "lender": "Community First Credit Union",
@@ -2535,7 +2535,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "S22-EA-OD",
-    "lastUpdated": "2026-10-06T15:49:42.000+11:00"
+    "lastUpdated": "2026-10-13T14:17:43.000+11:00"
   },
   {
     "lender": "Community First Credit Union",
@@ -2682,34 +2682,6 @@
   },
   {
     "lender": "Gateway Bank",
-    "product": "Reverse Mortgage Lump Sum",
-    "type": "overdraft",
-    "rate": 8.25,
-    "feeFlat": 0,
-    "feePct": 0,
-    "feeMo": 0,
-    "min": 50000,
-    "max": 5000000,
-    "maxTerm": 120,
-    "sec": [
-      "residential",
-      "commercial",
-      "business_assets"
-    ],
-    "trade": 0,
-    "turn": 0,
-    "fund": 7,
-    "io": true,
-    "feat": [
-      "CDR-sourced product data"
-    ],
-    "source": "CDR",
-    "category": "OVERDRAFTS",
-    "productId": "216",
-    "lastUpdated": "2026-08-27T02:00:31.3433301Z"
-  },
-  {
-    "lender": "Gateway Bank",
     "product": "Commercial Loan 3yr Fixed",
     "type": "unsecured_term",
     "rate": 8.39,
@@ -2768,72 +2740,14 @@
   },
   {
     "lender": "Gateway Bank",
-    "product": "Green Commercial Property Loan",
-    "type": "unsecured_term",
-    "rate": 8.39,
-    "feeFlat": 0,
-    "feePct": 0,
-    "feeMo": 0,
-    "min": 250000,
-    "max": 4000000,
-    "maxTerm": 360,
-    "sec": [
-      "none",
-      "residential",
-      "commercial",
-      "business_assets"
-    ],
-    "trade": 0,
-    "turn": 0,
-    "fund": 7,
-    "io": false,
-    "feat": [
-      "CDR-sourced product data"
-    ],
-    "source": "CDR",
-    "category": "BUSINESS_LOANS",
-    "productId": "193",
-    "lastUpdated": "2026-07-01T06:00:32.1494081Z"
-  },
-  {
-    "lender": "Gateway Bank",
-    "product": "Inv Green Com Property Loan",
-    "type": "unsecured_term",
-    "rate": 8.39,
-    "feeFlat": 0,
-    "feePct": 0,
-    "feeMo": 0,
-    "min": 250000,
-    "max": 4000000,
-    "maxTerm": 360,
-    "sec": [
-      "none",
-      "residential",
-      "commercial",
-      "business_assets"
-    ],
-    "trade": 0,
-    "turn": 0,
-    "fund": 7,
-    "io": false,
-    "feat": [
-      "CDR-sourced product data"
-    ],
-    "source": "CDR",
-    "category": "BUSINESS_LOANS",
-    "productId": "195",
-    "lastUpdated": "2026-07-01T06:00:32.1494081Z"
-  },
-  {
-    "lender": "Gateway Bank",
-    "product": "Reverse Mortgage Access",
+    "product": "Reverse Mortgage Lump Sum",
     "type": "overdraft",
-    "rate": 8.49,
+    "rate": 8.5,
     "feeFlat": 0,
     "feePct": 0,
     "feeMo": 0,
     "min": 50000,
-    "max": 2000000,
+    "max": 5000000,
     "maxTerm": 120,
     "sec": [
       "residential",
@@ -2849,8 +2763,8 @@
     ],
     "source": "CDR",
     "category": "OVERDRAFTS",
-    "productId": "171",
-    "lastUpdated": "2026-08-27T02:00:31.3433301Z"
+    "productId": "216",
+    "lastUpdated": "2026-10-13T02:00:31.5908395Z"
   },
   {
     "lender": "Gateway Bank",
@@ -2912,9 +2826,9 @@
   },
   {
     "lender": "Gateway Bank",
-    "product": "Green Com Property Loan IO",
+    "product": "Inv Green Com Property Loan",
     "type": "unsecured_term",
-    "rate": 8.54,
+    "rate": 8.64,
     "feeFlat": 0,
     "feePct": 0,
     "feeMo": 0,
@@ -2936,14 +2850,14 @@
     ],
     "source": "CDR",
     "category": "BUSINESS_LOANS",
-    "productId": "194",
-    "lastUpdated": "2026-07-01T06:00:32.1494081Z"
+    "productId": "195",
+    "lastUpdated": "2026-10-13T02:00:31.5908395Z"
   },
   {
     "lender": "Gateway Bank",
-    "product": "Inv Green Com Property Loan IO",
+    "product": "Green Commercial Property Loan",
     "type": "unsecured_term",
-    "rate": 8.54,
+    "rate": 8.64,
     "feeFlat": 0,
     "feePct": 0,
     "feeMo": 0,
@@ -2965,8 +2879,8 @@
     ],
     "source": "CDR",
     "category": "BUSINESS_LOANS",
-    "productId": "196",
-    "lastUpdated": "2026-07-01T06:00:32.1494081Z"
+    "productId": "193",
+    "lastUpdated": "2026-10-13T00:00:31.4845168Z"
   },
   {
     "lender": "Gateway Bank",
@@ -3028,17 +2942,16 @@
   },
   {
     "lender": "Gateway Bank",
-    "product": "Commercial Property Loan",
-    "type": "unsecured_term",
-    "rate": 8.69,
+    "product": "Reverse Mortgage Access",
+    "type": "overdraft",
+    "rate": 8.74,
     "feeFlat": 0,
     "feePct": 0,
     "feeMo": 0,
-    "min": 250000,
-    "max": 4000000,
-    "maxTerm": 360,
+    "min": 50000,
+    "max": 2000000,
+    "maxTerm": 120,
     "sec": [
-      "none",
       "residential",
       "commercial",
       "business_assets"
@@ -3046,20 +2959,20 @@
     "trade": 0,
     "turn": 0,
     "fund": 7,
-    "io": false,
+    "io": true,
     "feat": [
       "CDR-sourced product data"
     ],
     "source": "CDR",
-    "category": "BUSINESS_LOANS",
-    "productId": "177",
-    "lastUpdated": "2026-07-01T06:00:32.1494081Z"
+    "category": "OVERDRAFTS",
+    "productId": "171",
+    "lastUpdated": "2026-10-13T02:00:31.5908395Z"
   },
   {
     "lender": "Gateway Bank",
-    "product": "Inv Commercial Property Loan",
+    "product": "Inv Green Com Property Loan IO",
     "type": "unsecured_term",
-    "rate": 8.69,
+    "rate": 8.79,
     "feeFlat": 0,
     "feePct": 0,
     "feeMo": 0,
@@ -3081,8 +2994,37 @@
     ],
     "source": "CDR",
     "category": "BUSINESS_LOANS",
-    "productId": "178",
-    "lastUpdated": "2026-07-01T06:00:32.1494081Z"
+    "productId": "196",
+    "lastUpdated": "2026-10-13T02:00:31.5908395Z"
+  },
+  {
+    "lender": "Gateway Bank",
+    "product": "Green Com Property Loan IO",
+    "type": "unsecured_term",
+    "rate": 8.79,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 250000,
+    "max": 4000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "194",
+    "lastUpdated": "2026-10-13T00:00:31.4845168Z"
   },
   {
     "lender": "Gateway Bank",
@@ -3144,9 +3086,9 @@
   },
   {
     "lender": "Gateway Bank",
-    "product": "Commercial Property Loan IO",
+    "product": "Inv Commercial Property Loan",
     "type": "unsecured_term",
-    "rate": 8.84,
+    "rate": 8.94,
     "feeFlat": 0,
     "feePct": 0,
     "feeMo": 0,
@@ -3168,14 +3110,43 @@
     ],
     "source": "CDR",
     "category": "BUSINESS_LOANS",
-    "productId": "179",
-    "lastUpdated": "2026-07-01T06:00:32.1494081Z"
+    "productId": "178",
+    "lastUpdated": "2026-10-13T02:00:31.5908395Z"
+  },
+  {
+    "lender": "Gateway Bank",
+    "product": "Commercial Property Loan",
+    "type": "unsecured_term",
+    "rate": 8.94,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 250000,
+    "max": 4000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "177",
+    "lastUpdated": "2026-10-13T00:00:31.4845168Z"
   },
   {
     "lender": "Gateway Bank",
     "product": "Inv Commercial Loan IO",
     "type": "unsecured_term",
-    "rate": 8.84,
+    "rate": 9.09,
     "feeFlat": 0,
     "feePct": 0,
     "feeMo": 0,
@@ -3198,18 +3169,18 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "180",
-    "lastUpdated": "2026-07-01T06:00:32.1494081Z"
+    "lastUpdated": "2026-10-13T02:00:31.5908395Z"
   },
   {
     "lender": "Gateway Bank",
-    "product": "Commercial Plus Loan",
+    "product": "Commercial Property Loan IO",
     "type": "unsecured_term",
-    "rate": 8.94,
+    "rate": 9.09,
     "feeFlat": 0,
     "feePct": 0,
     "feeMo": 0,
-    "min": 4000000,
-    "max": 10000000,
+    "min": 250000,
+    "max": 4000000,
     "maxTerm": 360,
     "sec": [
       "none",
@@ -3226,14 +3197,14 @@
     ],
     "source": "CDR",
     "category": "BUSINESS_LOANS",
-    "productId": "185",
-    "lastUpdated": "2026-07-01T06:00:32.1494081Z"
+    "productId": "179",
+    "lastUpdated": "2026-10-13T00:00:31.4845168Z"
   },
   {
     "lender": "Gateway Bank",
     "product": "INV Commercial Plus Loan",
     "type": "unsecured_term",
-    "rate": 8.94,
+    "rate": 9.19,
     "feeFlat": 0,
     "feePct": 0,
     "feeMo": 0,
@@ -3256,13 +3227,13 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "188",
-    "lastUpdated": "2026-07-01T06:00:32.1494081Z"
+    "lastUpdated": "2026-10-13T02:00:31.5908395Z"
   },
   {
     "lender": "Gateway Bank",
-    "product": "Commercial Plus Loan IO",
+    "product": "Commercial Plus Loan",
     "type": "unsecured_term",
-    "rate": 9.09,
+    "rate": 9.19,
     "feeFlat": 0,
     "feePct": 0,
     "feeMo": 0,
@@ -3284,14 +3255,14 @@
     ],
     "source": "CDR",
     "category": "BUSINESS_LOANS",
-    "productId": "186",
-    "lastUpdated": "2026-07-01T06:00:32.1494081Z"
+    "productId": "185",
+    "lastUpdated": "2026-10-13T00:00:31.4845168Z"
   },
   {
     "lender": "Gateway Bank",
     "product": "Inv Com Plus Loan I/O",
     "type": "unsecured_term",
-    "rate": 9.09,
+    "rate": 9.34,
     "feeFlat": 0,
     "feePct": 0,
     "feeMo": 0,
@@ -3314,13 +3285,42 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "187",
-    "lastUpdated": "2026-07-01T06:00:32.1494081Z"
+    "lastUpdated": "2026-10-13T02:00:31.5908395Z"
+  },
+  {
+    "lender": "Gateway Bank",
+    "product": "Commercial Plus Loan IO",
+    "type": "unsecured_term",
+    "rate": 9.34,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 4000000,
+    "max": 10000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "186",
+    "lastUpdated": "2026-10-13T00:00:31.4845168Z"
   },
   {
     "lender": "Gateway Bank",
     "product": "EquitiSmart Home Loan",
     "type": "overdraft",
-    "rate": 9.5,
+    "rate": 9.75,
     "feeFlat": 0,
     "feePct": 0,
     "feeMo": 0,
@@ -3342,13 +3342,13 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "168",
-    "lastUpdated": "2026-07-01T06:00:32.1494081Z"
+    "lastUpdated": "2026-10-13T02:00:31.5908395Z"
   },
   {
     "lender": "Gateway Bank",
     "product": "Inv EquitiSmart Home Loan",
     "type": "overdraft",
-    "rate": 10.12,
+    "rate": 10.37,
     "feeFlat": 0,
     "feePct": 0,
     "feeMo": 0,
@@ -3370,7 +3370,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "169",
-    "lastUpdated": "2026-07-01T06:00:32.1494081Z"
+    "lastUpdated": "2026-10-13T02:00:31.5908395Z"
   },
   {
     "lender": "Gateway Bank",
@@ -4053,8 +4053,8 @@
     "feeFlat": 0,
     "feePct": 0,
     "feeMo": 0,
-    "min": 1,
-    "max": 7,
+    "min": 10000,
+    "max": 250000,
     "maxTerm": 360,
     "sec": [
       "none",
@@ -4083,7 +4083,7 @@
     "feePct": 0,
     "feeMo": 0,
     "min": 1,
-    "max": 3,
+    "max": 50000,
     "maxTerm": 360,
     "sec": [
       "none",
@@ -5286,6 +5286,34 @@
   },
   {
     "lender": "Lending and bank accounts, both associated with BSB number 939 200",
+    "product": "Equity Flex",
+    "type": "overdraft",
+    "rate": 6.64,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 100000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "AMP_EQUITY_FLEX_HL",
+    "lastUpdated": "2026-10-02T00:00:00.000Z"
+  },
+  {
+    "lender": "Lending and bank accounts, both associated with BSB number 939 200",
     "product": "AMP Superedge Loan",
     "type": "unsecured_term",
     "rate": 7.14,
@@ -6060,7 +6088,7 @@
     "lender": "P&N Bank",
     "product": "Equity Access Account",
     "type": "line_of_credit",
-    "rate": 9.12,
+    "rate": 9.37,
     "feeFlat": 0,
     "feePct": 0,
     "feeMo": 0,
@@ -6082,7 +6110,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "158",
-    "lastUpdated": "2026-10-12T22:00:24.4126375Z"
+    "lastUpdated": "2026-10-13T20:00:28.6327005Z"
   },
   {
     "lender": "POLICE CREDIT UNION LIMITED",
@@ -6703,7 +6731,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "77",
-    "lastUpdated": "2026-10-12T22:00:23.9017023Z"
+    "lastUpdated": "2026-10-13T20:00:24.4342499Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -6732,7 +6760,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "78",
-    "lastUpdated": "2026-10-12T22:00:23.9017023Z"
+    "lastUpdated": "2026-10-13T20:00:24.4342499Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -6760,7 +6788,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "44",
-    "lastUpdated": "2026-10-12T22:00:23.9017023Z"
+    "lastUpdated": "2026-10-13T20:00:24.4342499Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -6789,7 +6817,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "47",
-    "lastUpdated": "2026-10-12T22:00:23.9017023Z"
+    "lastUpdated": "2026-10-13T20:00:24.4342499Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -6818,7 +6846,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "79",
-    "lastUpdated": "2026-10-12T22:00:23.9017023Z"
+    "lastUpdated": "2026-10-13T20:00:24.4342499Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -6847,7 +6875,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "80",
-    "lastUpdated": "2026-10-12T22:00:23.9017023Z"
+    "lastUpdated": "2026-10-13T20:00:24.4342499Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -6875,7 +6903,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "48",
-    "lastUpdated": "2026-10-12T22:00:23.9017023Z"
+    "lastUpdated": "2026-10-13T20:00:24.4342499Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -6903,7 +6931,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "45",
-    "lastUpdated": "2026-10-12T22:00:23.9017023Z"
+    "lastUpdated": "2026-10-13T20:00:24.4342499Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -6931,13 +6959,13 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "36",
-    "lastUpdated": "2026-10-12T22:00:23.9017023Z"
+    "lastUpdated": "2026-10-13T20:00:24.4342499Z"
   },
   {
     "lender": "Queensland Country Bank",
     "product": "Overdraft - Unsecured",
     "type": "overdraft",
-    "rate": 15.04,
+    "rate": 15.29,
     "feeFlat": 0,
     "feePct": 0,
     "feeMo": 0,
@@ -6959,7 +6987,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "35",
-    "lastUpdated": "2026-10-12T22:00:23.9017023Z"
+    "lastUpdated": "2026-10-13T20:00:24.4342499Z"
   },
   {
     "lender": "RACQ Bank",
@@ -7130,7 +7158,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "BUSINESS_LOAN",
-    "lastUpdated": "2026-10-09T14:28:18.000+11:00"
+    "lastUpdated": "2026-10-13T10:08:17.000+11:00"
   },
   {
     "lender": "SCCU",
@@ -7278,6 +7306,35 @@
   },
   {
     "lender": "St.George Bank",
+    "product": "Variable Rate Small Business Loan",
+    "type": "unsecured_term",
+    "rate": 9.48,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "none",
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "STGVariableRateSmallBusinessLoan",
+    "lastUpdated": "2026-10-09T00:00:00Z"
+  },
+  {
+    "lender": "St.George Bank",
     "product": "Commercial Unsecured Overdraft",
     "type": "line_of_credit",
     "rate": 10.06,
@@ -7359,7 +7416,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "64",
-    "lastUpdated": "2026-10-12T22:00:40.5641989Z"
+    "lastUpdated": "2026-10-13T20:00:41.6312422Z"
   },
   {
     "lender": "Summerland Bank",
@@ -7387,7 +7444,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "63",
-    "lastUpdated": "2026-10-12T22:00:40.5641989Z"
+    "lastUpdated": "2026-10-13T20:00:41.6312422Z"
   },
   {
     "lender": "Summerland Bank",
@@ -7415,7 +7472,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "84",
-    "lastUpdated": "2026-10-12T22:00:40.5641989Z"
+    "lastUpdated": "2026-10-13T20:00:41.6312422Z"
   },
   {
     "lender": "THE CAPRICORNIAN",
@@ -7642,7 +7699,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "SecuredBusinessLoan",
-    "lastUpdated": "2026-10-09T00:38:41Z"
+    "lastUpdated": "2026-10-13T05:10:24Z"
   },
   {
     "lender": "Westpac",
