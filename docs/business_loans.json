@@ -458,17 +458,16 @@
   },
   {
     "lender": "Bank of Melbourne",
-    "product": "Variable Rate Small Business Loan",
-    "type": "unsecured_term",
-    "rate": 9.48,
+    "product": "Commercial Unsecured Overdraft",
+    "type": "line_of_credit",
+    "rate": 10.06,
     "feeFlat": 0,
     "feePct": 0,
     "feeMo": 0,
-    "min": 20000,
+    "min": 5000,
     "max": 5000000,
-    "maxTerm": 360,
+    "maxTerm": 120,
     "sec": [
-      "none",
       "residential",
       "commercial",
       "business_assets"
@@ -476,14 +475,14 @@
     "trade": 0,
     "turn": 0,
     "fund": 7,
-    "io": false,
+    "io": true,
     "feat": [
       "CDR-sourced product data"
     ],
     "source": "CDR",
-    "category": "BUSINESS_LOANS",
-    "productId": "BOMVariableRateSmallBusinessLoan",
-    "lastUpdated": "2026-10-09T00:04:04Z"
+    "category": "OVERDRAFTS",
+    "productId": "BOMUnsecuredCommercialOverdraft",
+    "lastUpdated": "2026-10-28T04:47:44Z"
   },
   {
     "lender": "Bank of Melbourne",
@@ -511,35 +510,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "BOMCommercialOverdraft",
-    "lastUpdated": "2026-10-16T03:06:12Z"
-  },
-  {
-    "lender": "Bank of Melbourne",
-    "product": "Commercial Unsecured Overdraft",
-    "type": "line_of_credit",
-    "rate": 10.06,
-    "feeFlat": 0,
-    "feePct": 0,
-    "feeMo": 0,
-    "min": 5000,
-    "max": 5000000,
-    "maxTerm": 120,
-    "sec": [
-      "residential",
-      "commercial",
-      "business_assets"
-    ],
-    "trade": 0,
-    "turn": 0,
-    "fund": 7,
-    "io": true,
-    "feat": [
-      "CDR-sourced product data"
-    ],
-    "source": "CDR",
-    "category": "OVERDRAFTS",
-    "productId": "BOMUnsecuredCommercialOverdraft",
-    "lastUpdated": "2026-10-12T02:29:43Z"
+    "lastUpdated": "2026-10-28T04:47:43Z"
   },
   {
     "lender": "Bank of Queensland",
@@ -883,35 +854,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "BSAVariableRateSmallBusinessLoan",
-    "lastUpdated": "2026-10-12T00:04:04Z"
-  },
-  {
-    "lender": "BankSA",
-    "product": "Commercial Overdraft",
-    "type": "overdraft",
-    "rate": 10.06,
-    "feeFlat": 0,
-    "feePct": 0,
-    "feeMo": 0,
-    "min": 5000,
-    "max": 5000000,
-    "maxTerm": 120,
-    "sec": [
-      "residential",
-      "commercial",
-      "business_assets"
-    ],
-    "trade": 0,
-    "turn": 0,
-    "fund": 7,
-    "io": true,
-    "feat": [
-      "CDR-sourced product data"
-    ],
-    "source": "CDR",
-    "category": "OVERDRAFTS",
-    "productId": "BSACommercialOverdraft",
-    "lastUpdated": "2026-10-16T03:06:12Z"
+    "lastUpdated": "2026-10-28T04:47:43Z"
   },
   {
     "lender": "BankSA",
@@ -939,7 +882,35 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "BSAUnsecuredCommercialOverdraft",
-    "lastUpdated": "2026-10-12T02:29:43Z"
+    "lastUpdated": "2026-10-28T04:47:44Z"
+  },
+  {
+    "lender": "BankSA",
+    "product": "Commercial Overdraft",
+    "type": "overdraft",
+    "rate": 10.06,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "BSACommercialOverdraft",
+    "lastUpdated": "2026-10-28T04:47:43Z"
   },
   {
     "lender": "BankWAW",
@@ -1023,7 +994,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "166",
-    "lastUpdated": "2026-10-27T18:00:40.7571254Z"
+    "lastUpdated": "2026-10-28T20:01:01.3882843Z"
   },
   {
     "lender": "bcu",
@@ -1051,7 +1022,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "168",
-    "lastUpdated": "2026-10-27T18:00:40.7571254Z"
+    "lastUpdated": "2026-10-28T20:01:01.3882843Z"
   },
   {
     "lender": "Beyond Bank Australia",
@@ -1080,7 +1051,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "45",
-    "lastUpdated": "2026-10-27T18:00:31.5447058Z"
+    "lastUpdated": "2026-10-28T20:00:31.2932226Z"
   },
   {
     "lender": "Beyond Bank Australia",
@@ -1453,7 +1424,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "23",
-    "lastUpdated": "2026-10-27T18:00:17.3698451Z"
+    "lastUpdated": "2026-10-28T20:00:18.4648359Z"
   },
   {
     "lender": "Broken Hill Bank",
@@ -2251,7 +2222,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "d7c55e295f504692a54360f0d2092c25",
-    "lastUpdated": "2026-10-28T01:15:05.000Z"
+    "lastUpdated": "2026-10-29T01:15:04.000Z"
   },
   {
     "lender": "CommBank",
@@ -2280,7 +2251,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "d7c55e295f504692a54360f0d2092c23",
-    "lastUpdated": "2026-10-28T05:00:57.000Z"
+    "lastUpdated": "2026-10-29T02:15:36.000Z"
   },
   {
     "lender": "CommBank",
@@ -2309,7 +2280,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "5af96243b945460cb98a373de7688008",
-    "lastUpdated": "2026-10-28T02:15:34.000Z"
+    "lastUpdated": "2026-10-29T02:15:33.000Z"
   },
   {
     "lender": "CommBank",
@@ -2338,7 +2309,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "a443a21d7a7a4a339e850a3c1ead0c12",
-    "lastUpdated": "2026-10-28T02:15:34.000Z"
+    "lastUpdated": "2026-10-29T02:15:33.000Z"
   },
   {
     "lender": "CommBank",
@@ -2422,7 +2393,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "38bca0f2a8c54e828ca954325c0aea17",
-    "lastUpdated": "2026-10-28T06:00:26.000Z"
+    "lastUpdated": "2026-10-29T06:00:30.000Z"
   },
   {
     "lender": "Community First Credit Union",
@@ -3460,177 +3431,9 @@
   },
   {
     "lender": "Great Southern Bank",
-    "product": "Commercial 1 year fixed - Residentially Secured P&I",
-    "type": "secured_term",
-    "rate": 7.09,
-    "feeFlat": 1485,
-    "feePct": 0,
-    "feeMo": 0,
-    "min": 20000,
-    "max": 5000000,
-    "maxTerm": 360,
-    "sec": [
-      "residential",
-      "commercial",
-      "business_assets"
-    ],
-    "trade": 0,
-    "turn": 0,
-    "fund": 7,
-    "io": false,
-    "feat": [
-      "CDR-sourced product data"
-    ],
-    "source": "CDR",
-    "category": "BUSINESS_LOANS",
-    "productId": "5100-3109",
-    "lastUpdated": "2026-04-23T14:01:00.00000Z"
-  },
-  {
-    "lender": "Great Southern Bank",
-    "product": "Commercial 1 Year Fixed - Residentially Secured IO",
-    "type": "secured_term",
-    "rate": 7.09,
-    "feeFlat": 1485,
-    "feePct": 0,
-    "feeMo": 0,
-    "min": 20000,
-    "max": 5000000,
-    "maxTerm": 360,
-    "sec": [
-      "residential",
-      "commercial",
-      "business_assets"
-    ],
-    "trade": 0,
-    "turn": 0,
-    "fund": 7,
-    "io": false,
-    "feat": [
-      "CDR-sourced product data"
-    ],
-    "source": "CDR",
-    "category": "BUSINESS_LOANS",
-    "productId": "5400-3109",
-    "lastUpdated": "2026-04-23T14:01:00.00000Z"
-  },
-  {
-    "lender": "Great Southern Bank",
-    "product": "Commercial 2 year fixed - Residentially Secured P&I",
-    "type": "secured_term",
-    "rate": 7.14,
-    "feeFlat": 1485,
-    "feePct": 0,
-    "feeMo": 0,
-    "min": 20000,
-    "max": 5000000,
-    "maxTerm": 360,
-    "sec": [
-      "residential",
-      "commercial",
-      "business_assets"
-    ],
-    "trade": 0,
-    "turn": 0,
-    "fund": 7,
-    "io": false,
-    "feat": [
-      "CDR-sourced product data"
-    ],
-    "source": "CDR",
-    "category": "BUSINESS_LOANS",
-    "productId": "5100-3209",
-    "lastUpdated": "2026-04-23T14:01:00.00000Z"
-  },
-  {
-    "lender": "Great Southern Bank",
-    "product": "Commercial 2 Year Fixed - Residentially Secured IO",
-    "type": "secured_term",
-    "rate": 7.14,
-    "feeFlat": 1485,
-    "feePct": 0,
-    "feeMo": 0,
-    "min": 20000,
-    "max": 5000000,
-    "maxTerm": 360,
-    "sec": [
-      "residential",
-      "commercial",
-      "business_assets"
-    ],
-    "trade": 0,
-    "turn": 0,
-    "fund": 7,
-    "io": false,
-    "feat": [
-      "CDR-sourced product data"
-    ],
-    "source": "CDR",
-    "category": "BUSINESS_LOANS",
-    "productId": "5400-3209",
-    "lastUpdated": "2026-04-23T14:01:00.00000Z"
-  },
-  {
-    "lender": "Great Southern Bank",
-    "product": "Commercial 3 year fixed - Residentially Secured P&I",
-    "type": "secured_term",
-    "rate": 7.19,
-    "feeFlat": 1485,
-    "feePct": 0,
-    "feeMo": 0,
-    "min": 20000,
-    "max": 5000000,
-    "maxTerm": 360,
-    "sec": [
-      "residential",
-      "commercial",
-      "business_assets"
-    ],
-    "trade": 0,
-    "turn": 0,
-    "fund": 7,
-    "io": false,
-    "feat": [
-      "CDR-sourced product data"
-    ],
-    "source": "CDR",
-    "category": "BUSINESS_LOANS",
-    "productId": "5100-3309",
-    "lastUpdated": "2026-04-23T14:01:00.00000Z"
-  },
-  {
-    "lender": "Great Southern Bank",
-    "product": "Commercial 3 Year Fixed - Residentially Secured IO",
-    "type": "secured_term",
-    "rate": 7.19,
-    "feeFlat": 1485,
-    "feePct": 0,
-    "feeMo": 0,
-    "min": 20000,
-    "max": 5000000,
-    "maxTerm": 360,
-    "sec": [
-      "residential",
-      "commercial",
-      "business_assets"
-    ],
-    "trade": 0,
-    "turn": 0,
-    "fund": 7,
-    "io": false,
-    "feat": [
-      "CDR-sourced product data"
-    ],
-    "source": "CDR",
-    "category": "BUSINESS_LOANS",
-    "productId": "5400-3309",
-    "lastUpdated": "2026-04-23T14:01:00.00000Z"
-  },
-  {
-    "lender": "Great Southern Bank",
     "product": "Commercial Variable - Residentially Secured P&I",
     "type": "secured_term",
-    "rate": 7.25,
+    "rate": 7.5,
     "feeFlat": 1485,
     "feePct": 0,
     "feeMo": 0,
@@ -3652,13 +3455,41 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "5100-3009",
-    "lastUpdated": "2026-05-26T14:01:00.00000Z"
+    "lastUpdated": "2026-10-27T15:01:00.00000Z"
+  },
+  {
+    "lender": "Great Southern Bank",
+    "product": "Commercial 1 year fixed - Residentially Secured P&I",
+    "type": "secured_term",
+    "rate": 7.5,
+    "feeFlat": 1485,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "5100-3109",
+    "lastUpdated": "2026-10-27T15:01:00.00000Z"
   },
   {
     "lender": "Great Southern Bank",
     "product": "Commercial Variable - Residentially Secured IO",
     "type": "secured_term",
-    "rate": 7.25,
+    "rate": 7.5,
     "feeFlat": 1485,
     "feePct": 0,
     "feeMo": 0,
@@ -3680,13 +3511,153 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "5400-3009",
-    "lastUpdated": "2026-05-26T14:01:00.00000Z"
+    "lastUpdated": "2026-10-27T15:01:00.00000Z"
+  },
+  {
+    "lender": "Great Southern Bank",
+    "product": "Commercial 1 Year Fixed - Residentially Secured IO",
+    "type": "secured_term",
+    "rate": 7.5,
+    "feeFlat": 1485,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "5400-3109",
+    "lastUpdated": "2026-10-27T15:01:00.00000Z"
+  },
+  {
+    "lender": "Great Southern Bank",
+    "product": "Commercial 2 year fixed - Residentially Secured P&I",
+    "type": "secured_term",
+    "rate": 7.65,
+    "feeFlat": 1485,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "5100-3209",
+    "lastUpdated": "2026-10-27T15:01:00.00000Z"
+  },
+  {
+    "lender": "Great Southern Bank",
+    "product": "Commercial 3 year fixed - Residentially Secured P&I",
+    "type": "secured_term",
+    "rate": 7.65,
+    "feeFlat": 1485,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "5100-3309",
+    "lastUpdated": "2026-10-27T15:01:00.00000Z"
+  },
+  {
+    "lender": "Great Southern Bank",
+    "product": "Commercial 2 Year Fixed - Residentially Secured IO",
+    "type": "secured_term",
+    "rate": 7.65,
+    "feeFlat": 1485,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "5400-3209",
+    "lastUpdated": "2026-10-27T15:01:00.00000Z"
+  },
+  {
+    "lender": "Great Southern Bank",
+    "product": "Commercial 3 Year Fixed - Residentially Secured IO",
+    "type": "secured_term",
+    "rate": 7.65,
+    "feeFlat": 1485,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "5400-3309",
+    "lastUpdated": "2026-10-27T15:01:00.00000Z"
   },
   {
     "lender": "Great Southern Bank",
     "product": "Commercial 5 year fixed - Residentially Secured P&I",
     "type": "secured_term",
-    "rate": 7.39,
+    "rate": 8,
     "feeFlat": 1485,
     "feePct": 0,
     "feeMo": 0,
@@ -3708,209 +3679,13 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "5100-3509",
-    "lastUpdated": "2026-04-23T14:01:00.00000Z"
-  },
-  {
-    "lender": "Great Southern Bank",
-    "product": "Commercial 5 Year Fixed - Residentially Secured IO",
-    "type": "secured_term",
-    "rate": 7.39,
-    "feeFlat": 1485,
-    "feePct": 0,
-    "feeMo": 0,
-    "min": 20000,
-    "max": 5000000,
-    "maxTerm": 360,
-    "sec": [
-      "residential",
-      "commercial",
-      "business_assets"
-    ],
-    "trade": 0,
-    "turn": 0,
-    "fund": 7,
-    "io": false,
-    "feat": [
-      "CDR-sourced product data"
-    ],
-    "source": "CDR",
-    "category": "BUSINESS_LOANS",
-    "productId": "5400-3509",
-    "lastUpdated": "2026-04-23T14:01:00.00000Z"
-  },
-  {
-    "lender": "Great Southern Bank",
-    "product": "Commercial 1 Year Fixed - Commercially Secured IO",
-    "type": "secured_term",
-    "rate": 7.59,
-    "feeFlat": 1485,
-    "feePct": 0,
-    "feeMo": 0,
-    "min": 20000,
-    "max": 5000000,
-    "maxTerm": 360,
-    "sec": [
-      "residential",
-      "commercial",
-      "business_assets"
-    ],
-    "trade": 0,
-    "turn": 0,
-    "fund": 7,
-    "io": false,
-    "feat": [
-      "CDR-sourced product data"
-    ],
-    "source": "CDR",
-    "category": "BUSINESS_LOANS",
-    "productId": "5200-3109",
-    "lastUpdated": "2026-04-23T14:01:00.00000Z"
-  },
-  {
-    "lender": "Great Southern Bank",
-    "product": "Commercial 1 Year fixed - Commercially secured P&I",
-    "type": "secured_term",
-    "rate": 7.59,
-    "feeFlat": 1485,
-    "feePct": 0,
-    "feeMo": 0,
-    "min": 20000,
-    "max": 5000000,
-    "maxTerm": 360,
-    "sec": [
-      "residential",
-      "commercial",
-      "business_assets"
-    ],
-    "trade": 0,
-    "turn": 0,
-    "fund": 7,
-    "io": false,
-    "feat": [
-      "CDR-sourced product data"
-    ],
-    "source": "CDR",
-    "category": "BUSINESS_LOANS",
-    "productId": "5300-3109",
-    "lastUpdated": "2026-04-23T14:01:00.00000Z"
-  },
-  {
-    "lender": "Great Southern Bank",
-    "product": "Commercial 2 Year Fixed - Commercially Secured IO",
-    "type": "secured_term",
-    "rate": 7.64,
-    "feeFlat": 1485,
-    "feePct": 0,
-    "feeMo": 0,
-    "min": 20000,
-    "max": 5000000,
-    "maxTerm": 360,
-    "sec": [
-      "residential",
-      "commercial",
-      "business_assets"
-    ],
-    "trade": 0,
-    "turn": 0,
-    "fund": 7,
-    "io": false,
-    "feat": [
-      "CDR-sourced product data"
-    ],
-    "source": "CDR",
-    "category": "BUSINESS_LOANS",
-    "productId": "5200-3209",
-    "lastUpdated": "2026-04-23T14:01:00.00000Z"
-  },
-  {
-    "lender": "Great Southern Bank",
-    "product": "Commercial 2 Year fixed - Commercially secured P&I",
-    "type": "secured_term",
-    "rate": 7.64,
-    "feeFlat": 1485,
-    "feePct": 0,
-    "feeMo": 0,
-    "min": 20000,
-    "max": 5000000,
-    "maxTerm": 360,
-    "sec": [
-      "residential",
-      "commercial",
-      "business_assets"
-    ],
-    "trade": 0,
-    "turn": 0,
-    "fund": 7,
-    "io": false,
-    "feat": [
-      "CDR-sourced product data"
-    ],
-    "source": "CDR",
-    "category": "BUSINESS_LOANS",
-    "productId": "5300-3209",
-    "lastUpdated": "2026-04-23T14:01:00.00000Z"
-  },
-  {
-    "lender": "Great Southern Bank",
-    "product": "Commercial 3 Year Fixed - Commercially Secured IO",
-    "type": "secured_term",
-    "rate": 7.69,
-    "feeFlat": 1485,
-    "feePct": 0,
-    "feeMo": 0,
-    "min": 20000,
-    "max": 5000000,
-    "maxTerm": 360,
-    "sec": [
-      "residential",
-      "commercial",
-      "business_assets"
-    ],
-    "trade": 0,
-    "turn": 0,
-    "fund": 7,
-    "io": false,
-    "feat": [
-      "CDR-sourced product data"
-    ],
-    "source": "CDR",
-    "category": "BUSINESS_LOANS",
-    "productId": "5200-3309",
-    "lastUpdated": "2026-04-23T14:01:00.00000Z"
-  },
-  {
-    "lender": "Great Southern Bank",
-    "product": "Commercial 3 Year fixed - Commercially secured P&I",
-    "type": "secured_term",
-    "rate": 7.69,
-    "feeFlat": 1485,
-    "feePct": 0,
-    "feeMo": 0,
-    "min": 20000,
-    "max": 5000000,
-    "maxTerm": 360,
-    "sec": [
-      "residential",
-      "commercial",
-      "business_assets"
-    ],
-    "trade": 0,
-    "turn": 0,
-    "fund": 7,
-    "io": false,
-    "feat": [
-      "CDR-sourced product data"
-    ],
-    "source": "CDR",
-    "category": "BUSINESS_LOANS",
-    "productId": "5300-3309",
-    "lastUpdated": "2026-04-23T14:01:00.00000Z"
+    "lastUpdated": "2026-10-27T15:01:00.00000Z"
   },
   {
     "lender": "Great Southern Bank",
     "product": "Commercial Variable - Commercially Secured IO",
     "type": "secured_term",
-    "rate": 7.75,
+    "rate": 8,
     "feeFlat": 1485,
     "feePct": 0,
     "feeMo": 0,
@@ -3932,13 +3707,41 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "5200-3009",
-    "lastUpdated": "2026-05-26T14:01:00.00000Z"
+    "lastUpdated": "2026-10-27T15:01:00.00000Z"
+  },
+  {
+    "lender": "Great Southern Bank",
+    "product": "Commercial 1 Year Fixed - Commercially Secured IO",
+    "type": "secured_term",
+    "rate": 8,
+    "feeFlat": 1485,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "5200-3109",
+    "lastUpdated": "2026-10-27T15:01:00.00000Z"
   },
   {
     "lender": "Great Southern Bank",
     "product": "Commercial Variable - Commercially secured P&I",
     "type": "secured_term",
-    "rate": 7.75,
+    "rate": 8,
     "feeFlat": 1485,
     "feePct": 0,
     "feeMo": 0,
@@ -3960,13 +3763,181 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "5300-3009",
-    "lastUpdated": "2026-05-26T14:01:00.00000Z"
+    "lastUpdated": "2026-10-27T15:01:00.00000Z"
+  },
+  {
+    "lender": "Great Southern Bank",
+    "product": "Commercial 1 Year fixed - Commercially secured P&I",
+    "type": "secured_term",
+    "rate": 8,
+    "feeFlat": 1485,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "5300-3109",
+    "lastUpdated": "2026-10-27T15:01:00.00000Z"
+  },
+  {
+    "lender": "Great Southern Bank",
+    "product": "Commercial 5 Year Fixed - Residentially Secured IO",
+    "type": "secured_term",
+    "rate": 8,
+    "feeFlat": 1485,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "5400-3509",
+    "lastUpdated": "2026-10-27T15:01:00.00000Z"
+  },
+  {
+    "lender": "Great Southern Bank",
+    "product": "Commercial 2 Year Fixed - Commercially Secured IO",
+    "type": "secured_term",
+    "rate": 8.15,
+    "feeFlat": 1485,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "5200-3209",
+    "lastUpdated": "2026-10-27T15:01:00.00000Z"
+  },
+  {
+    "lender": "Great Southern Bank",
+    "product": "Commercial 3 Year Fixed - Commercially Secured IO",
+    "type": "secured_term",
+    "rate": 8.15,
+    "feeFlat": 1485,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "5200-3309",
+    "lastUpdated": "2026-10-27T15:01:00.00000Z"
+  },
+  {
+    "lender": "Great Southern Bank",
+    "product": "Commercial 2 Year fixed - Commercially secured P&I",
+    "type": "secured_term",
+    "rate": 8.15,
+    "feeFlat": 1485,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "5300-3209",
+    "lastUpdated": "2026-10-27T15:01:00.00000Z"
+  },
+  {
+    "lender": "Great Southern Bank",
+    "product": "Commercial 3 Year fixed - Commercially secured P&I",
+    "type": "secured_term",
+    "rate": 8.15,
+    "feeFlat": 1485,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 20000,
+    "max": 5000000,
+    "maxTerm": 360,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": false,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "BUSINESS_LOANS",
+    "productId": "5300-3309",
+    "lastUpdated": "2026-10-27T15:01:00.00000Z"
   },
   {
     "lender": "Great Southern Bank",
     "product": "Commercial 5 Year Fixed - Commercially Secured IO",
     "type": "secured_term",
-    "rate": 7.89,
+    "rate": 8.5,
     "feeFlat": 1485,
     "feePct": 0,
     "feeMo": 0,
@@ -3988,13 +3959,13 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "5200-3509",
-    "lastUpdated": "2026-04-23T14:01:00.00000Z"
+    "lastUpdated": "2026-10-27T15:01:00.00000Z"
   },
   {
     "lender": "Great Southern Bank",
     "product": "Commercial 5 Year fixed - Commercially secured P&I",
     "type": "secured_term",
-    "rate": 7.89,
+    "rate": 8.5,
     "feeFlat": 1485,
     "feePct": 0,
     "feeMo": 0,
@@ -4016,13 +3987,13 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "5300-3509",
-    "lastUpdated": "2026-04-23T14:01:00.00000Z"
+    "lastUpdated": "2026-10-27T15:01:00.00000Z"
   },
   {
     "lender": "Great Southern Bank",
     "product": "Business Overdraft (residential secured)",
     "type": "overdraft",
-    "rate": 9.45,
+    "rate": 9.7,
     "feeFlat": 1485,
     "feePct": 0,
     "feeMo": 0,
@@ -4044,13 +4015,13 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "2551-4000",
-    "lastUpdated": "2026-05-26T14:01:00.00000Z"
+    "lastUpdated": "2026-10-27T15:01:00.00000Z"
   },
   {
     "lender": "Great Southern Bank",
     "product": "Business Overdraft (commercial secured)",
     "type": "overdraft",
-    "rate": 10.35,
+    "rate": 10.6,
     "feeFlat": 1485,
     "feePct": 0,
     "feeMo": 0,
@@ -4072,7 +4043,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "2555-4000",
-    "lastUpdated": "2026-05-26T14:01:00.00000Z"
+    "lastUpdated": "2026-10-27T15:01:00.00000Z"
   },
   {
     "lender": "Great Southern Bank Business+",
@@ -4082,8 +4053,8 @@
     "feeFlat": 0,
     "feePct": 0,
     "feeMo": 0,
-    "min": 1,
-    "max": 7,
+    "min": 10000,
+    "max": 250000,
     "maxTerm": 360,
     "sec": [
       "none",
@@ -4111,7 +4082,7 @@
     "feeFlat": 0,
     "feePct": 0,
     "feeMo": 0,
-    "min": 20000,
+    "min": 1,
     "max": 3,
     "maxTerm": 360,
     "sec": [
@@ -6030,90 +6001,6 @@
     "lastUpdated": "2026-10-09T00:00:00+11:00"
   },
   {
-    "lender": "NORTHERN INLAND CREDIT UNION LTD.",
-    "product": "Easy Access",
-    "type": "overdraft",
-    "rate": 8.1,
-    "feeFlat": 0,
-    "feePct": 0,
-    "feeMo": 0,
-    "min": 2000,
-    "max": 5000000,
-    "maxTerm": 120,
-    "sec": [
-      "residential",
-      "commercial",
-      "business_assets"
-    ],
-    "trade": 0,
-    "turn": 0,
-    "fund": 7,
-    "io": true,
-    "feat": [
-      "CDR-sourced product data"
-    ],
-    "source": "CDR",
-    "category": "OVERDRAFTS",
-    "productId": "NICUS50",
-    "lastUpdated": "2025-12-30T10:25:33.000+11:00"
-  },
-  {
-    "lender": "NORTHERN INLAND CREDIT UNION LTD.",
-    "product": "Commercial Overdraft",
-    "type": "overdraft",
-    "rate": 10.24,
-    "feeFlat": 0,
-    "feePct": 0,
-    "feeMo": 0,
-    "min": 2000,
-    "max": 5000000,
-    "maxTerm": 120,
-    "sec": [
-      "residential",
-      "commercial",
-      "business_assets"
-    ],
-    "trade": 0,
-    "turn": 0,
-    "fund": 7,
-    "io": true,
-    "feat": [
-      "CDR-sourced product data"
-    ],
-    "source": "CDR",
-    "category": "OVERDRAFTS",
-    "productId": "NICUS30",
-    "lastUpdated": "2025-10-01T16:17:17.000+10:00"
-  },
-  {
-    "lender": "NORTHERN INLAND CREDIT UNION LTD.",
-    "product": "Personal Overdraft",
-    "type": "overdraft",
-    "rate": 15.75,
-    "feeFlat": 0,
-    "feePct": 0,
-    "feeMo": 0,
-    "min": 2000,
-    "max": 25000,
-    "maxTerm": 120,
-    "sec": [
-      "residential",
-      "commercial",
-      "business_assets"
-    ],
-    "trade": 0,
-    "turn": 0,
-    "fund": 7,
-    "io": true,
-    "feat": [
-      "CDR-sourced product data"
-    ],
-    "source": "CDR",
-    "category": "OVERDRAFTS",
-    "productId": "NICUS51",
-    "lastUpdated": "2025-10-01T16:17:17.000+10:00"
-  },
-  {
     "lender": "P&N Bank",
     "product": "Equity Access Account",
     "type": "line_of_credit",
@@ -6139,7 +6026,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "158",
-    "lastUpdated": "2026-10-27T18:00:23.7311305Z"
+    "lastUpdated": "2026-10-28T20:00:23.4709191Z"
   },
   {
     "lender": "POLICE CREDIT UNION LIMITED",
@@ -6760,7 +6647,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "77",
-    "lastUpdated": "2026-10-27T18:00:23.9435878Z"
+    "lastUpdated": "2026-10-28T20:00:24.7083190Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -6789,7 +6676,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "78",
-    "lastUpdated": "2026-10-27T18:00:23.9435878Z"
+    "lastUpdated": "2026-10-28T20:00:24.7083190Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -6818,7 +6705,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "79",
-    "lastUpdated": "2026-10-27T18:00:23.9435878Z"
+    "lastUpdated": "2026-10-28T20:00:24.7083190Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -6847,7 +6734,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "80",
-    "lastUpdated": "2026-10-27T18:00:23.9435878Z"
+    "lastUpdated": "2026-10-28T20:00:24.7083190Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -6875,7 +6762,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "44",
-    "lastUpdated": "2026-10-27T18:00:23.9435878Z"
+    "lastUpdated": "2026-10-28T20:00:24.7083190Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -6904,7 +6791,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "47",
-    "lastUpdated": "2026-10-27T18:00:23.9435878Z"
+    "lastUpdated": "2026-10-28T20:00:24.7083190Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -6932,7 +6819,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "48",
-    "lastUpdated": "2026-10-27T18:00:23.9435878Z"
+    "lastUpdated": "2026-10-28T20:00:24.7083190Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -6960,7 +6847,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "45",
-    "lastUpdated": "2026-10-27T18:00:23.9435878Z"
+    "lastUpdated": "2026-10-28T20:00:24.7083190Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -6988,7 +6875,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "36",
-    "lastUpdated": "2026-10-27T18:00:23.9435878Z"
+    "lastUpdated": "2026-10-28T20:00:24.7083190Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -7016,7 +6903,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "35",
-    "lastUpdated": "2026-10-27T18:00:23.9435878Z"
+    "lastUpdated": "2026-10-28T20:00:24.7083190Z"
   },
   {
     "lender": "RACQ Bank",
@@ -7360,35 +7247,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "STGVariableRateSmallBusinessLoan",
-    "lastUpdated": "2026-10-09T00:00:00Z"
-  },
-  {
-    "lender": "St.George Bank",
-    "product": "Commercial Overdraft",
-    "type": "overdraft",
-    "rate": 10.06,
-    "feeFlat": 0,
-    "feePct": 0,
-    "feeMo": 0,
-    "min": 5000,
-    "max": 5000000,
-    "maxTerm": 120,
-    "sec": [
-      "residential",
-      "commercial",
-      "business_assets"
-    ],
-    "trade": 0,
-    "turn": 0,
-    "fund": 7,
-    "io": true,
-    "feat": [
-      "CDR-sourced product data"
-    ],
-    "source": "CDR",
-    "category": "OVERDRAFTS",
-    "productId": "STGCommercialOverdraft",
-    "lastUpdated": "2026-10-16T03:06:12Z"
+    "lastUpdated": "2026-10-28T04:47:43Z"
   },
   {
     "lender": "St.George Bank",
@@ -7416,7 +7275,35 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "STGUnsecuredCommercialOverdraft",
-    "lastUpdated": "2026-10-12T02:29:42Z"
+    "lastUpdated": "2026-10-28T04:47:44Z"
+  },
+  {
+    "lender": "St.George Bank",
+    "product": "Commercial Overdraft",
+    "type": "overdraft",
+    "rate": 10.06,
+    "feeFlat": 0,
+    "feePct": 0,
+    "feeMo": 0,
+    "min": 5000,
+    "max": 5000000,
+    "maxTerm": 120,
+    "sec": [
+      "residential",
+      "commercial",
+      "business_assets"
+    ],
+    "trade": 0,
+    "turn": 0,
+    "fund": 7,
+    "io": true,
+    "feat": [
+      "CDR-sourced product data"
+    ],
+    "source": "CDR",
+    "category": "OVERDRAFTS",
+    "productId": "STGCommercialOverdraft",
+    "lastUpdated": "2026-10-28T04:47:43Z"
   },
   {
     "lender": "Summerland Bank",
@@ -7445,7 +7332,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "64",
-    "lastUpdated": "2026-10-27T18:00:41.6663938Z"
+    "lastUpdated": "2026-10-28T20:00:41.9963212Z"
   },
   {
     "lender": "Summerland Bank",
@@ -7473,7 +7360,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "63",
-    "lastUpdated": "2026-10-27T18:00:41.6663938Z"
+    "lastUpdated": "2026-10-28T20:00:41.9963212Z"
   },
   {
     "lender": "Summerland Bank",
@@ -7501,7 +7388,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "84",
-    "lastUpdated": "2026-10-27T18:00:41.6663938Z"
+    "lastUpdated": "2026-10-28T20:00:41.9963212Z"
   },
   {
     "lender": "THE CAPRICORNIAN",
@@ -7672,7 +7559,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "L80-_COMMERCIAL_LOAN_GRADE_A_VARIABLE_INTEREST_ONLY_12_MONTHS",
-    "lastUpdated": "2026-10-14T16:14:07.000+11:00"
+    "lastUpdated": "2026-10-14T16:14:07.000+10:00"
   },
   {
     "lender": "WARWICK CREDIT UNION",
@@ -7700,7 +7587,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "S6_Lifestyle_Equity_Line_of_Credit_Maximum_$150,000",
-    "lastUpdated": "2026-10-06T09:29:46.000+11:00"
+    "lastUpdated": "2026-10-06T09:29:46.000+10:00"
   },
   {
     "lender": "Westpac",
@@ -7728,7 +7615,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "SecuredBusinessLoan",
-    "lastUpdated": "2026-10-13T05:10:24Z"
+    "lastUpdated": "2026-10-28T02:47:06Z"
   },
   {
     "lender": "Westpac",
@@ -7756,7 +7643,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "BusinessOverdraft",
-    "lastUpdated": "2026-10-09T04:08:46Z"
+    "lastUpdated": "2026-10-28T02:47:07Z"
   },
   {
     "lender": "Westpac",
@@ -7784,7 +7671,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "UnsecuredBusinessOverdraft",
-    "lastUpdated": "2026-10-09T04:08:46Z"
+    "lastUpdated": "2026-10-28T02:47:07Z"
   },
   {
     "lender": "Westpac",
@@ -7813,7 +7700,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "UnsecuredBusinessLoan",
-    "lastUpdated": "2026-10-09T00:17:09Z"
+    "lastUpdated": "2026-10-28T02:47:06Z"
   },
   {
     "lender": "WOOLWORTHS TEAM BANK",
