@@ -1023,7 +1023,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "166",
-    "lastUpdated": "2026-11-03T20:00:51.1748632Z"
+    "lastUpdated": "2026-11-04T20:00:42.1353149Z"
   },
   {
     "lender": "bcu",
@@ -1051,7 +1051,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "168",
-    "lastUpdated": "2026-11-03T20:00:51.1748632Z"
+    "lastUpdated": "2026-11-04T20:00:42.1353149Z"
   },
   {
     "lender": "Beyond Bank Australia",
@@ -1080,7 +1080,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "45",
-    "lastUpdated": "2026-11-03T20:00:33.2603874Z"
+    "lastUpdated": "2026-11-04T20:00:31.1611688Z"
   },
   {
     "lender": "Beyond Bank Australia",
@@ -1453,7 +1453,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "23",
-    "lastUpdated": "2026-11-03T20:00:19.3347313Z"
+    "lastUpdated": "2026-11-04T20:00:17.9772435Z"
   },
   {
     "lender": "Broken Hill Bank",
@@ -2280,7 +2280,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "d7c55e295f504692a54360f0d2092c23",
-    "lastUpdated": "2026-11-04T02:15:34.000Z"
+    "lastUpdated": "2026-11-05T07:01:04.000Z"
   },
   {
     "lender": "CommBank",
@@ -2309,7 +2309,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "5af96243b945460cb98a373de7688008",
-    "lastUpdated": "2026-11-04T02:15:33.000Z"
+    "lastUpdated": "2026-11-05T02:15:33.000Z"
   },
   {
     "lender": "CommBank",
@@ -2338,7 +2338,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "a443a21d7a7a4a339e850a3c1ead0c12",
-    "lastUpdated": "2026-11-04T02:15:33.000Z"
+    "lastUpdated": "2026-11-05T02:15:33.000Z"
   },
   {
     "lender": "CommBank",
@@ -2422,7 +2422,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "38bca0f2a8c54e828ca954325c0aea17",
-    "lastUpdated": "2026-11-04T02:15:40.000Z"
+    "lastUpdated": "2026-11-05T07:00:26.000Z"
   },
   {
     "lender": "Community First Credit Union",
@@ -4158,7 +4158,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "3120",
-    "lastUpdated": "2026-10-08T13:00:00Z"
+    "lastUpdated": "2026-11-04T13:00:00Z"
   },
   {
     "lender": "Greater Bank",
@@ -4186,7 +4186,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "3100",
-    "lastUpdated": "2026-10-08T13:00:00Z"
+    "lastUpdated": "2026-11-04T13:00:00Z"
   },
   {
     "lender": "Greater Bank",
@@ -4214,7 +4214,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "3110",
-    "lastUpdated": "2026-10-08T13:00:00Z"
+    "lastUpdated": "2026-11-04T13:00:00Z"
   },
   {
     "lender": "Greater Bank",
@@ -4242,7 +4242,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "3125",
-    "lastUpdated": "2026-10-08T13:00:00Z"
+    "lastUpdated": "2026-11-04T13:00:00Z"
   },
   {
     "lender": "Greater Bank",
@@ -4270,7 +4270,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "3105",
-    "lastUpdated": "2026-10-08T13:00:00Z"
+    "lastUpdated": "2026-11-04T13:00:00Z"
   },
   {
     "lender": "Greater Bank",
@@ -4298,7 +4298,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "3115",
-    "lastUpdated": "2026-10-08T13:00:00Z"
+    "lastUpdated": "2026-11-04T13:00:00Z"
   },
   {
     "lender": "Greater Bank",
@@ -4326,7 +4326,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "3130",
-    "lastUpdated": "2026-10-08T13:00:00Z"
+    "lastUpdated": "2026-11-04T13:00:00Z"
   },
   {
     "lender": "Greater Bank",
@@ -4354,7 +4354,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "3140",
-    "lastUpdated": "2026-10-08T13:00:00Z"
+    "lastUpdated": "2026-11-04T13:00:00Z"
   },
   {
     "lender": "Greater Bank",
@@ -4382,7 +4382,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "3135",
-    "lastUpdated": "2026-10-08T13:00:00Z"
+    "lastUpdated": "2026-11-04T13:00:00Z"
   },
   {
     "lender": "Greater Bank",
@@ -4410,7 +4410,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "3145",
-    "lastUpdated": "2026-10-08T13:00:00Z"
+    "lastUpdated": "2026-11-04T13:00:00Z"
   },
   {
     "lender": "Greater Bank",
@@ -4438,7 +4438,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "3180",
-    "lastUpdated": "2026-10-08T13:00:00Z"
+    "lastUpdated": "2026-11-04T13:00:00Z"
   },
   {
     "lender": "Greater Bank",
@@ -4466,7 +4466,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "3160",
-    "lastUpdated": "2026-10-08T13:00:00Z"
+    "lastUpdated": "2026-11-04T13:00:00Z"
   },
   {
     "lender": "Greater Bank",
@@ -4494,7 +4494,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "3170",
-    "lastUpdated": "2026-10-08T13:00:00Z"
+    "lastUpdated": "2026-11-04T13:00:00Z"
   },
   {
     "lender": "Greater Bank",
@@ -4522,7 +4522,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "3185",
-    "lastUpdated": "2026-10-08T13:00:00Z"
+    "lastUpdated": "2026-11-04T13:00:00Z"
   },
   {
     "lender": "Greater Bank",
@@ -4550,7 +4550,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "3165",
-    "lastUpdated": "2026-10-08T13:00:00Z"
+    "lastUpdated": "2026-11-04T13:00:00Z"
   },
   {
     "lender": "Greater Bank",
@@ -4578,7 +4578,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "3175",
-    "lastUpdated": "2026-10-08T13:00:00Z"
+    "lastUpdated": "2026-11-04T13:00:00Z"
   },
   {
     "lender": "Greater Bank",
@@ -4606,7 +4606,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "3190",
-    "lastUpdated": "2026-10-08T13:00:00Z"
+    "lastUpdated": "2026-11-04T13:00:00Z"
   },
   {
     "lender": "Greater Bank",
@@ -4634,7 +4634,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "3200",
-    "lastUpdated": "2026-10-08T13:00:00Z"
+    "lastUpdated": "2026-11-04T13:00:00Z"
   },
   {
     "lender": "Greater Bank",
@@ -4662,7 +4662,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "3195",
-    "lastUpdated": "2026-10-08T13:00:00Z"
+    "lastUpdated": "2026-11-04T13:00:00Z"
   },
   {
     "lender": "Greater Bank",
@@ -4690,7 +4690,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "3205",
-    "lastUpdated": "2026-10-08T13:00:00Z"
+    "lastUpdated": "2026-11-04T13:00:00Z"
   },
   {
     "lender": "Greater Bank",
@@ -4718,7 +4718,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "3090",
-    "lastUpdated": "2026-10-14T13:00:00Z"
+    "lastUpdated": "2026-11-04T13:00:00Z"
   },
   {
     "lender": "Greater Bank",
@@ -4746,7 +4746,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "3095",
-    "lastUpdated": "2026-10-08T13:00:00Z"
+    "lastUpdated": "2026-11-04T13:00:00Z"
   },
   {
     "lender": "Greater Bank",
@@ -4774,7 +4774,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "3150",
-    "lastUpdated": "2026-10-08T13:00:00Z"
+    "lastUpdated": "2026-11-04T13:00:00Z"
   },
   {
     "lender": "Greater Bank",
@@ -4802,7 +4802,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "3155",
-    "lastUpdated": "2026-10-08T13:00:00Z"
+    "lastUpdated": "2026-11-04T13:00:00Z"
   },
   {
     "lender": "Greater Bank",
@@ -4830,7 +4830,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "3235",
-    "lastUpdated": "2026-10-14T13:00:00Z"
+    "lastUpdated": "2026-11-04T13:00:00Z"
   },
   {
     "lender": "Greater Bank",
@@ -4858,7 +4858,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "3240",
-    "lastUpdated": "2026-10-14T13:00:00Z"
+    "lastUpdated": "2026-11-04T13:00:00Z"
   },
   {
     "lender": "Greater Bank",
@@ -4886,7 +4886,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "3245",
-    "lastUpdated": "2026-10-14T13:00:00Z"
+    "lastUpdated": "2026-11-04T13:00:00Z"
   },
   {
     "lender": "Greater Bank",
@@ -4914,7 +4914,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "3250",
-    "lastUpdated": "2026-10-14T13:00:00Z"
+    "lastUpdated": "2026-11-04T13:00:00Z"
   },
   {
     "lender": "HORIZON BANK",
@@ -4943,7 +4943,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "L19_L190001",
-    "lastUpdated": "2025-10-30T09:24:46.000+11:00"
+    "lastUpdated": "2026-11-04T11:01:31.000+11:00"
   },
   {
     "lender": "HORIZON BANK",
@@ -4971,7 +4971,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "S9_S90001",
-    "lastUpdated": "2026-07-01T09:11:50.000+10:00"
+    "lastUpdated": "2026-11-04T10:48:24.000+11:00"
   },
   {
     "lender": "IMB Bank",
@@ -6139,7 +6139,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "158",
-    "lastUpdated": "2026-11-03T20:00:29.2114598Z"
+    "lastUpdated": "2026-11-04T20:00:23.6498617Z"
   },
   {
     "lender": "POLICE CREDIT UNION LIMITED",
@@ -6168,7 +6168,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "Commercial_Vehicle_Fixed",
-    "lastUpdated": "2026-10-06T14:22:01.000+10:30"
+    "lastUpdated": "2026-11-04T16:06:30.000+10:30"
   },
   {
     "lender": "POLICE CREDIT UNION LIMITED",
@@ -6449,7 +6449,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "Commercial_Vehicle_Variable_loan",
-    "lastUpdated": "2026-10-30T14:14:10.000+10:30"
+    "lastUpdated": "2026-11-04T15:37:53.000+10:30"
   },
   {
     "lender": "POLICE CREDIT UNION LIMITED",
@@ -6760,7 +6760,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "77",
-    "lastUpdated": "2026-11-03T20:00:26.9232245Z"
+    "lastUpdated": "2026-11-04T20:00:25.8638137Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -6789,7 +6789,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "78",
-    "lastUpdated": "2026-11-03T20:00:26.9232245Z"
+    "lastUpdated": "2026-11-04T20:00:25.8638137Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -6818,7 +6818,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "79",
-    "lastUpdated": "2026-11-03T20:00:26.9232245Z"
+    "lastUpdated": "2026-11-04T20:00:25.8638137Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -6847,7 +6847,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "80",
-    "lastUpdated": "2026-11-03T20:00:26.9232245Z"
+    "lastUpdated": "2026-11-04T20:00:25.8638137Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -6875,7 +6875,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "44",
-    "lastUpdated": "2026-11-03T20:00:26.9232245Z"
+    "lastUpdated": "2026-11-04T20:00:25.8638137Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -6904,7 +6904,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "47",
-    "lastUpdated": "2026-11-03T20:00:26.9232245Z"
+    "lastUpdated": "2026-11-04T20:00:25.8638137Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -6932,7 +6932,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "48",
-    "lastUpdated": "2026-11-03T20:00:26.9232245Z"
+    "lastUpdated": "2026-11-04T20:00:25.8638137Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -6960,7 +6960,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "45",
-    "lastUpdated": "2026-11-03T20:00:26.9232245Z"
+    "lastUpdated": "2026-11-04T20:00:25.8638137Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -6988,7 +6988,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "36",
-    "lastUpdated": "2026-11-03T20:00:26.9232245Z"
+    "lastUpdated": "2026-11-04T20:00:25.8638137Z"
   },
   {
     "lender": "Queensland Country Bank",
@@ -7016,7 +7016,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "35",
-    "lastUpdated": "2026-11-03T20:00:26.9232245Z"
+    "lastUpdated": "2026-11-04T20:00:25.8638137Z"
   },
   {
     "lender": "RACQ Bank",
@@ -7334,91 +7334,6 @@
     "lastUpdated": "2025-12-16T14:22:28.000+11:00"
   },
   {
-    "lender": "St.George Bank",
-    "product": "Variable Rate Small Business Loan",
-    "type": "unsecured_term",
-    "rate": 9.48,
-    "feeFlat": 0,
-    "feePct": 0,
-    "feeMo": 0,
-    "min": 20000,
-    "max": 5000000,
-    "maxTerm": 360,
-    "sec": [
-      "none",
-      "residential",
-      "commercial",
-      "business_assets"
-    ],
-    "trade": 0,
-    "turn": 0,
-    "fund": 7,
-    "io": false,
-    "feat": [
-      "CDR-sourced product data"
-    ],
-    "source": "CDR",
-    "category": "BUSINESS_LOANS",
-    "productId": "STGVariableRateSmallBusinessLoan",
-    "lastUpdated": "2026-10-28T04:47:43Z"
-  },
-  {
-    "lender": "St.George Bank",
-    "product": "Commercial Unsecured Overdraft",
-    "type": "line_of_credit",
-    "rate": 10.06,
-    "feeFlat": 0,
-    "feePct": 0,
-    "feeMo": 0,
-    "min": 5000,
-    "max": 5000000,
-    "maxTerm": 120,
-    "sec": [
-      "residential",
-      "commercial",
-      "business_assets"
-    ],
-    "trade": 0,
-    "turn": 0,
-    "fund": 7,
-    "io": true,
-    "feat": [
-      "CDR-sourced product data"
-    ],
-    "source": "CDR",
-    "category": "OVERDRAFTS",
-    "productId": "STGUnsecuredCommercialOverdraft",
-    "lastUpdated": "2026-10-28T04:47:44Z"
-  },
-  {
-    "lender": "St.George Bank",
-    "product": "Commercial Overdraft",
-    "type": "overdraft",
-    "rate": 10.06,
-    "feeFlat": 0,
-    "feePct": 0,
-    "feeMo": 0,
-    "min": 5000,
-    "max": 5000000,
-    "maxTerm": 120,
-    "sec": [
-      "residential",
-      "commercial",
-      "business_assets"
-    ],
-    "trade": 0,
-    "turn": 0,
-    "fund": 7,
-    "io": true,
-    "feat": [
-      "CDR-sourced product data"
-    ],
-    "source": "CDR",
-    "category": "OVERDRAFTS",
-    "productId": "STGCommercialOverdraft",
-    "lastUpdated": "2026-10-28T04:47:43Z"
-  },
-  {
     "lender": "Summerland Bank",
     "product": "Business Loan",
     "type": "unsecured_term",
@@ -7445,7 +7360,7 @@
     "source": "CDR",
     "category": "BUSINESS_LOANS",
     "productId": "64",
-    "lastUpdated": "2026-11-03T20:00:43.3576114Z"
+    "lastUpdated": "2026-11-04T20:00:41.3758782Z"
   },
   {
     "lender": "Summerland Bank",
@@ -7473,7 +7388,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "63",
-    "lastUpdated": "2026-11-03T20:00:43.3576114Z"
+    "lastUpdated": "2026-11-04T20:00:41.3758782Z"
   },
   {
     "lender": "Summerland Bank",
@@ -7501,7 +7416,7 @@
     "source": "CDR",
     "category": "OVERDRAFTS",
     "productId": "84",
-    "lastUpdated": "2026-11-03T20:00:43.3576114Z"
+    "lastUpdated": "2026-11-04T20:00:41.3758782Z"
   },
   {
     "lender": "THE CAPRICORNIAN",
